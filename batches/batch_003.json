@@ -1,0 +1,1157 @@
+[
+{
+"si": 10,
+"ei": 4,
+"src": "The worms told me about the wandering Titan. And how he visited the Villa."
+},
+{
+"si": 10,
+"ei": 5,
+"src": "Changes lie ahead. And grave danger, for all of the Flesh."
+},
+{
+"si": 10,
+"ei": 6,
+"src": "At least Morrowmeat is alive still. I was glad to see this."
+},
+{
+"si": 10,
+"ei": 7,
+"src": "Do you still think that the Feeder is dangerous?"
+},
+{
+"si": 10,
+"ei": 8,
+"src": "Yes, I truly think he is."
+},
+{
+"si": 10,
+"ei": 9,
+"src": "The Feeder threatens what is most precious to me: The lives and the souls of the Titans."
+},
+{
+"si": 10,
+"ei": 10,
+"src": "I do not see clearly what he plans to do. But I fear that it cannot be good. Not for the Titans, and not for us, their protectors."
+},
+{
+"si": 10,
+"ei": 11,
+"src": "I became a Worm Shaman because I care, and I won't stop caring."
+},
+{
+"si": 10,
+"ei": 12,
+"src": "Do you care, too?"
+},
+{
+"si": 10,
+"ei": 13,
+"src": "I don't know."
+},
+{
+"si": 10,
+"ei": 14,
+"src": "Hmmh."
+},
+{
+"si": 10,
+"ei": 15,
+"src": "You should be careful how you spend your time here on Nexus."
+},
+{
+"si": 10,
+"ei": 16,
+"src": "The worms will be watching you."
+},
+{
+"si": 10,
+"ei": 17,
+"src": "Yes."
+},
+{
+"si": 10,
+"ei": 18,
+"src": "I'm glad, **forename** of the Flesh."
+},
+{
+"si": 10,
+"ei": 19,
+"src": "What do you think of Morrowmeat?"
+},
+{
+"si": 10,
+"ei": 20,
+"src": "It's an abomination."
+},
+{
+"si": 10,
+"ei": 21,
+"src": "Eh, I don't think he's so bad."
+},
+{
+"si": 10,
+"ei": 22,
+"src": "No. This city I mean. This graveyard built from stone and ashes."
+},
+{
+"si": 10,
+"ei": 23,
+"src": "Morrowmeat is sick. He's suffering. But still he is exploited to provide meat."
+},
+{
+"si": 10,
+"ei": 24,
+"src": "This is not how it should be. The Titans and their profound souls should nurture our souls. They should enrich us."
+},
+{
+"si": 10,
+"ei": 25,
+"src": "Not only through their flesh."
+},
+{
+"si": 10,
+"ei": 26,
+"src": "I have the means to enter the Temple."
+},
+{
+"si": 10,
+"ei": 27,
+"src": "Then enter and talk to Mother. Meet her with respect."
+},
+{
+"si": 10,
+"ei": 28,
+"src": "And do not mention my name."
+},
+{
+"si": 10,
+"ei": 29,
+"src": "I'll stay outside."
+},
+{
+"si": 10,
+"ei": 30,
+"src": "Why?"
+},
+{
+"si": 10,
+"ei": 31,
+"src": "Mother and I had a difference of opinion."
+},
+{
+"si": 10,
+"ei": 32,
+"src": "It should not trouble you. Just don't talk to her about it."
+},
+{
+"si": 10,
+"ei": 33,
+"src": "By the Titans, **forename** of the Flesh."
+},
+{
+"si": 10,
+"ei": 34,
+"src": "It is good to see you still being alive."
+},
+{
+"si": 10,
+"ei": 35,
+"src": "Aksa."
+},
+{
+"si": 10,
+"ei": 36,
+"src": "It's been a while since I've been here in the Perished City."
+},
+{
+"si": 10,
+"ei": 37,
+"src": "{She sniffs.}"
+},
+{
+"si": 10,
+"ei": 38,
+"src": "It reeks of rotten flesh."
+},
+{
+"si": 10,
+"ei": 39,
+"src": "What are you doing here?"
+},
+{
+"si": 10,
+"ei": 40,
+"src": "{She sighs.}"
+},
+{
+"si": 10,
+"ei": 41,
+"src": "I wanted to visit one of my old friends."
+},
+{
+"si": 10,
+"ei": 42,
+"src": "But I couldn't. I won't. She wouldn't be happy to see me."
+},
+{
+"si": 10,
+"ei": 43,
+"src": "She's here in the Temple?"
+},
+{
+"si": 10,
+"ei": 44,
+"src": "{She nods.}"
+},
+{
+"si": 10,
+"ei": 45,
+"src": "Yes, **forename** of the Flesh. It's her temple. It's Mother's temple."
+},
+{
+"si": 12,
+"ei": 0,
+"src": "Welcome back."
+},
+{
+"si": 12,
+"ei": 1,
+"src": "Did you get into the city?"
+},
+{
+"si": 12,
+"ei": 2,
+"src": "Not yet."
+},
+{
+"si": 14,
+"ei": 0,
+"src": "*hiss*"
+},
+{
+"si": 14,
+"ei": 1,
+"src": "Blergh."
+},
+{
+"si": 14,
+"ei": 2,
+"src": "Grrr."
+},
+{
+"si": 14,
+"ei": 3,
+"src": "Kchr."
+},
+{
+"si": 16,
+"ei": 0,
+"src": "[Examine the animal.]"
+},
+{
+"si": 16,
+"ei": 1,
+"src": "{The animal is large and bulky. It seems to be friendly in nature.}"
+},
+{
+"si": 16,
+"ei": 2,
+"src": "{The animal is quiet and relaxed.}"
+},
+{
+"si": 16,
+"ei": 3,
+"src": "{The animal is experiencing a lot of stress currently.}"
+},
+{
+"si": 16,
+"ei": 4,
+"src": "[Attack the animal.]"
+},
+{
+"si": 16,
+"ei": 5,
+"src": "[Try calming the animal.]"
+},
+{
+"si": 16,
+"ei": 6,
+"src": "Easy now, it's all right."
+},
+{
+"si": 16,
+"ei": 7,
+"src": "{You are successful in calming the animal.}"
+},
+{
+"si": 16,
+"ei": 8,
+"src": "*gurgles*"
+},
+{
+"si": 18,
+"ei": 0,
+"src": "It's staring at me."
+},
+{
+"si": 18,
+"ei": 1,
+"src": "[Summarize your thoughts about the painting.]"
+},
+{
+"si": 18,
+"ei": 2,
+"src": "Hmmh. Still a flesh thingy with a big eye."
+},
+{
+"si": 18,
+"ei": 3,
+"src": "I think it's a flesh thingy with a big eye."
+},
+{
+"si": 18,
+"ei": 4,
+"src": "[Continue pondering the painting.]"
+},
+{
+"si": 18,
+"ei": 5,
+"src": "[Ponder the painting.]"
+},
+{
+"si": 20,
+"ei": 0,
+"src": "Welcome back."
+},
+{
+"si": 20,
+"ei": 1,
+"src": "The maggots are still there, I guess?"
+},
+{
+"si": 20,
+"ei": 2,
+"src": "Yes. they're back there in the cellar, where we keep our meat."
+},
+{
+"si": 20,
+"ei": 3,
+"src": "Just hurry with this, okay?"
+},
+{
+"si": 20,
+"ei": 4,
+"src": "I got the poison."
+},
+{
+"si": 20,
+"ei": 5,
+"src": "Very good. Could you take care of the maggots then, please?"
+},
+{
+"si": 20,
+"ei": 6,
+"src": "Ok."
+},
+{
+"si": 20,
+"ei": 7,
+"src": "I'm done with the Flesh Maggots."
+},
+{
+"si": 20,
+"ei": 8,
+"src": "Really? Great!"
+},
+{
+"si": 20,
+"ei": 9,
+"src": "The guests were already beginning to wonder why the meat started to taste differently."
+},
+{
+"si": 20,
+"ei": 10,
+"src": "Here, take this as a thank you."
+},
+{
+"si": 20,
+"ei": 11,
+"src": "Any work around here?"
+},
+{
+"si": 20,
+"ei": 12,
+"src": "Something worrying you?"
+},
+{
+"si": 20,
+"ei": 13,
+"src": "Actually, yes. We got a little pest problem."
+},
+{
+"si": 20,
+"ei": 14,
+"src": "Again."
+},
+{
+"si": 20,
+"ei": 15,
+"src": "Oh, alright."
+},
+{
+"si": 20,
+"ei": 16,
+"src": "But since you're asking, wanna help us out with that?"
+},
+{
+"si": 20,
+"ei": 17,
+"src": "Nah."
+},
+{
+"si": 20,
+"ei": 18,
+"src": "Ok then. I guess it was too much to hope to have a helping hand here."
+},
+{
+"si": 20,
+"ei": 19,
+"src": "Sure."
+},
+{
+"si": 20,
+"ei": 20,
+"src": "Great."
+},
+{
+"si": 20,
+"ei": 21,
+"src": "You see, flesh maggots have made their nest inside the bar's meat reserves."
+},
+{
+"si": 20,
+"ei": 22,
+"src": "And to get rid of 'em we need something potent."
+},
+{
+"si": 20,
+"ei": 23,
+"src": "Eh... Is that the meat you're serving here?"
+},
+{
+"si": 20,
+"ei": 24,
+"src": "Yes."
+},
+{
+"si": 20,
+"ei": 25,
+"src": "Like I said, we need something potent against flesh maggots."
+},
+{
+"si": 20,
+"ei": 26,
+"src": "But we ran out of poison."
+},
+{
+"si": 20,
+"ei": 27,
+"src": "There's a doctor up in Tauris. He sold us the last batch. Try it over there."
+},
+{
+"si": 20,
+"ei": 28,
+"src": "Alright. Will do."
+},
+{
+"si": 20,
+"ei": 29,
+"src": "I heard the doctor is dead."
+},
+{
+"si": 20,
+"ei": 30,
+"src": "What? Ohh, fuck me. What a miserable world."
+},
+{
+"si": 20,
+"ei": 31,
+"src": "I have to make do without the poison then. Thanks for letting me know."
+},
+{
+"si": 20,
+"ei": 32,
+"src": "Anything else?"
+},
+{
+"si": 20,
+"ei": 33,
+"src": "So this is the Puke Bar..."
+},
+{
+"si": 20,
+"ei": 34,
+"src": "Anything interesting?"
+},
+{
+"si": 20,
+"ei": 35,
+"src": "Always. There are travelers stopping by here."
+},
+{
+"si": 20,
+"ei": 36,
+"src": "Drinks and food are good. Obviously."
+},
+{
+"si": 20,
+"ei": 37,
+"src": "We have a Cyberwomb room that may or may not be functional."
+},
+{
+"si": 20,
+"ei": 38,
+"src": "And the Bar is old enough that it has some secrets I can't tell you about."
+},
+{
+"si": 20,
+"ei": 39,
+"src": "Obviously."
+},
+{
+"si": 20,
+"ei": 40,
+"src": "Correct."
+},
+{
+"si": 20,
+"ei": 41,
+"src": "Do you know where I can find the Oracle?"
+},
+{
+"si": 20,
+"ei": 42,
+"src": "Never heard of an Oracle."
+},
+{
+"si": 20,
+"ei": 43,
+"src": "But if you're religious or something like that you should probably head east towards New Delphi."
+},
+{
+"si": 20,
+"ei": 44,
+"src": "Occasionally pilgrims are making a stop here and trying to convert me, haha."
+},
+{
+"si": 20,
+"ei": 45,
+"src": "Ok. Thank you."
+},
+{
+"si": 20,
+"ei": 46,
+"src": "Welcome to the Puke Bar."
+},
+{
+"si": 20,
+"ei": 47,
+"src": "I'm Eldred."
+},
+{
+"si": 20,
+"ei": 48,
+"src": "What do you need? Booze? Meat? Something else?"
+},
+{
+"si": 22,
+"ei": 0,
+"src": "Looks like this machine is connected to the gate."
+},
+{
+"si": 22,
+"ei": 1,
+"src": "But the gate is open now. I don't need this anymore."
+},
+{
+"si": 22,
+"ei": 2,
+"src": "[Try to open the gate.]"
+},
+{
+"si": 22,
+"ei": 3,
+"src": "Yeah, looks like this is gonna work."
+},
+{
+"si": 24,
+"ei": 0,
+"src": "Looks like someone's living here."
+},
+{
+"si": 26,
+"ei": 0,
+"src": "Welcome, **forename**."
+},
+{
+"si": 26,
+"ei": 1,
+"src": "You have returned."
+},
+{
+"si": 26,
+"ei": 2,
+"src": "Now, speak your desire."
+},
+{
+"si": 26,
+"ei": 3,
+"src": "Can I revisit your mind?"
+},
+{
+"si": 26,
+"ei": 4,
+"src": "That is an odd request."
+},
+{
+"si": 26,
+"ei": 5,
+"src": "But, since you've been there already, I guess I feel comfortable having you around again."
+},
+{
+"si": 26,
+"ei": 6,
+"src": "Are you ready for this?"
+},
+{
+"si": 26,
+"ei": 7,
+"src": "Not right now."
+},
+{
+"si": 26,
+"ei": 8,
+"src": "Good. I'll be here, waiting for you."
+},
+{
+"si": 26,
+"ei": 9,
+"src": "Yes."
+},
+{
+"si": 26,
+"ei": 10,
+"src": "Then stay calm and embrace my thoughts..."
+},
+{
+"si": 26,
+"ei": 11,
+"src": "Do you feel better now?"
+},
+{
+"si": 26,
+"ei": 12,
+"src": "Yes, I do."
+},
+{
+"si": 26,
+"ei": 13,
+"src": "Thank you for caring about me."
+},
+{
+"si": 26,
+"ei": 14,
+"src": "It's all fractured still. And hazy."
+},
+{
+"si": 26,
+"ei": 15,
+"src": "But, finally, I feel like myself again. I am seeing again. I am a master of my own mind again."
+},
+{
+"si": 26,
+"ei": 16,
+"src": "You were not the master of your own mind?"
+},
+{
+"si": 26,
+"ei": 17,
+"src": "No. He caught up to me. He found me."
+},
+{
+"si": 26,
+"ei": 18,
+"src": "Who?"
+},
+{
+"si": 26,
+"ei": 19,
+"src": "The Feeder did."
+},
+{
+"si": 26,
+"ei": 20,
+"src": "This is what I had feared. This is why I had asked for help."
+},
+{
+"si": 26,
+"ei": 21,
+"src": "The Feeder reached me, and not only that, but he chained me, manipulated me, brainwashed me."
+},
+{
+"si": 26,
+"ei": 22,
+"src": "He was the master of my mind."
+},
+{
+"si": 26,
+"ei": 23,
+"src": "What did he want?"
+},
+{
+"si": 26,
+"ei": 24,
+"src": "He's in search of the Wormwound."
+},
+{
+"si": 26,
+"ei": 25,
+"src": "The Wormwound?"
+},
+{
+"si": 26,
+"ei": 26,
+"src": "The origin. The flesh. I don't really know. I feel it as a presence, but I don't know what it is."
+},
+{
+"si": 26,
+"ei": 27,
+"src": "It's connected to the Flesh Nexus. As am I."
+},
+{
+"si": 26,
+"ei": 28,
+"src": "I have an infection. I feel like I'm connected to the flesh, too."
+},
+{
+"si": 26,
+"ei": 29,
+"src": "I know you have a connection. I wouldn't have reached you over that distance, otherwise."
+},
+{
+"si": 26,
+"ei": 30,
+"src": "Now that my mind isn't that fuzzy anymore... Are you really a worm shaman?"
+},
+{
+"si": 26,
+"ei": 31,
+"src": "No, I am not."
+},
+{
+"si": 26,
+"ei": 32,
+"src": "Hmmh. Well, that's a pity. But I guess you helped me nonetheless."
+},
+{
+"si": 26,
+"ei": 33,
+"src": "You think this Wormwound might give me answers about my infection? Or heal me from it?"
+},
+{
+"si": 26,
+"ei": 34,
+"src": "I... honestly don't know. I'm sure you'll find answers when finding the Wormwound, but I don't know what kind of answers those will be."
+},
+{
+"si": 26,
+"ei": 35,
+"src": "So where's the Wormwound?"
+},
+{
+"si": 26,
+"ei": 36,
+"src": "I don't know. The Feeder questioned me. Painfully."
+},
+{
+"si": 26,
+"ei": 37,
+"src": "The agony. The sweet, sweet agony."
+},
+{
+"si": 26,
+"ei": 38,
+"src": "But I couldn't tell. Because I don't know."
+},
+{
+"si": 26,
+"ei": 39,
+"src": "I feel that it's up north from here. And that's what he felt from me, too."
+},
+{
+"si": 26,
+"ei": 40,
+"src": "The Perished City will have the answers. It has to."
+},
+{
+"si": 26,
+"ei": 41,
+"src": "How do I get to the Perished City?"
+},
+{
+"si": 26,
+"ei": 42,
+"src": "Last I heard, the city is closed. But I listened to many travelers throughout the years. Some of them found a path through the mountains."
+},
+{
+"si": 26,
+"ei": 43,
+"src": "There's something else though..."
+},
+{
+"si": 26,
+"ei": 44,
+"src": "Yes?"
+},
+{
+"si": 26,
+"ei": 45,
+"src": "The Feeder. If the Feeder is interested in the Wormwound, and searching for it, then this does not bode well."
+},
+{
+"si": 26,
+"ei": 46,
+"src": "He killed the philosopher."
+},
+{
+"si": 26,
+"ei": 47,
+"src": "Oh. This makes me sad to hear."
+},
+{
+"si": 26,
+"ei": 48,
+"src": "He's dangerous and up to no good. So if you would wander north, in the search of the Wormwound, please be careful."
+},
+{
+"si": 26,
+"ei": 49,
+"src": "I will."
+},
+{
+"si": 26,
+"ei": 50,
+"src": "Farewell. I will rest now."
+},
+{
+"si": 26,
+"ei": 51,
+"src": "Goodbye."
+},
+{
+"si": 26,
+"ei": 52,
+"src": "Yes, I am."
+},
+{
+"si": 26,
+"ei": 53,
+"src": "That is good to hear. It's good to know there are still people around taking care about the Flesh Titans."
+},
+{
+"si": 26,
+"ei": 54,
+"src": "You asked for help."
+},
+{
+"si": 26,
+"ei": 55,
+"src": "You touch me. You embrace me."
+},
+{
+"si": 26,
+"ei": 56,
+"src": "You open your mind, and then I let you in, and you see what's wrong, what's messed up."
+},
+{
+"si": 26,
+"ei": 57,
+"src": "You'll fix it. You fix my mind. You're a worm shaman from the wasteland."
+},
+{
+"si": 26,
+"ei": 58,
+"src": "I will have to think about this."
+},
+{
+"si": 26,
+"ei": 59,
+"src": "Then speak your desire."
+},
+{
+"si": 26,
+"ei": 60,
+"src": "Alright. Let's try this."
+},
+{
+"si": 26,
+"ei": 61,
+"src": "Worm shaman. You’ve heard my call. You are here to rescue me."
+},
+{
+"si": 26,
+"ei": 62,
+"src": "A great deal of responsibility rests on your shoulders, this I can tell."
+},
+{
+"si": 26,
+"ei": 63,
+"src": "I’ve cried. I screamed."
+},
+{
+"si": 26,
+"ei": 64,
+"src": "But is it too late? Or is there a sense of hope we can latch on to?"
+},
+{
+"si": 26,
+"ei": 65,
+"src": "Who’s speaking here? Be quiet. ... BE QUIET!"
+},
+{
+"si": 26,
+"ei": 66,
+"src": "He told me you would come. But I already knew that you would come."
+},
+{
+"si": 26,
+"ei": 67,
+"src": "He's not omniscient, you know?"
+},
+{
+"si": 26,
+"ei": 68,
+"src": "I suppose he can foretell, too?"
+},
+{
+"si": 26,
+"ei": 69,
+"src": "Not that I can. Nobody can."
+},
+{
+"si": 26,
+"ei": 70,
+"src": "You have to help me. This is all too much. The memories... I cannot silence them anymore. You have to help me."
+},
+{
+"si": 28,
+"ei": 0,
+"src": "Speak! The Oracle awaits your words."
+},
+{
+"si": 28,
+"ei": 1,
+"src": "I want to leave this place now."
+},
+{
+"si": 28,
+"ei": 2,
+"src": "I won't hold you back anymore."
+},
+{
+"si": 28,
+"ei": 3,
+"src": "You can leave anytime."
+},
+{
+"si": 28,
+"ei": 4,
+"src": "THERE IS NO GOING BACK! We are together now."
+},
+{
+"si": 28,
+"ei": 5,
+"src": "About the rules..."
+},
+{
+"si": 28,
+"ei": 6,
+"src": "The rules. I cannot abide the rules. ... Do you know the rules?"
+},
+{
+"si": 28,
+"ei": 7,
+"src": "No."
+},
+{
+"si": 28,
+"ei": 8,
+"src": "Then don't ask me about them."
+},
+{
+"si": 28,
+"ei": 9,
+"src": "I don't know."
+},
+{
+"si": 28,
+"ei": 10,
+"src": "No, you do not know. I can feel it. I can read it."
+},
+{
+"si": 28,
+"ei": 11,
+"src": "I know enough about them."
+},
+{
+"si": 28,
+"ei": 12,
+"src": "I... this is strange. I can sense that you're speaking the truth."
+},
+{
+"si": 28,
+"ei": 13,
+"src": "You're not the Feeder. You're not me. Who are you?"
+},
+{
+"si": 28,
+"ei": 14,
+"src": "I am still myself. In your mind."
+},
+{
+"si": 28,
+"ei": 15,
+"src": "You've seen the rules?"
+},
+{
+"si": 28,
+"ei": 16,
+"src": "Yes. But I think they are guidelines, not rules."
+},
+{
+"si": 28,
+"ei": 17,
+"src": "The Feeder told me to strictly follow the rules."
+},
+{
+"si": 28,
+"ei": 18,
+"src": "He is wrong. You're an Oracle. You interpret. You guide. You don't follow rules."
+},
+{
+"si": 28,
+"ei": 19,
+"src": "But the voices..."
+},
+{
+"si": 28,
+"ei": 20,
+"src": "You don't have to listen to all voices all the time."
+},
+{
+"si": 28,
+"ei": 21,
+"src": "You talk to some. Not all of them."
+},
+{
+"si": 28,
+"ei": 22,
+"src": "Ok. I'll let your mind go now."
+},
+{
+"si": 28,
+"ei": 23,
+"src": "How do you feel?"
+},
+{
+"si": 28,
+"ei": 24,
+"src": "I feel better now. You should leave my mind so we can talk in the real world."
+},
+{
+"si": 28,
+"ei": 25,
+"src": "Welcome to my domain. I am the all-seeing mind. I watch and guide all living beings that approach me."
+},
+{
+"si": 28,
+"ei": 26,
+"src": "But who can last an eternity? What strength does the all-seeing mind have against the tides of time?"
+},
+{
+"si": 28,
+"ei": 27,
+"src": "A crack, a fracture, widening due to neglect, and being worn out by the steady rhythm of incoming guests."
+},
+{
+"si": 28,
+"ei": 28,
+"src": "What is the purpose of those who approach me? Do they want to see the world like I do?"
+},
+{
+"si": 28,
+"ei": 29,
+"src": "Or do they want to be told that there is nothing further to be seen?"
+},
+{
+"si": 28,
+"ei": 30,
+"src": "Do they need reassurance, and their fear taken away, or are they ready to see more possibilities?"
+},
+{
+"si": 28,
+"ei": 31,
+"src": "What is your desire?"
+},
+{
+"si": 28,
+"ei": 32,
+"src": "You asked for my help."
+},
+{
+"si": 28,
+"ei": 33,
+"src": "Where are we?"
+},
+{
+"si": 28,
+"ei": 34,
+"src": "We are nowhere. We are everywhere at once. We are inside my mind, and this mind is endless."
+},
+{
+"si": 28,
+"ei": 35,
+"src": "Your body remains in that cave."
+},
+{
+"si": 28,
+"ei": 36,
+"src": "THERE IS NO GOING BACK! We are together now."
+},
+{
+"si": 28,
+"ei": 37,
+"src": "The rules! I forgot about the rules again."
+},
+{
+"si": 28,
+"ei": 38,
+"src": "I imposed my will on those seeking guidance. I created fate instead of showing it."
+},
+{
+"si": 28,
+"ei": 39,
+"src": "The Feeder said to follow the rules."
+},
+{
+"si": 28,
+"ei": 40,
+"src": "Can I see those rules?"
+},
+{
+"si": 28,
+"ei": 41,
+"src": "The rules? Are those to be followed?"
+}
+]

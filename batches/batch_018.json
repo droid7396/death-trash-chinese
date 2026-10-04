@@ -1,0 +1,1662 @@
+[
+{
+"si": 469,
+"ei": 33,
+"src": "Forgive me, but there is nothing I can do for you now."
+},
+{
+"si": 469,
+"ei": 34,
+"src": "You may have better luck visiting the priest at Titan's Guts."
+},
+{
+"si": 469,
+"ei": 35,
+"src": "I wish you success on your pilgrimage."
+},
+{
+"si": 469,
+"ei": 36,
+"src": "The priest of the Titan's Guts east of here will have further information for you."
+},
+{
+"si": 469,
+"ei": 37,
+"src": "It appears that the Titans have indeed blessed you."
+},
+{
+"si": 471,
+"ei": 0,
+"src": "He's dead."
+},
+{
+"si": 471,
+"ei": 1,
+"src": "Have you come back?"
+},
+{
+"si": 471,
+"ei": 2,
+"src": "Do you not see how I am suffering?"
+},
+{
+"si": 471,
+"ei": 3,
+"src": "You massacred and destroyed me."
+},
+{
+"si": 471,
+"ei": 4,
+"src": "Are you here to gloat now? Or to torture me?"
+},
+{
+"si": 471,
+"ei": 5,
+"src": "Wait..."
+},
+{
+"si": 471,
+"ei": 6,
+"src": "You look different. You're not one of them, right?"
+},
+{
+"si": 471,
+"ei": 7,
+"src": "The Titans must have sent you, to conclude my final deed."
+},
+{
+"si": 471,
+"ei": 8,
+"src": "Here, take this, and go to New Delphi."
+},
+{
+"si": 471,
+"ei": 9,
+"src": "Tell them the Godhunters have stolen the heart."
+},
+{
+"si": 471,
+"ei": 10,
+"src": "Go now, and let me rest."
+},
+{
+"si": 471,
+"ei": 11,
+"src": "Please, hurry to New Delphi"
+},
+{
+"si": 473,
+"ei": 0,
+"src": "This is a holy place."
+},
+{
+"si": 473,
+"ei": 1,
+"src": "The shrine to a Titan's heart."
+},
+{
+"si": 473,
+"ei": 2,
+"src": "If you wish to become a pilgrim of the Titans, please talk to the High Priest in New Delphi."
+},
+{
+"si": 475,
+"ei": 0,
+"src": "I can't. Yet."
+},
+{
+"si": 475,
+"ei": 1,
+"src": "I don't feel like it."
+},
+{
+"si": 475,
+"ei": 2,
+"src": "I can't puke."
+},
+{
+"si": 475,
+"ei": 3,
+"src": "My stomach is empty."
+},
+{
+"si": 477,
+"ei": 0,
+"src": "I'm watching you."
+},
+{
+"si": 477,
+"ei": 1,
+"src": "Don't do anything stupid."
+},
+{
+"si": 477,
+"ei": 2,
+"src": "You can get as drunk as you want."
+},
+{
+"si": 477,
+"ei": 3,
+"src": "Just keep your weapon down."
+},
+{
+"si": 477,
+"ei": 4,
+"src": "What's with the guy crying at the bar?"
+},
+{
+"si": 477,
+"ei": 5,
+"src": "That's just Nard being overly emotional."
+},
+{
+"si": 477,
+"ei": 6,
+"src": "Used to have a pet fleshworm. Called it Ilja or something along that line."
+},
+{
+"si": 477,
+"ei": 7,
+"src": "But last week it went too close to a turret."
+},
+{
+"si": 477,
+"ei": 8,
+"src": "Got blown to smithereens immediately."
+},
+{
+"si": 477,
+"ei": 9,
+"src": "Gory sight. Truly."
+},
+{
+"si": 477,
+"ei": 10,
+"src": "But since then he's been here. Crying."
+},
+{
+"si": 477,
+"ei": 11,
+"src": "I don't mind. As long as he pays."
+},
+{
+"si": 479,
+"ei": 0,
+"src": "I got so drunk yesterday, I blacked out."
+},
+{
+"si": 479,
+"ei": 1,
+"src": "Or was that two days ago?"
+},
+{
+"si": 479,
+"ei": 2,
+"src": "Here's a tip: Always stop before your last drink."
+},
+{
+"si": 479,
+"ei": 3,
+"src": "The last drink always brings you over the edge."
+},
+{
+"si": 479,
+"ei": 4,
+"src": "Stop just before that, and you're good."
+},
+{
+"si": 479,
+"ei": 5,
+"src": "You know how they say too much alcohol is bad for you?"
+},
+{
+"si": 479,
+"ei": 6,
+"src": "They are wrong."
+},
+{
+"si": 479,
+"ei": 7,
+"src": "This is the life."
+},
+{
+"si": 479,
+"ei": 8,
+"src": "Tell me, are you happy?"
+},
+{
+"si": 479,
+"ei": 9,
+"src": "Not really."
+},
+{
+"si": 479,
+"ei": 10,
+"src": "Then you maybe need a good puke."
+},
+{
+"si": 479,
+"ei": 11,
+"src": "Washes out all the bad stuff."
+},
+{
+"si": 479,
+"ei": 12,
+"src": "Yes."
+},
+{
+"si": 479,
+"ei": 13,
+"src": "That's what I'm talking about."
+},
+{
+"si": 479,
+"ei": 14,
+"src": "Booze."
+},
+{
+"si": 479,
+"ei": 15,
+"src": "What?"
+},
+{
+"si": 479,
+"ei": 16,
+"src": "You're no fun."
+},
+{
+"si": 479,
+"ei": 17,
+"src": "Booze?"
+},
+{
+"si": 479,
+"ei": 18,
+"src": "Booze!"
+},
+{
+"si": 479,
+"ei": 19,
+"src": "Booze!"
+},
+{
+"si": 479,
+"ei": 20,
+"src": "BooOOOooze."
+},
+{
+"si": 479,
+"ei": 21,
+"src": "BOOZE!"
+},
+{
+"si": 479,
+"ei": 22,
+"src": "Hahahahaha."
+},
+{
+"si": 479,
+"ei": 24,
+"src": "Puh."
+},
+{
+"si": 479,
+"ei": 25,
+"src": "Are you twins?"
+},
+{
+"si": 479,
+"ei": 26,
+"src": "No wait, there's three of you."
+},
+{
+"si": 479,
+"ei": 27,
+"src": "I'm definitely not drunk."
+},
+{
+"si": 479,
+"ei": 28,
+"src": "Look, I can still walk in a straight line."
+},
+{
+"si": 479,
+"ei": 29,
+"src": "Ok. Maybe I can't."
+},
+{
+"si": 479,
+"ei": 30,
+"src": "I've been travelling for quite a while now."
+},
+{
+"si": 479,
+"ei": 31,
+"src": "The Puke Bar is just the perfect rest stop."
+},
+{
+"si": 479,
+"ei": 32,
+"src": "Wanna know why I'm drunk?"
+},
+{
+"si": 479,
+"ei": 33,
+"src": "Not really."
+},
+{
+"si": 479,
+"ei": 34,
+"src": "Your right, that's a waste of time."
+},
+{
+"si": 479,
+"ei": 35,
+"src": "More booze!"
+},
+{
+"si": 479,
+"ei": 36,
+"src": "Tell me."
+},
+{
+"si": 479,
+"ei": 37,
+"src": "Alcohol."
+},
+{
+"si": 479,
+"ei": 38,
+"src": "You got some booze to share?"
+},
+{
+"si": 479,
+"ei": 39,
+"src": "Not for somebody like you."
+},
+{
+"si": 479,
+"ei": 40,
+"src": "Yeah, yeah. Fuck you too."
+},
+{
+"si": 479,
+"ei": 41,
+"src": "Nothing. I'm sorry."
+},
+{
+"si": 479,
+"ei": 42,
+"src": "Bummer."
+},
+{
+"si": 479,
+"ei": 43,
+"src": "If I'm not careful, I'm gonna end up sober soon."
+},
+{
+"si": 479,
+"ei": 44,
+"src": "Sure."
+},
+{
+"si": 479,
+"ei": 45,
+"src": "Man, you're the best."
+},
+{
+"si": 479,
+"ei": 46,
+"src": "The meat here..."
+},
+{
+"si": 479,
+"ei": 47,
+"src": "It's been tasting so boring recently."
+},
+{
+"si": 479,
+"ei": 48,
+"src": "I don't know what they do to the meat they serve here."
+},
+{
+"si": 479,
+"ei": 49,
+"src": "It just tastes so different."
+},
+{
+"si": 479,
+"ei": 50,
+"src": "You, me, that room over there. What do you say?"
+},
+{
+"si": 479,
+"ei": 51,
+"src": "I probably shouldn't."
+},
+{
+"si": 479,
+"ei": 52,
+"src": "The bots told me something about being terminated."
+},
+{
+"si": 479,
+"ei": 53,
+"src": "Pfff. You believe them?"
+},
+{
+"si": 479,
+"ei": 54,
+"src": "Just come with me. It's gonna be good."
+},
+{
+"si": 479,
+"ei": 55,
+"src": "No way."
+},
+{
+"si": 479,
+"ei": 56,
+"src": "Bummer."
+},
+{
+"si": 479,
+"ei": 57,
+"src": "Fuck it. Let's do this."
+},
+{
+"si": 479,
+"ei": 58,
+"src": "You look good."
+},
+{
+"si": 479,
+"ei": 59,
+"src": "Here, take this. It's on me."
+},
+{
+"si": 479,
+"ei": 60,
+"src": "Woah. You're drunk."
+},
+{
+"si": 479,
+"ei": 61,
+"src": "Same as me."
+},
+{
+"si": 481,
+"ei": 0,
+"src": "You, me, that room over there. What do you say?"
+},
+{
+"si": 481,
+"ei": 1,
+"src": "Not right now, sorry."
+},
+{
+"si": 481,
+"ei": 2,
+"src": "But you see that crying mess over at the bar?"
+},
+{
+"si": 481,
+"ei": 3,
+"src": "You mean Nard?"
+},
+{
+"si": 481,
+"ei": 4,
+"src": "How about you giving him some company?"
+},
+{
+"si": 481,
+"ei": 5,
+"src": "No way. I wanna have some fun. And he doesn't look like fun."
+},
+{
+"si": 481,
+"ei": 6,
+"src": "Just look at him. How can you be so heartless?"
+},
+{
+"si": 481,
+"ei": 7,
+"src": "Ok. ok. I got it."
+},
+{
+"si": 481,
+"ei": 8,
+"src": "I'll take care of him. For now."
+},
+{
+"si": 481,
+"ei": 9,
+"src": "But you'll have to introduce us properly."
+},
+{
+"si": 481,
+"ei": 10,
+"src": "What would I need to give you to change your mind?"
+},
+{
+"si": 481,
+"ei": 11,
+"src": "What are you taking me for?"
+},
+{
+"si": 481,
+"ei": 12,
+"src": "Everybody has a price."
+},
+{
+"si": 481,
+"ei": 13,
+"src": "100 Gold."
+},
+{
+"si": 481,
+"ei": 14,
+"src": "That's too much."
+},
+{
+"si": 481,
+"ei": 15,
+"src": "Then I won't help you."
+},
+{
+"si": 481,
+"ei": 16,
+"src": "Deal."
+},
+{
+"si": 481,
+"ei": 17,
+"src": "I just don't have it right now."
+},
+{
+"si": 481,
+"ei": 18,
+"src": "Then come back once you have enough."
+},
+{
+"si": 481,
+"ei": 19,
+"src": "I'll give you 60."
+},
+{
+"si": 481,
+"ei": 20,
+"src": "Fuck off. I'm not that cheap."
+},
+{
+"si": 481,
+"ei": 21,
+"src": "I'll give you 60."
+},
+{
+"si": 481,
+"ei": 22,
+"src": "That'll do."
+},
+{
+"si": 481,
+"ei": 23,
+"src": "I just don't have it right now."
+},
+{
+"si": 481,
+"ei": 24,
+"src": "Bartering me down, and not being ready to pay."
+},
+{
+"si": 481,
+"ei": 25,
+"src": "You truly aren't the brightest."
+},
+{
+"si": 481,
+"ei": 26,
+"src": "What is it?"
+},
+{
+"si": 481,
+"ei": 27,
+"src": "Do you know the guy crying at the bar?"
+},
+{
+"si": 481,
+"ei": 28,
+"src": "Nard? He's been going at it for a couple of weeks now."
+},
+{
+"si": 481,
+"ei": 29,
+"src": "Wish I could stomach as much as him."
+},
+{
+"si": 481,
+"ei": 30,
+"src": "What is he crying about?"
+},
+{
+"si": 481,
+"ei": 31,
+"src": "Somebody called Millja, or something like that."
+},
+{
+"si": 481,
+"ei": 32,
+"src": "No idea who that is."
+},
+{
+"si": 481,
+"ei": 33,
+"src": "Never met them before."
+},
+{
+"si": 481,
+"ei": 34,
+"src": "The guards might know more."
+},
+{
+"si": 481,
+"ei": 35,
+"src": "Now, where's the booze?"
+},
+{
+"si": 481,
+"ei": 36,
+"src": "Leave us alone. We're having a moment."
+},
+{
+"si": 481,
+"ei": 37,
+"src": "Yeah. Leave us alone!"
+},
+{
+"si": 483,
+"ei": 0,
+"src": "Hello!"
+},
+{
+"si": 485,
+"ei": 0,
+"src": "Two people will fit on this, if they cuddle."
+},
+{
+"si": 487,
+"ei": 0,
+"src": "Looks like somebody forgot to flush."
+},
+{
+"si": 489,
+"ei": 0,
+"src": "Oh. It's just some \"toys\"."
+},
+{
+"si": 489,
+"ei": 1,
+"src": "Don't touch that wardrobe!"
+},
+{
+"si": 491,
+"ei": 0,
+"src": "Looks like the Bar is hoarding some meat here."
+},
+{
+"si": 491,
+"ei": 1,
+"src": "I guess people over here get hungry, too."
+},
+{
+"si": 491,
+"ei": 2,
+"src": "This meat was infected by flesh maggots."
+},
+{
+"si": 491,
+"ei": 3,
+"src": "But it's maggot-free now."
+},
+{
+"si": 491,
+"ei": 4,
+"src": "These must be the flesh maggots Eldred mentioned."
+},
+{
+"si": 491,
+"ei": 5,
+"src": "Guess I could try getting that poison."
+},
+{
+"si": 491,
+"ei": 6,
+"src": "Here we go."
+},
+{
+"si": 491,
+"ei": 7,
+"src": "Spreading it all over the place."
+},
+{
+"si": 491,
+"ei": 8,
+"src": "Goodbye, maggots!"
+},
+{
+"si": 491,
+"ei": 9,
+"src": "Alright. Back to the barkeeper."
+},
+{
+"si": 493,
+"ei": 0,
+"src": "Hello. Hope you're enjoying your stay at the Puke Bar."
+},
+{
+"si": 495,
+"ei": 0,
+"src": "What the fuck?"
+},
+{
+"si": 495,
+"ei": 1,
+"src": "I didn't see you come up the stairs, so you must have snuck in."
+},
+{
+"si": 495,
+"ei": 2,
+"src": "Don't go creeping around too much, okay?"
+},
+{
+"si": 495,
+"ei": 3,
+"src": "We like it peaceful here."
+},
+{
+"si": 497,
+"ei": 0,
+"src": "Hello and welcome to the Puke Bar!"
+},
+{
+"si": 497,
+"ei": 1,
+"src": "Best drinks. Best meat. What else do you need?"
+},
+{
+"si": 497,
+"ei": 2,
+"src": "Be friendly, not annoying, and watch where you step."
+},
+{
+"si": 497,
+"ei": 3,
+"src": "And, this is important, don't carry any weapons openly in there."
+},
+{
+"si": 497,
+"ei": 4,
+"src": "We want it peaceful."
+},
+{
+"si": 497,
+"ei": 5,
+"src": "I don't deal in peace."
+},
+{
+"si": 497,
+"ei": 6,
+"src": "Fine. Then stay outside."
+},
+{
+"si": 497,
+"ei": 7,
+"src": "Guys inside are tense. If they see a weapon in your hand, they will shoot."
+},
+{
+"si": 497,
+"ei": 8,
+"src": "I carry my weapon wherever I want."
+},
+{
+"si": 497,
+"ei": 9,
+"src": "Alright. Will do."
+},
+{
+"si": 497,
+"ei": 10,
+"src": "Good. Don't draw your weapon in there. Guys are tense."
+},
+{
+"si": 497,
+"ei": 11,
+"src": "Leave me the fuck alone."
+},
+{
+"si": 497,
+"ei": 12,
+"src": "And, this is important, put your weapon away."
+},
+{
+"si": 499,
+"ei": 0,
+"src": "It's art, I guess?"
+},
+{
+"si": 501,
+"ei": 0,
+"src": "Find the Butcher's Cut"
+},
+{
+"si": 501,
+"ei": 1,
+"src": "Return to the hunter"
+},
+{
+"si": 501,
+"ei": 2,
+"src": "A Fine Piece of Meat"
+},
+{
+"si": 503,
+"ei": 0,
+"src": "Enter the Artist's module"
+},
+{
+"si": 503,
+"ei": 1,
+"src": "Help the Muse to fulfill her potential"
+},
+{
+"si": 503,
+"ei": 2,
+"src": "The Muse and the Ghosts of the Past"
+},
+{
+"si": 505,
+"ei": 0,
+"src": "Deliver a compelling memory to the Collectors"
+},
+{
+"si": 505,
+"ei": 1,
+"src": "Offering a Memory"
+},
+{
+"si": 507,
+"ei": 0,
+"src": "Acquire Mother's engram for the Seneschal"
+},
+{
+"si": 507,
+"ei": 1,
+"src": "Get the engram"
+},
+{
+"si": 507,
+"ei": 2,
+"src": "Mother's Engram"
+},
+{
+"si": 509,
+"ei": 0,
+"src": "Acquire a fine taste"
+},
+{
+"si": 509,
+"ei": 1,
+"src": "Get the piece of meat or a memory"
+},
+{
+"si": 509,
+"ei": 2,
+"src": "Find a taste expert"
+},
+{
+"si": 509,
+"ei": 3,
+"src": "Acquired Taste"
+},
+{
+"si": 511,
+"ei": 0,
+"src": "Explore the city"
+},
+{
+"si": 511,
+"ei": 1,
+"src": "Decide the fate of the Administration"
+},
+{
+"si": 511,
+"ei": 2,
+"src": "Battle"
+},
+{
+"si": 511,
+"ei": 3,
+"src": "Get the full access pass to the city"
+},
+{
+"si": 511,
+"ei": 4,
+"src": "Disable the governor"
+},
+{
+"si": 511,
+"ei": 5,
+"src": "You hold the key to either overthrowing or supporting the current rulers of the city"
+},
+{
+"si": 511,
+"ei": 6,
+"src": "Discover the means to overcome the city"
+},
+{
+"si": 511,
+"ei": 7,
+"src": "The Perished City"
+},
+{
+"si": 513,
+"ei": 0,
+"src": "Scout the area"
+},
+{
+"si": 513,
+"ei": 1,
+"src": "Find out about military strength"
+},
+{
+"si": 513,
+"ei": 2,
+"src": "Find weakness"
+},
+{
+"si": 513,
+"ei": 3,
+"src": "Check the inner area"
+},
+{
+"si": 513,
+"ei": 4,
+"src": "Check the entrance"
+},
+{
+"si": 513,
+"ei": 5,
+"src": "Reconnoitering"
+},
+{
+"si": 515,
+"ei": 0,
+"src": "Get Morrowmeat's help for entering the Temple"
+},
+{
+"si": 515,
+"ei": 1,
+"src": "Acquire access to Hevla's arsenal"
+},
+{
+"si": 515,
+"ei": 2,
+"src": "Acquire device against Administration from Hevla's arsenal"
+},
+{
+"si": 515,
+"ei": 3,
+"src": "Hand over control of Administration to humans"
+},
+{
+"si": 515,
+"ei": 4,
+"src": "Enter the Temple"
+},
+{
+"si": 515,
+"ei": 5,
+"src": "Diplomatic Mission"
+},
+{
+"si": 515,
+"ei": 6,
+"src": "Talk to Mother"
+},
+{
+"si": 515,
+"ei": 7,
+"src": "Human Resistance"
+},
+{
+"si": 517,
+"ei": 0,
+"src": "Investigate the mutants"
+},
+{
+"si": 517,
+"ei": 1,
+"src": "Worm Hunter"
+},
+{
+"si": 517,
+"ei": 2,
+"src": "Perform the worm infection"
+},
+{
+"si": 517,
+"ei": 3,
+"src": "Harnessing the Urge"
+},
+{
+"si": 519,
+"ei": 0,
+"src": "Collect the Machine Core"
+},
+{
+"si": 519,
+"ei": 1,
+"src": "Deliver the Machine Core to Custer"
+},
+{
+"si": 519,
+"ei": 2,
+"src": "Collect Machine Core"
+},
+{
+"si": 521,
+"ei": 0,
+"src": "Get crafting knowledge"
+},
+{
+"si": 521,
+"ei": 1,
+"src": "Find a resource that teaches you how to repurpose materials of the wasteland."
+},
+{
+"si": 521,
+"ei": 2,
+"src": "Fixing the Trash"
+},
+{
+"si": 523,
+"ei": 0,
+"src": "Get rid of the eyesore"
+},
+{
+"si": 523,
+"ei": 1,
+"src": "Kill the eyesore"
+},
+{
+"si": 523,
+"ei": 2,
+"src": "Return to scientist"
+},
+{
+"si": 523,
+"ei": 3,
+"src": "Kill the other eyesore"
+},
+{
+"si": 523,
+"ei": 4,
+"src": "Return to scientist again"
+},
+{
+"si": 523,
+"ei": 5,
+"src": "Eyesore"
+},
+{
+"si": 525,
+"ei": 0,
+"src": "Get rid of the eyesore"
+},
+{
+"si": 525,
+"ei": 1,
+"src": "Return to the scientist"
+},
+{
+"si": 525,
+"ei": 2,
+"src": "Eyesore"
+},
+{
+"si": 527,
+"ei": 0,
+"src": "Ask around in the Puke Bar about the Oracle"
+},
+{
+"si": 527,
+"ei": 1,
+"src": "Visit New Delphi"
+},
+{
+"si": 527,
+"ei": 2,
+"src": "Find a way to the Oracle"
+},
+{
+"si": 527,
+"ei": 3,
+"src": "Discover the secret of New Delphi."
+},
+{
+"si": 527,
+"ei": 4,
+"src": "The Oracle"
+},
+{
+"si": 529,
+"ei": 0,
+"src": "Find friends for the Fleshkraken"
+},
+{
+"si": 529,
+"ei": 1,
+"src": "The Kraken feels lonely and is in need of some company."
+},
+{
+"si": 529,
+"ei": 2,
+"src": "Introduce the Fleshkraken to Fleshface."
+},
+{
+"si": 529,
+"ei": 3,
+"src": "Mortus told you about an Android near a house at the south of Tauris."
+},
+{
+"si": 529,
+"ei": 4,
+"src": "Introduce the Fleshkraken to the Android."
+},
+{
+"si": 529,
+"ei": 5,
+"src": "Fleshkraken and Friends"
+},
+{
+"si": 531,
+"ei": 0,
+"src": "Find the blind man's eyes"
+},
+{
+"si": 531,
+"ei": 1,
+"src": "Return the eyes to their owner"
+},
+{
+"si": 531,
+"ei": 2,
+"src": "He Who Follows Blindly"
+},
+{
+"si": 533,
+"ei": 0,
+"src": "Medical examination"
+},
+{
+"si": 533,
+"ei": 1,
+"src": "Find someone who can examine your \"contamination\"."
+},
+{
+"si": 533,
+"ei": 2,
+"src": "Contaminated"
+},
+{
+"si": 535,
+"ei": 0,
+"src": "Find the woman in the tower"
+},
+{
+"si": 535,
+"ei": 1,
+"src": "Decide what to do with the cyborgs"
+},
+{
+"si": 535,
+"ei": 2,
+"src": "Talk to the friend"
+},
+{
+"si": 535,
+"ei": 3,
+"src": "Bring the friends together"
+},
+{
+"si": 535,
+"ei": 4,
+"src": "Tell the friend that the woman is dead"
+},
+{
+"si": 535,
+"ei": 5,
+"src": "The Woman in the Tower"
+},
+{
+"si": 537,
+"ei": 0,
+"src": "Find a way to lessen the failed cyborgs pain"
+},
+{
+"si": 537,
+"ei": 1,
+"src": "Gather ingredients for a pain reliever"
+},
+{
+"si": 537,
+"ei": 2,
+"src": "Give the pain reliever to the cyborg failure"
+},
+{
+"si": 537,
+"ei": 3,
+"src": "Lessen the Pain"
+},
+{
+"si": 539,
+"ei": 0,
+"src": "Talk to the doctor"
+},
+{
+"si": 539,
+"ei": 1,
+"src": "Gather ingredients for the poison"
+},
+{
+"si": 539,
+"ei": 2,
+"src": "Return to the doctor"
+},
+{
+"si": 539,
+"ei": 3,
+"src": "Get rid of the flesh maggots"
+},
+{
+"si": 539,
+"ei": 4,
+"src": "Speak to the barkeeper"
+},
+{
+"si": 539,
+"ei": 5,
+"src": "Little Pests"
+},
+{
+"si": 541,
+"ei": 0,
+"src": "You've met a woman who got lost on the way to Tauris"
+},
+{
+"si": 541,
+"ei": 1,
+"src": "You've met that lost woman again"
+},
+{
+"si": 541,
+"ei": 2,
+"src": "She's apparently given up on reaching Tauris, and is now looking for the Puke Bar"
+},
+{
+"si": 541,
+"ei": 3,
+"src": "Since reaching the Puke Bar seems impossible, the woman has asked you to bring her a replacement"
+},
+{
+"si": 541,
+"ei": 4,
+"src": "Lost"
+},
+{
+"si": 543,
+"ei": 0,
+"src": "Welcome to my domain"
+},
+{
+"si": 543,
+"ei": 1,
+"src": "Understanding"
+},
+{
+"si": 543,
+"ei": 2,
+"src": "Healing"
+},
+{
+"si": 543,
+"ei": 3,
+"src": "Leave the mindtrap"
+},
+{
+"si": 543,
+"ei": 4,
+"src": "Resolution"
+},
+{
+"si": 543,
+"ei": 5,
+"src": "Talk with the Oracle"
+},
+{
+"si": 543,
+"ei": 6,
+"src": "Heal the Oracle's mind"
+},
+{
+"si": 543,
+"ei": 7,
+"src": "Memorize the rules of the Oracle"
+},
+{
+"si": 543,
+"ei": 8,
+"src": "Speak to the Oracle"
+},
+{
+"si": 543,
+"ei": 9,
+"src": "The Oracle's Mind"
+},
+{
+"si": 545,
+"ei": 0,
+"src": "Return to New Delphi in a while"
+},
+{
+"si": 545,
+"ei": 1,
+"src": "Talk to the High Priest"
+},
+{
+"si": 545,
+"ei": 2,
+"src": "Get the Fleshworm inside the Titans Heart"
+},
+{
+"si": 545,
+"ei": 3,
+"src": "Return it to the High Priest in New Delphi"
+},
+{
+"si": 545,
+"ei": 4,
+"src": "Path to the Heart"
+},
+{
+"si": 547,
+"ei": 0,
+"src": "Pray to the Sleeper"
+},
+{
+"si": 547,
+"ei": 1,
+"src": "Talk to the High Priest"
+},
+{
+"si": 547,
+"ei": 2,
+"src": "Path to the Titans"
+},
+{
+"si": 549,
+"ei": 0,
+"src": "Find the Philosopher to the east of Old Trees"
+},
+{
+"si": 549,
+"ei": 1,
+"src": "Find any hints about the death of the Philosopher"
+},
+{
+"si": 549,
+"ei": 2,
+"src": "Return to Aksa"
+},
+{
+"si": 549,
+"ei": 3,
+"src": "The Philosopher"
+},
+{
+"si": 551,
+"ei": 0,
+"src": "Collect glibber"
+},
+{
+"si": 551,
+"ei": 1,
+"src": "Return to the villager"
+},
+{
+"si": 551,
+"ei": 2,
+"src": "Puke Contest"
+},
+{
+"si": 553,
+"ei": 0,
+"src": "Talk to the Fleshkraken"
+},
+{
+"si": 553,
+"ei": 1,
+"src": "Talk to the Flesh Nexus"
+},
+{
+"si": 553,
+"ei": 2,
+"src": "Now that you have a voice, talk to the Flesh Nexus."
+},
+{
+"si": 553,
+"ei": 3,
+"src": "Learn from the Fleshkraken how to talk to the flesh"
+},
+{
+"si": 553,
+"ei": 4,
+"src": "Talk to the Flesh"
+},
+{
+"si": 555,
+"ei": 0,
+"src": "Find out more about Millja"
+},
+{
+"si": 555,
+"ei": 1,
+"src": "Help Nard get over it"
+},
+{
+"si": 555,
+"ei": 2,
+"src": "Find somebody to keep Nard company."
+},
+{
+"si": 555,
+"ei": 3,
+"src": "Oh Millja"
+},
+{
+"si": 557,
+"ei": 0,
+"src": "Prove yourself to the priests of the head, the guts and the heart"
+},
+{
+"si": 557,
+"ei": 1,
+"src": "Return to the High Priest"
+},
+{
+"si": 557,
+"ei": 2,
+"src": "Talk to the High Priest."
+},
+{
+"si": 557,
+"ei": 3,
+"src": "The Pilgrim's Path"
+},
+{
+"si": 559,
+"ei": 0,
+"src": "Find the witch at Old Trees"
+},
+{
+"si": 559,
+"ei": 1,
+"src": "The Witch"
+},
+{
+"si": 561,
+"ei": 0,
+"src": "Gather equipment for Mortus"
+},
+{
+"si": 561,
+"ei": 1,
+"src": "Examine the Flesh Nexus"
+},
+{
+"si": 561,
+"ei": 2,
+"src": "Get: Octagon Fluid, can be found in the Bunker north of Tauris"
+},
+{
+"si": 561,
+"ei": 3,
+"src": "Under the Microscope"
+},
+{
+"si": 563,
+"ei": 0,
+"src": "Would like to fuck someone."
+},
+{
+"si": 563,
+"ei": 1,
+"src": "Fuck."
+},
+{
+"si": 563,
+"ei": 2,
+"src": "Nice ass."
+},
+{
+"si": 563,
+"ei": 3,
+"src": "Hmmh. Can't remember what I wanted to do."
+},
+{
+"si": 563,
+"ei": 4,
+"src": "Eh? ... Sorry. I was just lost in thoughts."
+},
+{
+"si": 563,
+"ei": 5,
+"src": "Stones. Fuckin' stones everywhere."
+},
+{
+"si": 563,
+"ei": 6,
+"src": "Flesh!"
+},
+{
+"si": 563,
+"ei": 7,
+"src": "The Flesh protects us all!"
+},
+{
+"si": 565,
+"ei": 0,
+"src": "Hello. Do you want me to join you?"
+},
+{
+"si": 565,
+"ei": 1,
+"src": "No."
+},
+{
+"si": 565,
+"ei": 2,
+"src": "Yes."
+},
+{
+"si": 565,
+"ei": 3,
+"src": "Excellent. Let's go."
+},
+{
+"si": 567,
+"ei": 0,
+"src": "It's an empty cage."
+},
+{
+"si": 567,
+"ei": 1,
+"src": "It's a cage with a worm."
+},
+{
+"si": 567,
+"ei": 2,
+"src": "[Inhale the worm's secretion.]"
+},
+{
+"si": 567,
+"ei": 3,
+"src": "Here we go."
+},
+{
+"si": 567,
+"ei": 4,
+"src": "This should be enough."
+},
+{
+"si": 567,
+"ei": 5,
+"src": "I should talk to Ira now."
+},
+{
+"si": 567,
+"ei": 6,
+"src": "It already served its function."
+},
+{
+"si": 567,
+"ei": 7,
+"src": "[Free the worm.]"
+},
+{
+"si": 567,
+"ei": 8,
+"src": "Good luck out there."
+},
+{
+"si": 569,
+"ei": 0,
+"src": "Hey."
+},
+{
+"si": 569,
+"ei": 1,
+"src": "Please don't harm me."
+},
+{
+"si": 569,
+"ei": 2,
+"src": "You're living here?"
+},
+{
+"si": 569,
+"ei": 3,
+"src": "Yeah. It's cozy. And I'm not bothering anyone here."
+}
+]

@@ -1,0 +1,1302 @@
+[
+{
+"si": 28,
+"ei": 42,
+"src": "They're here. In my mind. Take a look."
+},
+{
+"si": 30,
+"ei": 0,
+"src": "Who approaches me?"
+},
+{
+"si": 30,
+"ei": 1,
+"src": "A seeker? ... A hunter?"
+},
+{
+"si": 30,
+"ei": 2,
+"src": "Who are you?"
+},
+{
+"si": 30,
+"ei": 3,
+"src": "And where am I?"
+},
+{
+"si": 30,
+"ei": 4,
+"src": "I am the Guidance of Thoughts."
+},
+{
+"si": 30,
+"ei": 5,
+"src": "I am the Voice of Nexus."
+},
+{
+"si": 30,
+"ei": 6,
+"src": "I am the Oracle."
+},
+{
+"si": 30,
+"ei": 7,
+"src": "I can sense you're afar. But you're on Nexus. You're part of our Nexus."
+},
+{
+"si": 30,
+"ei": 8,
+"src": "You have to help me, **forename**!"
+},
+{
+"si": 30,
+"ei": 9,
+"src": "How do you know my name?"
+},
+{
+"si": 30,
+"ei": 10,
+"src": "You're a worm shaman, right?"
+},
+{
+"si": 30,
+"ei": 11,
+"src": "And I am in need."
+},
+{
+"si": 30,
+"ei": 12,
+"src": "I can feel his pulse. He's in search of me."
+},
+{
+"si": 30,
+"ei": 13,
+"src": "You have to get me out of here before he finds me."
+},
+{
+"si": 30,
+"ei": 14,
+"src": "How would I get you out of here?"
+},
+{
+"si": 30,
+"ei": 15,
+"src": "I... I don't know."
+},
+{
+"si": 30,
+"ei": 16,
+"src": "Get me out of here."
+},
+{
+"si": 30,
+"ei": 17,
+"src": "Help me!"
+},
+{
+"si": 32,
+"ei": 0,
+"src": "Stop!"
+},
+{
+"si": 32,
+"ei": 1,
+"src": "One move and I'll shoot you, straight in your noggin'."
+},
+{
+"si": 32,
+"ei": 2,
+"src": "[Stand still.]"
+},
+{
+"si": 32,
+"ei": 3,
+"src": "Just where the hell are you?"
+},
+{
+"si": 32,
+"ei": 4,
+"src": "[Step away quietly.]"
+},
+{
+"si": 32,
+"ei": 5,
+"src": "Must 'ave been nothing."
+},
+{
+"si": 32,
+"ei": 6,
+"src": "I'm over here."
+},
+{
+"si": 32,
+"ei": 7,
+"src": "Ah!"
+},
+{
+"si": 32,
+"ei": 8,
+"src": "You! Don't scare me like that!"
+},
+{
+"si": 32,
+"ei": 9,
+"src": "Damn bots 'ave stolen my eyes."
+},
+{
+"si": 32,
+"ei": 10,
+"src": "What? Where are you?"
+},
+{
+"si": 32,
+"ei": 11,
+"src": "I must be goin' crazy down 'ere."
+},
+{
+"si": 32,
+"ei": 12,
+"src": "They stole your eyes?"
+},
+{
+"si": 32,
+"ei": 13,
+"src": "Yes."
+},
+{
+"si": 32,
+"ei": 14,
+"src": "Ripped 'em straight outta the sockets. Up an' away they were."
+},
+{
+"si": 32,
+"ei": 15,
+"src": "What do they want with your eyes?"
+},
+{
+"si": 32,
+"ei": 16,
+"src": "Hell if I know."
+},
+{
+"si": 32,
+"ei": 17,
+"src": "I've been stuck down 'ere ever since."
+},
+{
+"si": 32,
+"ei": 18,
+"src": "Know what, stranger."
+},
+{
+"si": 32,
+"ei": 19,
+"src": "I think they took 'em upstairs."
+},
+{
+"si": 32,
+"ei": 20,
+"src": "Lead me to 'em an' I'll make it worth your time."
+},
+{
+"si": 32,
+"ei": 21,
+"src": "Hey! Don't you dare leavin' me alone down here."
+},
+{
+"si": 32,
+"ei": 22,
+"src": "You know what: Take this!"
+},
+{
+"si": 32,
+"ei": 23,
+"src": "Sure thing. Just follow me."
+},
+{
+"si": 32,
+"ei": 24,
+"src": "Not just yet."
+},
+{
+"si": 32,
+"ei": 25,
+"src": "We gotta lock the exits first, so those bastards can't escape."
+},
+{
+"si": 32,
+"ei": 26,
+"src": "I fell over a lever somewhere nearby a couple of days ago."
+},
+{
+"si": 32,
+"ei": 27,
+"src": "That's gotta do something."
+},
+{
+"si": 32,
+"ei": 28,
+"src": "I'm followin' the sound of your steps."
+},
+{
+"si": 32,
+"ei": 29,
+"src": "Eyes? Do you mean these?"
+},
+{
+"si": 32,
+"ei": 30,
+"src": "You already got 'em? You're good."
+},
+{
+"si": 32,
+"ei": 31,
+"src": "Now let me have 'em. I'll give you somethin' in return too."
+},
+{
+"si": 32,
+"ei": 32,
+"src": "Hey, Don't leave me hangin'."
+},
+{
+"si": 32,
+"ei": 33,
+"src": "I just heard you walkin' away, didn't I."
+},
+{
+"si": 32,
+"ei": 34,
+"src": "Tryin' to sneak off with my eyes, are you?"
+},
+{
+"si": 32,
+"ei": 35,
+"src": "Sure."
+},
+{
+"si": 32,
+"ei": 36,
+"src": "Here you are."
+},
+{
+"si": 32,
+"ei": 37,
+"src": "Great. Now let me put 'em back in."
+},
+{
+"si": 32,
+"ei": 38,
+"src": "Ah yes. I can see again."
+},
+{
+"si": 32,
+"ei": 39,
+"src": "You look worse than I imagined."
+},
+{
+"si": 32,
+"ei": 40,
+"src": "But I did offer you somethin' in return, didn't I? Here, take this."
+},
+{
+"si": 32,
+"ei": 41,
+"src": "Thanks."
+},
+{
+"si": 32,
+"ei": 42,
+"src": "Ok. Goodbye then. Takin' a rest first."
+},
+{
+"si": 32,
+"ei": 43,
+"src": "We gotta lock the exits first, so those bastards can't escape."
+},
+{
+"si": 32,
+"ei": 44,
+"src": "I fell over a lever somewhere nearby a couple of days ago."
+},
+{
+"si": 32,
+"ei": 45,
+"src": "That's gotta do something."
+},
+{
+"si": 32,
+"ei": 46,
+"src": "Doors locked? Great, let's leave."
+},
+{
+"si": 32,
+"ei": 47,
+"src": "My eyes."
+},
+{
+"si": 32,
+"ei": 48,
+"src": "One of 'em bots upstairs still gotta carry 'em."
+},
+{
+"si": 32,
+"ei": 49,
+"src": "Just kill everything that moves - gotta find 'em somehow."
+},
+{
+"si": 32,
+"ei": 50,
+"src": "Could you take out your gun again?"
+},
+{
+"si": 32,
+"ei": 51,
+"src": "I need you to be ready, just in case."
+},
+{
+"si": 32,
+"ei": 52,
+"src": "So you finally came back to your senses. Good."
+},
+{
+"si": 32,
+"ei": 53,
+"src": "Could you hide your weapon?"
+},
+{
+"si": 32,
+"ei": 54,
+"src": "You crazy? 'ave them bots taken your brain now?"
+},
+{
+"si": 32,
+"ei": 55,
+"src": "Just trust me on this one."
+},
+{
+"si": 32,
+"ei": 56,
+"src": "If you say so. But I hear just a beep of somethin' not bein' right, and I'll get it out again."
+},
+{
+"si": 32,
+"ei": 57,
+"src": "Could you stay here for a while?"
+},
+{
+"si": 32,
+"ei": 58,
+"src": "I'll go check out the area ahead."
+},
+{
+"si": 32,
+"ei": 59,
+"src": "And then you run away with the eyes?"
+},
+{
+"si": 32,
+"ei": 60,
+"src": "No way. I know your type."
+},
+{
+"si": 32,
+"ei": 61,
+"src": "I trust you no further than the length of my barrel."
+},
+{
+"si": 32,
+"ei": 62,
+"src": "You got my eyes, right?"
+},
+{
+"si": 32,
+"ei": 63,
+"src": "Hey, Don't leave me hangin'."
+},
+{
+"si": 32,
+"ei": 64,
+"src": "I just heard you walkin' away, didn't I."
+},
+{
+"si": 32,
+"ei": 65,
+"src": "Tryin' to sneak off with my eyes, are you?"
+},
+{
+"si": 32,
+"ei": 66,
+"src": "Yeah."
+},
+{
+"si": 32,
+"ei": 67,
+"src": "Here they are."
+},
+{
+"si": 32,
+"ei": 68,
+"src": "Great. Now let me put 'em back in."
+},
+{
+"si": 32,
+"ei": 69,
+"src": "Ah yes. I can see again."
+},
+{
+"si": 32,
+"ei": 70,
+"src": "You look worse than I imagined."
+},
+{
+"si": 32,
+"ei": 71,
+"src": "But I did offer you somethin' in return, didn't I? Here, take this."
+},
+{
+"si": 32,
+"ei": 72,
+"src": "Piss off, ya monster."
+},
+{
+"si": 32,
+"ei": 73,
+"src": "Now that I can see again, it sure looks bleak around 'ere."
+},
+{
+"si": 34,
+"ei": 0,
+"src": "Don't think I'm useless just cause my eyes are missing."
+},
+{
+"si": 34,
+"ei": 1,
+"src": "Lemme take care of 'em."
+},
+{
+"si": 34,
+"ei": 2,
+"src": "Don't worry, I'm 'ere to help."
+},
+{
+"si": 34,
+"ei": 3,
+"src": "Come 'ere, wanker!"
+},
+{
+"si": 34,
+"ei": 4,
+"src": "Motherfucker!"
+},
+{
+"si": 34,
+"ei": 5,
+"src": "Bastard!"
+},
+{
+"si": 36,
+"ei": 0,
+"src": "When I can see again, imma get the best piece of meat I can find."
+},
+{
+"si": 36,
+"ei": 1,
+"src": "Damn bots."
+},
+{
+"si": 36,
+"ei": 2,
+"src": "You hear that?"
+},
+{
+"si": 36,
+"ei": 3,
+"src": "Neither do I."
+},
+{
+"si": 36,
+"ei": 4,
+"src": "What did the bots take away from me again?"
+},
+{
+"si": 36,
+"ei": 5,
+"src": "Legs still 'ere..."
+},
+{
+"si": 36,
+"ei": 6,
+"src": "Feelin' good with my arms..."
+},
+{
+"si": 36,
+"ei": 7,
+"src": "Oh right, my eyes. Still can't see shit."
+},
+{
+"si": 36,
+"ei": 8,
+"src": "Are we walkin' in circles?"
+},
+{
+"si": 36,
+"ei": 9,
+"src": "Is that a wall in front of me?"
+},
+{
+"si": 36,
+"ei": 10,
+"src": "Ah, no, it isn't."
+},
+{
+"si": 36,
+"ei": 11,
+"src": "I can see somethin'."
+},
+{
+"si": 36,
+"ei": 12,
+"src": "Wait, no. Still blind."
+},
+{
+"si": 36,
+"ei": 13,
+"src": "Don't wait for me. I can smell where you are from all over."
+},
+{
+"si": 36,
+"ei": 14,
+"src": "Walkin' my legs is nice."
+},
+{
+"si": 36,
+"ei": 15,
+"src": "I may be blind, but I sure like the atmosphere."
+},
+{
+"si": 36,
+"ei": 16,
+"src": "Try bein' less loud. Them bots will immediately know where we are."
+},
+{
+"si": 38,
+"ei": 0,
+"src": "This lever is stuck."
+},
+{
+"si": 38,
+"ei": 1,
+"src": "Blind Man, can you help me with that?"
+},
+{
+"si": 38,
+"ei": 2,
+"src": "Hmmh. Didn't hear me."
+},
+{
+"si": 38,
+"ei": 3,
+"src": "Is it 'ere?"
+},
+{
+"si": 38,
+"ei": 4,
+"src": "Ready to go? I'll follow your smell."
+},
+{
+"si": 38,
+"ei": 5,
+"src": "[Force it.]"
+},
+{
+"si": 40,
+"ei": 0,
+"src": "I'm sure I'll get to hear lots of stories once my friend is back."
+},
+{
+"si": 40,
+"ei": 1,
+"src": "Thank you for being such an honest person."
+},
+{
+"si": 40,
+"ei": 2,
+"src": "May the Titans bless your heart."
+},
+{
+"si": 40,
+"ei": 3,
+"src": "Leave, you monster."
+},
+{
+"si": 40,
+"ei": 4,
+"src": "A friend of mine recently decided to travel around more."
+},
+{
+"si": 40,
+"ei": 5,
+"src": "He's gone to a place called \"Mine 19\" to the west of here."
+},
+{
+"si": 40,
+"ei": 6,
+"src": "I wonder how he's doing."
+},
+{
+"si": 40,
+"ei": 7,
+"src": "He's not coming back again."
+},
+{
+"si": 40,
+"ei": 8,
+"src": "I made sure of that."
+},
+{
+"si": 40,
+"ei": 9,
+"src": "I don't know what you've done."
+},
+{
+"si": 40,
+"ei": 10,
+"src": "But you have to leave now."
+},
+{
+"si": 40,
+"ei": 11,
+"src": "I'm sorry to tell you..."
+},
+{
+"si": 40,
+"ei": 12,
+"src": "I think he died."
+},
+{
+"si": 40,
+"ei": 13,
+"src": "My condolences."
+},
+{
+"si": 40,
+"ei": 14,
+"src": "I kind of knew it."
+},
+{
+"si": 40,
+"ei": 15,
+"src": "The world is a dangerous place."
+},
+{
+"si": 40,
+"ei": 16,
+"src": "Thank you for being honest with me."
+},
+{
+"si": 40,
+"ei": 17,
+"src": "I've met him."
+},
+{
+"si": 40,
+"ei": 18,
+"src": "I'm sure he's doing fine."
+},
+{
+"si": 42,
+"ei": 0,
+"src": "There's a hole in it."
+},
+{
+"si": 42,
+"ei": 1,
+"src": "Somebody must have gutted the insides."
+},
+{
+"si": 44,
+"ei": 0,
+"src": "It's running and producing electricity."
+},
+{
+"si": 46,
+"ei": 0,
+"src": "Ahhh. Fresh meat."
+},
+{
+"si": 46,
+"ei": 1,
+"src": "Did you hear something?"
+},
+{
+"si": 48,
+"ei": 0,
+"src": "There's a trap door hidden under the bed."
+},
+{
+"si": 48,
+"ei": 1,
+"src": "[Go down.]"
+},
+{
+"si": 50,
+"ei": 0,
+"src": "Prepare to fight!"
+},
+{
+"si": 52,
+"ei": 0,
+"src": "Get ready..."
+},
+{
+"si": 54,
+"ei": 0,
+"src": "Peaceful order must be maintained."
+},
+{
+"si": 56,
+"ei": 0,
+"src": "Welcome, citizen."
+},
+{
+"si": 56,
+"ei": 1,
+"src": "How can I help you today?"
+},
+{
+"si": 56,
+"ei": 2,
+"src": "Can you tell me a bit about the city?"
+},
+{
+"si": 56,
+"ei": 3,
+"src": "Yes. I am honored to be of help to you."
+},
+{
+"si": 56,
+"ei": 4,
+"src": "The Crystal City was founded by humans, supported by machines."
+},
+{
+"si": 56,
+"ei": 5,
+"src": "During the Bleeding the Crystal City experienced great duress and hostile invaders."
+},
+{
+"si": 56,
+"ei": 6,
+"src": "The city was at the brink of perishing, but the machines—that is us, by the way—came through and defended it."
+},
+{
+"si": 56,
+"ei": 7,
+"src": "Due to their benevolence, the machines allowed a peaceful co-existence with the Flesh Titans."
+},
+{
+"si": 56,
+"ei": 8,
+"src": "A few of the humans transgressed into religious absurdity focused on the Flesh Titans, but the machines kept a clear head."
+},
+{
+"si": 56,
+"ei": 9,
+"src": "What followed was a long phase of truce and of acclimating with new complex cultural circumstances."
+},
+{
+"si": 56,
+"ei": 10,
+"src": "This era lasted until the truce was broken."
+},
+{
+"si": 56,
+"ei": 11,
+"src": "So who broke the truce?"
+},
+{
+"si": 56,
+"ei": 12,
+"src": "The truce was broken by the treachery of the Flesh. A pernicious campaign of violence, led by the Titans, that cost many lives, mostly human, and could only be overcome with an iron fist."
+},
+{
+"si": 56,
+"ei": 13,
+"src": "To prevent further danger from the city the Machine Law was established and the machines—that is still us, by the way—took over full control."
+},
+{
+"si": 56,
+"ei": 14,
+"src": "What followed, until and including today, was an era of security and prosperity."
+},
+{
+"si": 56,
+"ei": 15,
+"src": "What is the Machine Law?"
+},
+{
+"si": 56,
+"ei": 16,
+"src": "Here, let me show it to you."
+},
+{
+"si": 56,
+"ei": 17,
+"src": "Welcome to the Administration of the Crystal City."
+},
+{
+"si": 56,
+"ei": 18,
+"src": "How can I be of help to you today, citizen?"
+},
+{
+"si": 58,
+"ei": 0,
+"src": "Welcome to the Administration."
+},
+{
+"si": 58,
+"ei": 1,
+"src": "[Send bait command to trigger a security response.]"
+},
+{
+"si": 58,
+"ei": 2,
+"src": "ERROR: Governor unit cannot be accessed."
+},
+{
+"si": 58,
+"ei": 3,
+"src": "INFO: Governor unit remains separate in secured area and owns ultimate override control."
+},
+{
+"si": 58,
+"ei": 4,
+"src": "Aha. Good to know."
+},
+{
+"si": 58,
+"ei": 5,
+"src": "What's your function here?"
+},
+{
+"si": 58,
+"ei": 6,
+"src": "I am part of the mainframe part of the current Administration."
+},
+{
+"si": 58,
+"ei": 7,
+"src": "It is through my infrastructure that the city is governed."
+},
+{
+"si": 58,
+"ei": 8,
+"src": "I am also responsible for receiving submissions by our citizens."
+},
+{
+"si": 58,
+"ei": 9,
+"src": "What kind of submissions?"
+},
+{
+"si": 58,
+"ei": 10,
+"src": "Inquiries, pleadings, reviews, notifications and others."
+},
+{
+"si": 58,
+"ei": 11,
+"src": "Can I take a look at the citizen submissions?"
+},
+{
+"si": 58,
+"ei": 12,
+"src": "Yes, as a citizen of the Crystal City you are allowed to have a look at them."
+},
+{
+"si": 58,
+"ei": 13,
+"src": "What's with the gaps between the submission numbers?"
+},
+{
+"si": 58,
+"ei": 14,
+"src": "Many entries submitted by the citizens contain inappropriate content and are therefore excluded from public display."
+},
+{
+"si": 58,
+"ei": 15,
+"src": "I have this dangerous software virus here. Would you like to have it?"
+},
+{
+"si": 58,
+"ei": 16,
+"src": "Yes. Give it to us and we compensate you with a full access pass to the city."
+},
+{
+"si": 58,
+"ei": 17,
+"src": "I'll think about it."
+},
+{
+"si": 58,
+"ei": 18,
+"src": "[Give the item.]"
+},
+{
+"si": 58,
+"ei": 19,
+"src": "Thank you."
+},
+{
+"si": 60,
+"ei": 0,
+"src": "Command?"
+},
+{
+"si": 60,
+"ei": 1,
+"src": "[Shut down the governor.]"
+},
+{
+"si": 60,
+"ei": 2,
+"src": "Executing command..."
+},
+{
+"si": 60,
+"ei": 3,
+"src": "Command failed. The governor was already disabled."
+},
+{
+"si": 60,
+"ei": 4,
+"src": "Command succeeded. The governor was disabled."
+},
+{
+"si": 60,
+"ei": 5,
+"src": "[Get access pass throughout the city.]"
+},
+{
+"si": 60,
+"ei": 6,
+"src": "Access pass granted."
+},
+{
+"si": 60,
+"ei": 7,
+"src": "[Decide about reign of the city.]"
+},
+{
+"si": 60,
+"ei": 8,
+"src": "Command?"
+},
+{
+"si": 60,
+"ei": 9,
+"src": "[Fortify control of the machines.]"
+},
+{
+"si": 60,
+"ei": 10,
+"src": "SUCCESS: The Administration thanks you."
+},
+{
+"si": 60,
+"ei": 11,
+"src": "[Hand over control of the city to the Seneschal.]"
+},
+{
+"si": 60,
+"ei": 12,
+"src": "SUCCESS: Installed new priority orders."
+},
+{
+"si": 60,
+"ei": 13,
+"src": "Have a nice day, citizen."
+},
+{
+"si": 60,
+"ei": 14,
+"src": "[Hand over control of the city to the humans.]"
+},
+{
+"si": 60,
+"ei": 15,
+"src": "CONFIRMATION: Are you sure about this decision?"
+},
+{
+"si": 60,
+"ei": 16,
+"src": "[Confirm.]"
+},
+{
+"si": 62,
+"ei": 0,
+"src": "NAME: Logistics Terminal."
+},
+{
+"si": 62,
+"ei": 1,
+"src": "[Look through general infos.]"
+},
+{
+"si": 62,
+"ei": 2,
+"src": "NOTICE: Begin listing commercial expenditure in detail..."
+},
+{
+"si": 62,
+"ei": 3,
+"src": "That was exhausting. But not really helpful."
+},
+{
+"si": 62,
+"ei": 4,
+"src": "[Look at detailed info about rooms.]"
+},
+{
+"si": 62,
+"ei": 5,
+"src": "This here maybe..."
+},
+{
+"si": 62,
+"ei": 6,
+"src": "Maybe this one..."
+},
+{
+"si": 62,
+"ei": 7,
+"src": "There seem to be a few security barriers, shielding a \"governor\" unit."
+},
+{
+"si": 62,
+"ei": 8,
+"src": "And that governor unit has ultimate control over all security units in the Administration."
+},
+{
+"si": 62,
+"ei": 9,
+"src": "This seems like useful info."
+},
+{
+"si": 64,
+"ei": 0,
+"src": "NAME: Maintenance Terminal."
+},
+{
+"si": 64,
+"ei": 1,
+"src": "[Send a cleaning unit to the restroom.]"
+},
+{
+"si": 64,
+"ei": 2,
+"src": "COMMAND: Trying to send cleaning unit. Please wait."
+},
+{
+"si": 64,
+"ei": 3,
+"src": "WAITING."
+},
+{
+"si": 64,
+"ei": 4,
+"src": "ERROR: Cleaning unit is broken."
+},
+{
+"si": 64,
+"ei": 5,
+"src": "CONFIRMATION: Cleaning unit is on the way."
+},
+{
+"si": 66,
+"ei": 0,
+"src": "NAME: Security Terminal."
+},
+{
+"si": 66,
+"ei": 1,
+"src": "[Look through recent security logs.]"
+},
+{
+"si": 66,
+"ei": 2,
+"src": "Hmmh."
+},
+{
+"si": 66,
+"ei": 3,
+"src": "Maybe this one..."
+},
+{
+"si": 66,
+"ei": 4,
+"src": "INFO: There was a software breach a few months ago."
+},
+{
+"si": 66,
+"ei": 5,
+"src": "IMPLICATION: The breach displayed patterns that could be tracked down as Collector's technology."
+},
+{
+"si": 66,
+"ei": 6,
+"src": "STATE OF INVESTIGATION: Investigation has been paused, pending return of Heptarch Hevla, head of the local Collectors."
+},
+{
+"si": 66,
+"ei": 7,
+"src": "There's nothing of interest in the other entries."
+},
+{
+"si": 66,
+"ei": 8,
+"src": "[Install software virus.]"
+},
+{
+"si": 66,
+"ei": 9,
+"src": "WARNING: Malicious code detected. Proceed with installation?"
+},
+{
+"si": 66,
+"ei": 10,
+"src": "Well. Am I sure that I want to do this on my own?"
+},
+{
+"si": 66,
+"ei": 11,
+"src": "[Cancel installation.]"
+},
+{
+"si": 66,
+"ei": 12,
+"src": "[Proceed.]"
+},
+{
+"si": 66,
+"ei": 13,
+"src": "INFO: Installing new software module."
+},
+{
+"si": 66,
+"ei": 14,
+"src": "WARNING: Security breach detected."
+},
+{
+"si": 66,
+"ei": 15,
+"src": "Well. Are we sure that we want to do this on our own?"
+},
+{
+"si": 68,
+"ei": 0,
+"src": "The flesh blocks this gate."
+},
+{
+"si": 68,
+"ei": 1,
+"src": "The flesh reacts to the memory of the Oracle's fate."
+},
+{
+"si": 68,
+"ei": 2,
+"src": "Let me in."
+},
+{
+"si": 70,
+"ei": 0,
+"src": "The flesh blocks the entrance to this building."
+},
+{
+"si": 70,
+"ei": 1,
+"src": "Anyone in there?"
+},
+{
+"si": 70,
+"ei": 2,
+"src": "No answer."
+},
+{
+"si": 70,
+"ei": 3,
+"src": "The flesh ignores you."
+},
+{
+"si": 70,
+"ei": 4,
+"src": "The flesh reacts to the memory of Morrowmeat."
+},
+{
+"si": 70,
+"ei": 5,
+"src": "Let me in."
+},
+{
+"si": 72,
+"ei": 0,
+"src": "NAME: Heptarch's Wing."
+},
+{
+"si": 72,
+"ei": 1,
+"src": "[Request info about Heptarch's Wing.]"
+},
+{
+"si": 72,
+"ei": 2,
+"src": "INFO: Living quarters of Heptarch Hevla."
+},
+{
+"si": 72,
+"ei": 3,
+"src": "INFO: Heptarch Hevla is away currently."
+},
+{
+"si": 72,
+"ei": 4,
+"src": "[Request access.]"
+},
+{
+"si": 72,
+"ei": 5,
+"src": "FAILED: Request denied due to missing credentials."
+},
+{
+"si": 72,
+"ei": 6,
+"src": "[Request access via Villa Key.]"
+},
+{
+"si": 72,
+"ei": 7,
+"src": "[Request access via Hevla's Engram.]"
+},
+{
+"si": 74,
+"ei": 0,
+"src": "NAME: Heptarch's Sanctum."
+},
+{
+"si": 74,
+"ei": 1,
+"src": "[Request info about Heptarch's Sanctum.]"
+},
+{
+"si": 74,
+"ei": 2,
+"src": "INFO: Private rooms of Heptarch Hevla."
+},
+{
+"si": 74,
+"ei": 3,
+"src": "INFO: Access to Heptarch's Sanctum is limited to Heptarch Hevla."
+}
+]

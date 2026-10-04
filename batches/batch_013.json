@@ -1,0 +1,1352 @@
+[
+{
+"si": 286,
+"ei": 84,
+"src": "I think you could talk to him now. Get a piece of savored meat of a saved Titan."
+},
+{
+"si": 286,
+"ei": 85,
+"src": "I am looking for someone who can help me acquire a fine taste."
+},
+{
+"si": 286,
+"ei": 86,
+"src": "That someone could be me."
+},
+{
+"si": 286,
+"ei": 87,
+"src": "What do you need exactly?"
+},
+{
+"si": 286,
+"ei": 88,
+"src": "The Seneschal from the Collectors wants to expand his palate."
+},
+{
+"si": 286,
+"ei": 89,
+"src": "He wants to taste something 'extraordinary'."
+},
+{
+"si": 286,
+"ei": 90,
+"src": "Oh. I know the Collectors. Won't be pleased easily."
+},
+{
+"si": 286,
+"ei": 91,
+"src": "I could help you with that. Later."
+},
+{
+"si": 286,
+"ei": 92,
+"src": "Because right now I have a taste problem of my own."
+},
+{
+"si": 286,
+"ei": 93,
+"src": "It's the worm in the pen."
+},
+{
+"si": 286,
+"ei": 94,
+"src": "There's actually something that would be the pinnacle of taste in this city, I can tell you that."
+},
+{
+"si": 286,
+"ei": 95,
+"src": "You cannot get it right away, but I can show it to you."
+},
+{
+"si": 286,
+"ei": 96,
+"src": "Let's walk over to the Meat Quarry."
+},
+{
+"si": 286,
+"ei": 97,
+"src": "Welcome, friendly flesh enthusiast."
+},
+{
+"si": 286,
+"ei": 98,
+"src": "Welcome to my humble place where we will talk about meat."
+},
+{
+"si": 286,
+"ei": 99,
+"src": "You are interested in meat, yes?"
+},
+{
+"si": 286,
+"ei": 100,
+"src": "You look a bit tart yourself, but also like having a full bouquet."
+},
+{
+"si": 288,
+"ei": 0,
+"src": "Hey. Stop that. That's mine."
+},
+{
+"si": 288,
+"ei": 1,
+"src": "That's the worm I meant."
+},
+{
+"si": 290,
+"ei": 0,
+"src": "Wait! You're not allowed to go back to the habitat."
+},
+{
+"si": 290,
+"ei": 1,
+"src": "You would risk contaminating the other citizens."
+},
+{
+"si": 290,
+"ei": 2,
+"src": "To prevent this, your life will be terminated if you enter the prohibited zone."
+},
+{
+"si": 290,
+"ei": 3,
+"src": "Please leave this corridor."
+},
+{
+"si": 292,
+"ei": 0,
+"src": "Welcome, visitor."
+},
+{
+"si": 294,
+"ei": 0,
+"src": "Hey!"
+},
+{
+"si": 296,
+"ei": 0,
+"src": "Let's talk."
+},
+{
+"si": 298,
+"ei": 0,
+"src": "Come on. Next!"
+},
+{
+"si": 298,
+"ei": 1,
+"src": "Next one."
+},
+{
+"si": 298,
+"ei": 2,
+"src": "You. Move."
+},
+{
+"si": 298,
+"ei": 3,
+"src": "Next!"
+},
+{
+"si": 298,
+"ei": 4,
+"src": "Next."
+},
+{
+"si": 300,
+"ei": 0,
+"src": "{The creature relaxes and lets go of the Flesh Spikes.}"
+},
+{
+"si": 302,
+"ei": 0,
+"src": "Hey. You wanna look at my stuff?"
+},
+{
+"si": 302,
+"ei": 1,
+"src": "Show me what you have."
+},
+{
+"si": 304,
+"ei": 0,
+"src": "Don't do anything stupid."
+},
+{
+"si": 304,
+"ei": 1,
+"src": "I'm watching you."
+},
+{
+"si": 304,
+"ei": 2,
+"src": "Wanderer! I salute you."
+},
+{
+"si": 304,
+"ei": 3,
+"src": "Wanderer!"
+},
+{
+"si": 304,
+"ei": 4,
+"src": "I heard about you. You helped us overcome the machines."
+},
+{
+"si": 306,
+"ei": 0,
+"src": "This one looks broken."
+},
+{
+"si": 308,
+"ei": 0,
+"src": "Ohhh... I don't feel so well."
+},
+{
+"si": 308,
+"ei": 1,
+"src": "Blergh."
+},
+{
+"si": 308,
+"ei": 2,
+"src": "I should get this fixed."
+},
+{
+"si": 308,
+"ei": 3,
+"src": "Maybe there's a doctor out there somewhere."
+},
+{
+"si": 310,
+"ei": 0,
+"src": "NAME: Stationary Titan Support System."
+},
+{
+"si": 310,
+"ei": 1,
+"src": "[Check status.]"
+},
+{
+"si": 310,
+"ei": 2,
+"src": "STATUS: Reflux filter working at one hundred percent."
+},
+{
+"si": 310,
+"ei": 3,
+"src": "ERROR: Reflux filter efficiency at zero percent."
+},
+{
+"si": 310,
+"ei": 4,
+"src": "ERROR: Reflux filter in need of replacement."
+},
+{
+"si": 310,
+"ei": 5,
+"src": "Fuck this thing."
+},
+{
+"si": 310,
+"ei": 6,
+"src": "[Try replacing broken filter.]"
+},
+{
+"si": 310,
+"ei": 7,
+"src": "I don't carry a fitting replacement with me."
+},
+{
+"si": 310,
+"ei": 8,
+"src": "ATTENTION: New reflux filter installed."
+},
+{
+"si": 310,
+"ei": 9,
+"src": "That seems to have done it."
+},
+{
+"si": 312,
+"ei": 0,
+"src": "It's some Flesh Titan."
+},
+{
+"si": 312,
+"ei": 1,
+"src": "It's Mother."
+},
+{
+"si": 314,
+"ei": 0,
+"src": "Looks like some scientific workstation."
+},
+{
+"si": 314,
+"ei": 1,
+"src": "It's completely destroyed."
+},
+{
+"si": 316,
+"ei": 0,
+"src": "Planet Nexus. Centuries after the Bleeding."
+},
+{
+"si": 316,
+"ei": 1,
+"src": "Amongst remnants of old civilizations..."
+},
+{
+"si": 316,
+"ei": 2,
+"src": "...humanity rests in silent cities."
+},
+{
+"si": 316,
+"ei": 3,
+"src": "While machines wander, passing judgment."
+},
+{
+"si": 316,
+"ei": 4,
+"src": "And the outcasts try to survive."
+},
+{
+"si": 318,
+"ei": 0,
+"src": "What?"
+},
+{
+"si": 318,
+"ei": 1,
+"src": "Noooooooo!"
+},
+{
+"si": 320,
+"ei": 0,
+"src": "You're still wandering around here?"
+},
+{
+"si": 320,
+"ei": 1,
+"src": "You should give your mind a bit of a rest sometimes, my friend."
+},
+{
+"si": 320,
+"ei": 2,
+"src": "Please. I'm just here for a bit of solitude."
+},
+{
+"si": 320,
+"ei": 3,
+"src": "Anything bothering you?"
+},
+{
+"si": 320,
+"ei": 4,
+"src": "It's... it's nothing. I just like to reminisce sometimes."
+},
+{
+"si": 320,
+"ei": 5,
+"src": "About the actions I did."
+},
+{
+"si": 320,
+"ei": 6,
+"src": "You see, I was taking care of my Titan. I was a guardian."
+},
+{
+"si": 320,
+"ei": 7,
+"src": "While the Titan was used as a feeder still."
+},
+{
+"si": 320,
+"ei": 8,
+"src": "I didn't see much wrong with it then. Or, to be honest, I didn't want to think much about it."
+},
+{
+"si": 320,
+"ei": 9,
+"src": "But now it bothers you?"
+},
+{
+"si": 320,
+"ei": 10,
+"src": "Yes, it does."
+},
+{
+"si": 320,
+"ei": 11,
+"src": "Apart from the obvious gruesome act... it's also just plain wrong?"
+},
+{
+"si": 320,
+"ei": 12,
+"src": "It's like taking advantage of someone innocent. For years. For decades. Maybe centuries?"
+},
+{
+"si": 320,
+"ei": 13,
+"src": "But you said it was useful for both sides."
+},
+{
+"si": 320,
+"ei": 15,
+"src": "I don't know. Can't shake the feeling we did them wrong, the Titans."
+},
+{
+"si": 320,
+"ei": 16,
+"src": "Anyway. Please let me have some solitude now."
+},
+{
+"si": 320,
+"ei": 17,
+"src": "[Stay silent.]"
+},
+{
+"si": 320,
+"ei": 19,
+"src": "Thank you for taking part in my thoughts."
+},
+{
+"si": 320,
+"ei": 20,
+"src": "A feeder?"
+},
+{
+"si": 320,
+"ei": 21,
+"src": "Oh, so you don't know about this."
+},
+{
+"si": 320,
+"ei": 22,
+"src": "Sorry, I don't really want to talk about it."
+},
+{
+"si": 320,
+"ei": 23,
+"src": "Maybe it's enough to say that it was more like a partnership."
+},
+{
+"si": 320,
+"ei": 24,
+"src": "We got the meat. They get... whatever they get out of it. I'm not really sure."
+},
+{
+"si": 322,
+"ei": 0,
+"src": "I'm looking for this place called Tauris."
+},
+{
+"si": 322,
+"ei": 1,
+"src": "Got a bit lost on my way."
+},
+{
+"si": 322,
+"ei": 2,
+"src": "You know how I can get there?"
+},
+{
+"si": 322,
+"ei": 3,
+"src": "I'm sorry, I don't."
+},
+{
+"si": 322,
+"ei": 4,
+"src": "What a pity."
+},
+{
+"si": 322,
+"ei": 5,
+"src": "I guess I'll have to find it on my own then."
+},
+{
+"si": 322,
+"ei": 6,
+"src": "Just follow that path..."
+},
+{
+"si": 322,
+"ei": 7,
+"src": "Perfect. I'll be on my way then."
+},
+{
+"si": 322,
+"ei": 8,
+"src": "It's right over there..."
+},
+{
+"si": 322,
+"ei": 9,
+"src": "Just go this way..."
+},
+{
+"si": 322,
+"ei": 10,
+"src": "Hey, are you from around here?"
+},
+{
+"si": 322,
+"ei": 11,
+"src": "Not really."
+},
+{
+"si": 322,
+"ei": 12,
+"src": "Well, it doesn't really matter if you're from here or there"
+},
+{
+"si": 322,
+"ei": 13,
+"src": "Kind of."
+},
+{
+"si": 322,
+"ei": 14,
+"src": "Hach, the Puke Bar...."
+},
+{
+"si": 322,
+"ei": 15,
+"src": "If only I had a drink..."
+},
+{
+"si": 322,
+"ei": 16,
+"src": "I could walk so much longer..."
+},
+{
+"si": 322,
+"ei": 17,
+"src": "If this goes on, I'll never find the Puke Bar."
+},
+{
+"si": 322,
+"ei": 18,
+"src": "You wouldn't happen to have something with you, right?"
+},
+{
+"si": 322,
+"ei": 19,
+"src": "How about this bottle of booze?"
+},
+{
+"si": 322,
+"ei": 20,
+"src": "Yes, yes!"
+},
+{
+"si": 322,
+"ei": 21,
+"src": "This is great."
+},
+{
+"si": 322,
+"ei": 22,
+"src": "Give it to me. I'll compensate you fairly."
+},
+{
+"si": 322,
+"ei": 23,
+"src": "Thank you so much."
+},
+{
+"si": 322,
+"ei": 24,
+"src": "I'll never forget what you did for me."
+},
+{
+"si": 322,
+"ei": 25,
+"src": "Once I get to the Puke Bar, I'm sure the drinks will be marvellous."
+},
+{
+"si": 322,
+"ei": 26,
+"src": "How did this happen?"
+},
+{
+"si": 322,
+"ei": 27,
+"src": "I was so sure I would find it this time."
+},
+{
+"si": 322,
+"ei": 28,
+"src": "But the Puke Bar just won't show up, no matter how far I walk."
+},
+{
+"si": 322,
+"ei": 29,
+"src": "I must be cursed or something."
+},
+{
+"si": 322,
+"ei": 30,
+"src": "How am I supposed to get a drink now?"
+},
+{
+"si": 322,
+"ei": 31,
+"src": "You wouldn't happen to have something with you, right?"
+},
+{
+"si": 322,
+"ei": 32,
+"src": "Several people have told me the way, yet the Puke Bar is nowhere to be seen."
+},
+{
+"si": 322,
+"ei": 33,
+"src": "Wish me luck."
+},
+{
+"si": 322,
+"ei": 34,
+"src": "Don't worry about me."
+},
+{
+"si": 322,
+"ei": 35,
+"src": "I'm sure I'll find it this time."
+},
+{
+"si": 322,
+"ei": 36,
+"src": "You told me the way after all."
+},
+{
+"si": 322,
+"ei": 37,
+"src": "We meet again."
+},
+{
+"si": 322,
+"ei": 38,
+"src": "Good news."
+},
+{
+"si": 322,
+"ei": 39,
+"src": "I've given up on reaching Tauris."
+},
+{
+"si": 322,
+"ei": 40,
+"src": "It doesn't matter if you know the way or not."
+},
+{
+"si": 322,
+"ei": 41,
+"src": "I'm now trying to get to this Puke Bar place."
+},
+{
+"si": 322,
+"ei": 42,
+"src": "Somebody told me that it should be close by..."
+},
+{
+"si": 322,
+"ei": 43,
+"src": "If somebody told you, they're probably right..."
+},
+{
+"si": 322,
+"ei": 44,
+"src": "You think so too? That's a good sign."
+},
+{
+"si": 322,
+"ei": 45,
+"src": "Yeah, almost here. Look..."
+},
+{
+"si": 322,
+"ei": 46,
+"src": "Perfect. Can't wait for a good drink."
+},
+{
+"si": 322,
+"ei": 47,
+"src": "Actually it's quite far away..."
+},
+{
+"si": 322,
+"ei": 48,
+"src": "I made sure to follow what you said precisely this time."
+},
+{
+"si": 322,
+"ei": 49,
+"src": "Yet I still couldn't find it."
+},
+{
+"si": 322,
+"ei": 50,
+"src": "No worries though."
+},
+{
+"si": 322,
+"ei": 51,
+"src": "I've met somebody else. They told me about this Puke Bar."
+},
+{
+"si": 322,
+"ei": 52,
+"src": "I think it's supposed to be near here..."
+},
+{
+"si": 322,
+"ei": 53,
+"src": "I'll find my way to Tauris. Even without your help."
+},
+{
+"si": 322,
+"ei": 54,
+"src": "Tauris. Right."
+},
+{
+"si": 322,
+"ei": 55,
+"src": "You just told me, where I need to go."
+},
+{
+"si": 322,
+"ei": 56,
+"src": "This direction, right?"
+},
+{
+"si": 322,
+"ei": 57,
+"src": "Oh, hey! It's you again."
+},
+{
+"si": 322,
+"ei": 58,
+"src": "I'm still lost."
+},
+{
+"si": 322,
+"ei": 59,
+"src": "As lost as last time."
+},
+{
+"si": 322,
+"ei": 60,
+"src": "You wouldn't happen to have learned where Tauris is by now?"
+},
+{
+"si": 322,
+"ei": 61,
+"src": "If you have, can you tell me?"
+},
+{
+"si": 322,
+"ei": 62,
+"src": "No idea..."
+},
+{
+"si": 322,
+"ei": 63,
+"src": "Well, I'll guess I'll have to follow my instincts then."
+},
+{
+"si": 322,
+"ei": 64,
+"src": "Just this way, towards the horizon..."
+},
+{
+"si": 322,
+"ei": 65,
+"src": "Great. I'm sure I'll find it this time."
+},
+{
+"si": 322,
+"ei": 66,
+"src": "It's just a bit in this direction..."
+},
+{
+"si": 322,
+"ei": 67,
+"src": "Even though you told me the way, I still haven't managed to find this Tauris place."
+},
+{
+"si": 322,
+"ei": 68,
+"src": "Just my luck, I guess."
+},
+{
+"si": 322,
+"ei": 69,
+"src": "But you know where it is, right?"
+},
+{
+"si": 322,
+"ei": 70,
+"src": "Can you point me towards it?"
+},
+{
+"si": 322,
+"ei": 71,
+"src": "This bottle you've given me..."
+},
+{
+"si": 322,
+"ei": 72,
+"src": "It was so good."
+},
+{
+"si": 322,
+"ei": 73,
+"src": "I really need to find this Puke Bar place and have some more."
+},
+{
+"si": 324,
+"ei": 0,
+"src": "Acquiring target for remote trigger termination..."
+},
+{
+"si": 326,
+"ei": 0,
+"src": "Please stop this violence."
+},
+{
+"si": 326,
+"ei": 1,
+"src": "Stop this!"
+},
+{
+"si": 328,
+"ei": 0,
+"src": "Move along. No entry allowed."
+},
+{
+"si": 330,
+"ei": 0,
+"src": "That machine looks interesting. I don't know its purpose though."
+},
+{
+"si": 332,
+"ei": 0,
+"src": "Processing..."
+},
+{
+"si": 334,
+"ei": 0,
+"src": "Target acquired. Proceeding..."
+},
+{
+"si": 336,
+"ei": 0,
+"src": "I already took what I wanted."
+},
+{
+"si": 336,
+"ei": 1,
+"src": "Nothing to do here anymore."
+},
+{
+"si": 336,
+"ei": 2,
+"src": "Looks like I can open the machine and grab the insides."
+},
+{
+"si": 336,
+"ei": 3,
+"src": "[Take the Machine Core.]"
+},
+{
+"si": 336,
+"ei": 4,
+"src": "I have it."
+},
+{
+"si": 336,
+"ei": 5,
+"src": "Probably useful."
+},
+{
+"si": 336,
+"ei": 6,
+"src": "That might be the Machine Core I was looking for."
+},
+{
+"si": 338,
+"ei": 0,
+"src": "Ha! You're out of luck."
+},
+{
+"si": 338,
+"ei": 1,
+"src": "It's still closed."
+},
+{
+"si": 338,
+"ei": 2,
+"src": "We could try to get in there."
+},
+{
+"si": 338,
+"ei": 3,
+"src": "Impossible."
+},
+{
+"si": 338,
+"ei": 4,
+"src": "At least from where we are standing."
+},
+{
+"si": 338,
+"ei": 5,
+"src": "What is?"
+},
+{
+"si": 338,
+"ei": 6,
+"src": "The entrance to the Great Perished One."
+},
+{
+"si": 338,
+"ei": 7,
+"src": "Every few months I come by and check if someone opened it."
+},
+{
+"si": 338,
+"ei": 8,
+"src": "They say it's dead. It's all dead in there."
+},
+{
+"si": 338,
+"ei": 9,
+"src": "But I don't believe it."
+},
+{
+"si": 338,
+"ei": 10,
+"src": "Bah."
+},
+{
+"si": 338,
+"ei": 11,
+"src": "Tired of eating meat all the time."
+},
+{
+"si": 338,
+"ei": 12,
+"src": "I bet they have better stuff in the city."
+},
+{
+"si": 340,
+"ei": 0,
+"src": "It's a bed."
+},
+{
+"si": 340,
+"ei": 1,
+"src": "It's MY bed."
+},
+{
+"si": 340,
+"ei": 2,
+"src": "Though I could share it with you."
+},
+{
+"si": 340,
+"ei": 3,
+"src": "Nah, I'm okay."
+},
+{
+"si": 342,
+"ei": 0,
+"src": "So. What do you want?"
+},
+{
+"si": 342,
+"ei": 1,
+"src": "Nothing, really."
+},
+{
+"si": 342,
+"ei": 2,
+"src": "Then please leave me be."
+},
+{
+"si": 342,
+"ei": 3,
+"src": "And please close the door behind you."
+},
+{
+"si": 342,
+"ei": 4,
+"src": "Just looking around."
+},
+{
+"si": 342,
+"ei": 5,
+"src": "Getting to know people?"
+},
+{
+"si": 342,
+"ei": 6,
+"src": "Something like that, I guess."
+},
+{
+"si": 342,
+"ei": 7,
+"src": "Well, I'm Marla. I'm old, so I just stay here most of the time."
+},
+{
+"si": 342,
+"ei": 8,
+"src": "I'm friends with everyone though."
+},
+{
+"si": 342,
+"ei": 9,
+"src": "Everyone?"
+},
+{
+"si": 342,
+"ei": 10,
+"src": "Yeah. Agira's best though. She takes care of me."
+},
+{
+"si": 342,
+"ei": 11,
+"src": "Even brought me cheese that one day. Only time I had some, apart from Cyberwomb."
+},
+{
+"si": 342,
+"ei": 12,
+"src": "Anything else?"
+},
+{
+"si": 342,
+"ei": 13,
+"src": "I met this... Kraken. And it needs a friend."
+},
+{
+"si": 342,
+"ei": 14,
+"src": "A friend for the Kraken, you say? ... Wait!"
+},
+{
+"si": 342,
+"ei": 15,
+"src": "Are you talking about one of the Titans here?"
+},
+{
+"si": 342,
+"ei": 16,
+"src": "I guess. ... It seemed a bit lonely."
+},
+{
+"si": 342,
+"ei": 17,
+"src": "Ohh. Really? I suppose they could have feelings like that."
+},
+{
+"si": 342,
+"ei": 18,
+"src": "Did you ever meet the Kraken?"
+},
+{
+"si": 342,
+"ei": 19,
+"src": "No. You think I would ever leave Tauris again? I'm not as mad as you, traveling through the world."
+},
+{
+"si": 342,
+"ei": 20,
+"src": "So where would I get a friend for the Kraken?"
+},
+{
+"si": 342,
+"ei": 21,
+"src": "I don't know, really. ... Oh wait. Maybe Mortus can help you."
+},
+{
+"si": 342,
+"ei": 22,
+"src": "Yes. He's a good one."
+},
+{
+"si": 342,
+"ei": 23,
+"src": "Knows all kinds of stuff about the flesh."
+},
+{
+"si": 342,
+"ei": 24,
+"src": "He's living underground in the old facilities."
+},
+{
+"si": 342,
+"ei": 25,
+"src": "You can get there through one of the other houses."
+},
+{
+"si": 342,
+"ei": 26,
+"src": "Ok. Thanks."
+},
+{
+"si": 342,
+"ei": 27,
+"src": "Oh, I've met him. Thanks."
+},
+{
+"si": 342,
+"ei": 28,
+"src": "Hey! Close the door, please."
+},
+{
+"si": 344,
+"ei": 0,
+"src": "Meat! You want to buy some meat?"
+},
+{
+"si": 344,
+"ei": 1,
+"src": "Is it safe to eat it raw like that?"
+},
+{
+"si": 344,
+"ei": 2,
+"src": "Yeah. Everyone around here does."
+},
+{
+"si": 344,
+"ei": 3,
+"src": "What's with all the meat everywhere, anyway?"
+},
+{
+"si": 344,
+"ei": 4,
+"src": "It's just there. Grows."
+},
+{
+"si": 344,
+"ei": 5,
+"src": "Oh, and takes craftsmanship to pick the best pieces of course."
+},
+{
+"si": 344,
+"ei": 6,
+"src": "Yeah, but where does it come from?"
+},
+{
+"si": 344,
+"ei": 7,
+"src": "Honestly, I don't know."
+},
+{
+"si": 344,
+"ei": 8,
+"src": "As far as I remember it has always been growing everywhere, right from the ground."
+},
+{
+"si": 344,
+"ei": 9,
+"src": "Maybe we're living on a planet full of flesh and right now we're standing on a crust of stone and dirt."
+},
+{
+"si": 344,
+"ei": 10,
+"src": "So, do you want a piece of meat now?"
+},
+{
+"si": 344,
+"ei": 11,
+"src": "Fresh meat for everyone."
+},
+{
+"si": 344,
+"ei": 12,
+"src": "Hey, you're new here, right?"
+},
+{
+"si": 344,
+"ei": 13,
+"src": "Here's your meat."
+},
+{
+"si": 344,
+"ei": 14,
+"src": "We take care of everyone. If you want more though, you have to pay."
+},
+{
+"si": 346,
+"ei": 0,
+"src": "Hey. I'm busy."
+},
+{
+"si": 346,
+"ei": 1,
+"src": "Have to prepare this fine meat."
+},
+{
+"si": 346,
+"ei": 2,
+"src": "Talk to Gonzo if you want to have some."
+},
+{
+"si": 348,
+"ei": 0,
+"src": "[Murmurs something.]"
+},
+{
+"si": 348,
+"ei": 1,
+"src": "Hmmh."
+},
+{
+"si": 348,
+"ei": 2,
+"src": "[Says nothing.]"
+},
+{
+"si": 350,
+"ei": 0,
+"src": "CURRENT ENTRANCE GUARD RESPONSE LEVEL SET TO:"
+},
+{
+"si": 350,
+"ei": 1,
+"src": "LEVEL 2. ATTACK ON SIGHT."
+},
+{
+"si": 350,
+"ei": 2,
+"src": "[Hack Machine.]"
+},
+{
+"si": 350,
+"ei": 3,
+"src": "CREDENTIAL OVERRIDE ACTIVATED."
+},
+{
+"si": 350,
+"ei": 4,
+"src": "RESPONSE LEVEL OF NEARBY DROIDS MAY NOW BE CHANGED."
+},
+{
+"si": 350,
+"ei": 5,
+"src": "CURRENT RESPONSE LEVEL IS:"
+},
+{
+"si": 350,
+"ei": 6,
+"src": "Set to level 2. Attack on sight."
+},
+{
+"si": 350,
+"ei": 7,
+"src": "MISSING CREDENTIALS. ACCESS DENIED."
+},
+{
+"si": 350,
+"ei": 8,
+"src": "OVERRIDING RESPONSE LEVEL FOR NEARBY DROIDS."
+},
+{
+"si": 350,
+"ei": 9,
+"src": "RESPONSE LEVEL HAS BEEN SET TO:"
+},
+{
+"si": 350,
+"ei": 10,
+"src": "Set to level 1. Detection through weapon scan."
+},
+{
+"si": 350,
+"ei": 11,
+"src": "Set to level 0. Peaceful."
+},
+{
+"si": 350,
+"ei": 12,
+"src": "LEVEL 1. TARGET DETECTION THROUGH WEAPON SCAN."
+},
+{
+"si": 350,
+"ei": 13,
+"src": "LEVEL 0. PEACEFUL."
+},
+{
+"si": 352,
+"ei": 0,
+"src": "CURRENT FACTORY PATROL RESPONSE LEVEL SET TO:"
+},
+{
+"si": 355,
+"ei": 0,
+"src": "CURRENT CHECK ROOM GUARD RESPONSE LEVEL SET TO:"
+},
+{
+"si": 357,
+"ei": 0,
+"src": "CURRENT LAB SECURITY RESPONSE LEVEL SET TO:"
+},
+{
+"si": 359,
+"ei": 0,
+"src": "CURRENT OFFICE SECURITY RESPONSE LEVEL SET TO:"
+},
+{
+"si": 361,
+"ei": 0,
+"src": "CURRENT STORAGE HALL SECURITY LEVEL SET TO:"
+},
+{
+"si": 363,
+"ei": 0,
+"src": "There's a broom, a bucket and a bunch of squished bottles."
+},
+{
+"si": 363,
+"ei": 1,
+"src": "And some porn mags."
+},
+{
+"si": 363,
+"ei": 2,
+"src": "Oldschool."
+},
+{
+"si": 365,
+"ei": 0,
+"src": "WELCOME TO OPERATION SITE ODYSSEUS."
+},
+{
+"si": 365,
+"ei": 1,
+"src": "THIS IS A HIGH SECURITY ENVIRONMENT."
+},
+{
+"si": 365,
+"ei": 2,
+"src": "PLEASE PLACE ALL HARMFUL ITEMS IN THE SECURITY STORAGE BOX."
+},
+{
+"si": 365,
+"ei": 3,
+"src": "IT IS FORBIDDEN TO RECORD PROCEEDINGS IN THIS FACILITY."
+},
+{
+"si": 365,
+"ei": 4,
+"src": "OUR SECURITY BOTS ARE HERE TO ENSURE YOUR SAFETY."
+}
+]

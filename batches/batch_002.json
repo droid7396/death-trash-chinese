@@ -1,0 +1,1467 @@
+[
+{
+"si": 0,
+"ei": 886,
+"src": "Infection"
+},
+{
+"si": 0,
+"ei": 887,
+"src": "You cannot eat more of this"
+},
+{
+"si": 0,
+"ei": 888,
+"src": "Will add {0} to infection."
+},
+{
+"si": 0,
+"ei": 889,
+"src": "FMOD audio system could not be initialized.||||Check the audio config of your computer.||Check if restarting your computer solves this.||Try disabling unused audio devices (e.g. display device through HDMI).||Check if reinstalling the game solves this."
+},
+{
+"si": 0,
+"ei": 890,
+"src": "Feedback"
+},
+{
+"si": 0,
+"ei": 891,
+"src": "Report feedback & bugs"
+},
+{
+"si": 0,
+"ei": 892,
+"src": "No Active Ability selected"
+},
+{
+"si": 0,
+"ei": 893,
+"src": "To Upper Level"
+},
+{
+"si": 0,
+"ei": 894,
+"src": "To Lower Level"
+},
+{
+"si": 0,
+"ei": 895,
+"src": "Avoided stun"
+},
+{
+"si": 0,
+"ei": 896,
+"src": "You are being watched!"
+},
+{
+"si": 0,
+"ei": 897,
+"src": "Keyboard movement only.||Automatic switching between melee and ranged through active targeting button (default: right mouse button)."
+},
+{
+"si": 0,
+"ei": 898,
+"src": "Half-Automatic"
+},
+{
+"si": 0,
+"ei": 899,
+"src": "Base Damage"
+},
+{
+"si": 0,
+"ei": 900,
+"src": "Max Damage"
+},
+{
+"si": 0,
+"ei": 901,
+"src": "Stages"
+},
+{
+"si": 0,
+"ei": 902,
+"src": "Charging Duration"
+},
+{
+"si": 0,
+"ei": 903,
+"src": "Select [0]{0}||with {1}"
+},
+{
+"si": 0,
+"ei": 904,
+"src": "Use ability or item"
+},
+{
+"si": 0,
+"ei": 905,
+"src": "No weapons"
+},
+{
+"si": 0,
+"ei": 906,
+"src": "Quests"
+},
+{
+"si": 0,
+"ei": 907,
+"src": "Ability is not equipped"
+},
+{
+"si": 0,
+"ei": 908,
+"src": "Previous Ability"
+},
+{
+"si": 0,
+"ei": 909,
+"src": "All Actions {0}  Equip / Consume {1}  Close {2} / {3}"
+},
+{
+"si": 0,
+"ei": 910,
+"src": "All Actions {0}  Buy / Sell {1}  Toggle  {2}  Close {3}"
+},
+{
+"si": 0,
+"ei": 911,
+"src": "(here)"
+},
+{
+"si": 0,
+"ei": 912,
+"src": "Handheld UI Mode"
+},
+{
+"si": 0,
+"ei": 913,
+"src": "Use this to enable the handheld mode (extra UI scaling) when the game is running on a device like the Steam Deck but the game doesn't enable this mode automatically."
+},
+{
+"si": 0,
+"ei": 914,
+"src": "Equipped item cannot be replaced"
+},
+{
+"si": 0,
+"ei": 915,
+"src": "Item cannot be unequipped"
+},
+{
+"si": 0,
+"ei": 916,
+"src": "Range"
+},
+{
+"si": 0,
+"ei": 917,
+"src": "Mountain Path"
+},
+{
+"si": 0,
+"ei": 918,
+"src": "The Tower"
+},
+{
+"si": 0,
+"ei": 919,
+"src": "Cyborg"
+},
+{
+"si": 0,
+"ei": 920,
+"src": "-> Edit Level Hub from base game"
+},
+{
+"si": 0,
+"ei": 921,
+"src": "-> Create New Mod"
+},
+{
+"si": 0,
+"ei": 922,
+"src": "Edit entry {0}||Delete entry {1}||Reset entry {2}"
+},
+{
+"si": 0,
+"ei": 923,
+"src": "Cancel {0}"
+},
+{
+"si": 0,
+"ei": 924,
+"src": "Puke"
+},
+{
+"si": 0,
+"ei": 925,
+"src": "Magazine Size"
+},
+{
+"si": 0,
+"ei": 926,
+"src": "Magazine size"
+},
+{
+"si": 0,
+"ei": 927,
+"src": "Shots per second"
+},
+{
+"si": 0,
+"ei": 928,
+"src": "Tauris"
+},
+{
+"si": 0,
+"ei": 929,
+"src": "Reload needed"
+},
+{
+"si": 0,
+"ei": 930,
+"src": "Automatic shooting for all ranged weapons"
+},
+{
+"si": 0,
+"ei": 931,
+"src": "Keep holding input to continue shooting."
+},
+{
+"si": 0,
+"ei": 932,
+"src": "Automatic weapon reloading"
+},
+{
+"si": 0,
+"ei": 933,
+"src": "Triggers reloading when trying to shoot and the magazine is empty."
+},
+{
+"si": 0,
+"ei": 934,
+"src": "Return to the real world"
+},
+{
+"si": 0,
+"ei": 935,
+"src": "You have been watched!"
+},
+{
+"si": 0,
+"ei": 936,
+"src": "The Perished City"
+},
+{
+"si": 0,
+"ei": 937,
+"src": "Failed - Challenge will reset"
+},
+{
+"si": 0,
+"ei": 938,
+"src": "Challenge over"
+},
+{
+"si": 0,
+"ei": 939,
+"src": "Couldn't find asset for ID: {0}"
+},
+{
+"si": 0,
+"ei": 940,
+"src": "Mouse and Keyboard"
+},
+{
+"si": 0,
+"ei": 941,
+"src": "Controller"
+},
+{
+"si": 0,
+"ei": 942,
+"src": "This setting changes how the angle of direct character movement input is processed.||||By default all movement in the game is scaled down in vertical direction to better align with the visual perspective, and this also affects the input angles. You can switch this off. If unsure, leave this at default."
+},
+{
+"si": 0,
+"ei": 943,
+"src": "Gameplay"
+},
+{
+"si": 0,
+"ei": 944,
+"src": "Includes showing exploding bodies."
+},
+{
+"si": 0,
+"ei": 945,
+"src": "Temporarily switches the language of the game to this one through specific input."
+},
+{
+"si": 0,
+"ei": 946,
+"src": "Leave - Press {0} again"
+},
+{
+"si": 0,
+"ei": 947,
+"src": "Input for cancelling dialogue"
+},
+{
+"si": 0,
+"ei": 948,
+"src": "Simple Press"
+},
+{
+"si": 0,
+"ei": 949,
+"src": "Double Press"
+},
+{
+"si": 0,
+"ei": 950,
+"src": "Lingering not possible here"
+},
+{
+"si": 0,
+"ei": 951,
+"src": "Debug Console"
+},
+{
+"si": 0,
+"ei": 952,
+"src": "Enter command..."
+},
+{
+"si": 0,
+"ei": 954,
+"src": "Descriptions: On  {0}"
+},
+{
+"si": 0,
+"ei": 955,
+"src": "Descriptions: Off  {0}"
+},
+{
+"si": 0,
+"ei": 956,
+"src": "Last manual save"
+},
+{
+"si": 0,
+"ei": 957,
+"src": "Last save"
+},
+{
+"si": 0,
+"ei": 958,
+"src": "Other"
+},
+{
+"si": 0,
+"ei": 959,
+"src": "Catch"
+},
+{
+"si": 0,
+"ei": 960,
+"src": "Not valid for this action"
+},
+{
+"si": 0,
+"ei": 961,
+"src": "Ranged Combat Aiming Help"
+},
+{
+"si": 0,
+"ei": 962,
+"src": "Comments"
+},
+{
+"si": 0,
+"ei": 963,
+"src": "Player 1: Comments"
+},
+{
+"si": 0,
+"ei": 964,
+"src": "Player 2: Comments"
+},
+{
+"si": 0,
+"ei": 965,
+"src": "None"
+},
+{
+"si": 0,
+"ei": 966,
+"src": "Unassigned"
+},
+{
+"si": 0,
+"ei": 967,
+"src": "Couldn't save game"
+},
+{
+"si": 0,
+"ei": 968,
+"src": "Grenade triggered"
+},
+{
+"si": 0,
+"ei": 969,
+"src": "Character will make random comments for simple actions like looting items."
+},
+{
+"si": 0,
+"ei": 970,
+"src": "Player 1"
+},
+{
+"si": 0,
+"ei": 971,
+"src": "Player 2"
+},
+{
+"si": 0,
+"ei": 972,
+"src": "Switch to ranged weapon||via action bar or usage of custom key binding"
+},
+{
+"si": 0,
+"ei": 973,
+"src": "Quest updated"
+},
+{
+"si": 0,
+"ei": 974,
+"src": "Inside the Oracle's Mind"
+},
+{
+"si": 0,
+"ei": 975,
+"src": "Bleeding"
+},
+{
+"si": 0,
+"ei": 976,
+"src": "High contrast stealth visuals"
+},
+{
+"si": 0,
+"ei": 977,
+"src": "Sending..."
+},
+{
+"si": 0,
+"ei": 978,
+"src": "Ignore"
+},
+{
+"si": 0,
+"ei": 979,
+"src": "Send"
+},
+{
+"si": 0,
+"ei": 980,
+"src": "- Previous Crash -"
+},
+{
+"si": 0,
+"ei": 981,
+"src": "- Send Crash Report -"
+},
+{
+"si": 0,
+"ei": 982,
+"src": "Records of a crash during a previous play session detected. Send report?||<size=12>||The following items will be sent:||||[FileNames]Basic Hardware and Game Info</size>"
+},
+{
+"si": 0,
+"ei": 984,
+"src": "I"
+},
+{
+"si": 0,
+"ei": 985,
+"src": "II"
+},
+{
+"si": 0,
+"ei": 986,
+"src": "III"
+},
+{
+"si": 0,
+"ei": 987,
+"src": "IV"
+},
+{
+"si": 0,
+"ei": 988,
+"src": "V"
+},
+{
+"si": 0,
+"ei": 989,
+"src": "VI"
+},
+{
+"si": 0,
+"ei": 990,
+"src": "VII"
+},
+{
+"si": 0,
+"ei": 991,
+"src": "VIII"
+},
+{
+"si": 0,
+"ei": 992,
+"src": "IX"
+},
+{
+"si": 0,
+"ei": 993,
+"src": "X"
+},
+{
+"si": 0,
+"ei": 994,
+"src": "Open Steam Input"
+},
+{
+"si": 0,
+"ei": 995,
+"src": "Show headwear"
+},
+{
+"si": 0,
+"ei": 996,
+"src": "Hide headwear"
+},
+{
+"si": 0,
+"ei": 997,
+"src": "[Back]"
+},
+{
+"si": 0,
+"ei": 998,
+"src": "[Trade with merchant.]"
+},
+{
+"si": 0,
+"ei": 999,
+"src": "Filled: {0} %"
+},
+{
+"si": 0,
+"ei": 1000,
+"src": "Fill up"
+},
+{
+"si": 0,
+"ei": 1001,
+"src": "Roadmap"
+},
+{
+"si": 0,
+"ei": 1002,
+"src": "Support"
+},
+{
+"si": 0,
+"ei": 1003,
+"src": "Stranger"
+},
+{
+"si": 0,
+"ei": 1004,
+"src": "Battle won"
+},
+{
+"si": 0,
+"ei": 1005,
+"src": "Will remove {0} from infection."
+},
+{
+"si": 0,
+"ei": 1006,
+"src": "Pain"
+},
+{
+"si": 0,
+"ei": 1007,
+"src": "Manual Quicksave missing"
+},
+{
+"si": 2,
+"ei": 0,
+"src": "Take care. Look out for yourself."
+},
+{
+"si": 2,
+"ei": 1,
+"src": "Isn't it nice how the sun is always shining?"
+},
+{
+"si": 2,
+"ei": 2,
+"src": "I like this place. Almost feels like home now."
+},
+{
+"si": 2,
+"ei": 3,
+"src": "I admit I was angry when they threw me out. \"Unstable mind.\" Fucking pussies."
+},
+{
+"si": 2,
+"ei": 4,
+"src": "But it's all good now."
+},
+{
+"si": 2,
+"ei": 5,
+"src": "Just miss the Cyberwomb sometimes."
+},
+{
+"si": 2,
+"ei": 6,
+"src": "What's your crime?"
+},
+{
+"si": 2,
+"ei": 7,
+"src": "Crime?"
+},
+{
+"si": 2,
+"ei": 8,
+"src": "For getting thrown out. What did you do?"
+},
+{
+"si": 2,
+"ei": 9,
+"src": "I don't know."
+},
+{
+"si": 2,
+"ei": 10,
+"src": "Alright. You don't have to tell me."
+},
+{
+"si": 2,
+"ei": 11,
+"src": "Take care."
+},
+{
+"si": 2,
+"ei": 12,
+"src": "Nothing. It was due to medical reasons."
+},
+{
+"si": 2,
+"ei": 13,
+"src": "Eh, why exactly?"
+},
+{
+"si": 2,
+"ei": 14,
+"src": "I don't know."
+},
+{
+"si": 2,
+"ei": 15,
+"src": "Infectious reasons."
+},
+{
+"si": 2,
+"ei": 17,
+"src": "I think it's better if you keep some distance now."
+},
+{
+"si": 2,
+"ei": 18,
+"src": "Alright."
+},
+{
+"si": 2,
+"ei": 19,
+"src": "Stay away from me."
+},
+{
+"si": 4,
+"ei": 0,
+"src": "What brings you here, again?"
+},
+{
+"si": 4,
+"ei": 1,
+"src": "I've met an Oracle."
+},
+{
+"si": 4,
+"ei": 2,
+"src": "You've met THE Oracle?"
+},
+{
+"si": 4,
+"ei": 3,
+"src": "You know him?"
+},
+{
+"si": 4,
+"ei": 4,
+"src": "Never met him personally. But the Oracle is well known to me."
+},
+{
+"si": 4,
+"ei": 5,
+"src": "How was your meeting with the Oracle?"
+},
+{
+"si": 4,
+"ei": 6,
+"src": "Sounds like he's in danger. He wanted me to get him out of there."
+},
+{
+"si": 4,
+"ei": 7,
+"src": "Danger? What kind of danger?"
+},
+{
+"si": 4,
+"ei": 8,
+"src": "He said someone is searching for him."
+},
+{
+"si": 4,
+"ei": 9,
+"src": "Who is that someone?"
+},
+{
+"si": 4,
+"ei": 10,
+"src": "I don't know. The Oracle wasn't very coherent."
+},
+{
+"si": 4,
+"ei": 11,
+"src": "So where is the Oracle now? Did you get him out of there?"
+},
+{
+"si": 4,
+"ei": 12,
+"src": "No. It's... I didn't really meet him physically. I think."
+},
+{
+"si": 4,
+"ei": 13,
+"src": "He was in some cave, but I reached out to him by communicating through the flesh."
+},
+{
+"si": 4,
+"ei": 14,
+"src": "Wait! It was you who reached out first and not the other way around?"
+},
+{
+"si": 4,
+"ei": 15,
+"src": "Yes. You think it's important?"
+},
+{
+"si": 4,
+"ei": 16,
+"src": "I do. We should clarify this later when we have more time."
+},
+{
+"si": 4,
+"ei": 17,
+"src": "For now we have to deal with the Oracle being in danger."
+},
+{
+"si": 4,
+"ei": 18,
+"src": "He is one of the Titans. We need to protect him, **forename** of the Flesh."
+},
+{
+"si": 4,
+"ei": 19,
+"src": "I don't think so."
+},
+{
+"si": 4,
+"ei": 20,
+"src": "Fuck that! You made me believe you were someone who cared."
+},
+{
+"si": 4,
+"ei": 21,
+"src": "You were curious enough to let your fate guide you here. And interested enough so that you told me about the Oracle."
+},
+{
+"si": 4,
+"ei": 22,
+"src": "You want to walk away from this now?"
+},
+{
+"si": 4,
+"ei": 23,
+"src": "Yes. I don't want to help."
+},
+{
+"si": 4,
+"ei": 24,
+"src": "Then leave my home. And don't return."
+},
+{
+"si": 4,
+"ei": 25,
+"src": "You're not welcome here anymore."
+},
+{
+"si": 4,
+"ei": 26,
+"src": "Alright. I guess I'll help."
+},
+{
+"si": 4,
+"ei": 27,
+"src": "Good. I'm glad that you changed your mind."
+},
+{
+"si": 4,
+"ei": 28,
+"src": "First we'll have to find the Oracle."
+},
+{
+"si": 4,
+"ei": 29,
+"src": "The Philosopher is an old friend of mine and knows many of the other Titans. We should ask him."
+},
+{
+"si": 4,
+"ei": 30,
+"src": "Journey straight to the east from here, **forename** of the Flesh, and visit the Philosopher."
+},
+{
+"si": 4,
+"ei": 31,
+"src": "You might also ask him about your communication with the flesh."
+},
+{
+"si": 4,
+"ei": 32,
+"src": "I'll try to contact another friend in the meantime."
+},
+{
+"si": 4,
+"ei": 33,
+"src": "Ok. I'll travel to the Philosopher."
+},
+{
+"si": 4,
+"ei": 34,
+"src": "Fine. Let's meet again here afterwards."
+},
+{
+"si": 4,
+"ei": 35,
+"src": "Good luck."
+},
+{
+"si": 4,
+"ei": 36,
+"src": "Don't let the waste skin you."
+},
+{
+"si": 4,
+"ei": 37,
+"src": "Actually, I met the Philosopher already."
+},
+{
+"si": 4,
+"ei": 38,
+"src": "The Philosopher is dead."
+},
+{
+"si": 4,
+"ei": 39,
+"src": "Dead? Holy flesh. This can't be."
+},
+{
+"si": 4,
+"ei": 40,
+"src": "Is he..."
+},
+{
+"si": 4,
+"ei": 41,
+"src": "[She looks down in silence.]"
+},
+{
+"si": 4,
+"ei": 43,
+"src": "How did it happen?"
+},
+{
+"si": 4,
+"ei": 44,
+"src": "I don't know."
+},
+{
+"si": 4,
+"ei": 45,
+"src": "But I found this recording. Extracted from the machine the Philosopher was connected to."
+},
+{
+"si": 4,
+"ei": 46,
+"src": "Let me see."
+},
+{
+"si": 4,
+"ei": 47,
+"src": "This works as a world config container. We could build a Cyberwomb module from that to experience the recording."
+},
+{
+"si": 4,
+"ei": 48,
+"src": "I'll let you do it."
+},
+{
+"si": 4,
+"ei": 49,
+"src": "Hand it over to the Master Processor over there."
+},
+{
+"si": 4,
+"ei": 50,
+"src": "Will do."
+},
+{
+"si": 4,
+"ei": 51,
+"src": "Ok."
+},
+{
+"si": 4,
+"ei": 52,
+"src": "It's good that we're doing this together."
+},
+{
+"si": 4,
+"ei": 53,
+"src": "I've been infected."
+},
+{
+"si": 4,
+"ei": 54,
+"src": "Tell me about this, **forename** of the Flesh."
+},
+{
+"si": 4,
+"ei": 55,
+"src": "I'm not sure what sickness this is. Feels like my organs are in turmoil."
+},
+{
+"si": 4,
+"ei": 56,
+"src": "I have to puke a lot."
+},
+{
+"si": 4,
+"ei": 57,
+"src": "This sickness I know. But I'm no traditional healer."
+},
+{
+"si": 4,
+"ei": 58,
+"src": "There's a doctor in Tauris if you need one."
+},
+{
+"si": 4,
+"ei": 59,
+"src": "Oh, good to know."
+},
+{
+"si": 4,
+"ei": 60,
+"src": "What else?"
+},
+{
+"si": 4,
+"ei": 61,
+"src": "I've been to the doctor. Wasn't much help."
+},
+{
+"si": 4,
+"ei": 62,
+"src": "Then I talked to Mortus. He's investigating the Flesh Nexus."
+},
+{
+"si": 4,
+"ei": 63,
+"src": "The Flesh Nexus?"
+},
+{
+"si": 4,
+"ei": 64,
+"src": "The veins of flesh everywhere."
+},
+{
+"si": 4,
+"ei": 65,
+"src": "That's a fitting name."
+},
+{
+"si": 4,
+"ei": 66,
+"src": "By the Titans! How did you get in?"
+},
+{
+"si": 4,
+"ei": 67,
+"src": "I commanded the flesh to let me in."
+},
+{
+"si": 4,
+"ei": 68,
+"src": "[She sniffs.]"
+},
+{
+"si": 4,
+"ei": 69,
+"src": "You reek of the flesh. You speak true."
+},
+{
+"si": 4,
+"ei": 70,
+"src": "I'm Aksa."
+},
+{
+"si": 4,
+"ei": 71,
+"src": "I'm **forename**."
+},
+{
+"si": 4,
+"ei": 72,
+"src": "Welcome, **forename** of the Flesh."
+},
+{
+"si": 4,
+"ei": 73,
+"src": "What brings you here?"
+},
+{
+"si": 4,
+"ei": 74,
+"src": "You have your task. See you later."
+},
+{
+"si": 4,
+"ei": 75,
+"src": "What's up?"
+},
+{
+"si": 4,
+"ei": 76,
+"src": "I created the Cyberwomb Module of the recording."
+},
+{
+"si": 4,
+"ei": 77,
+"src": "That's good to hear, **forename** of the Flesh. Let's take a look at it. Together."
+},
+{
+"si": 4,
+"ei": 78,
+"src": "I wonder what we'll encounter. You've been to a Cyberwomb before?"
+},
+{
+"si": 4,
+"ei": 79,
+"src": "I spent most of my life in Omniwomb."
+},
+{
+"si": 4,
+"ei": 80,
+"src": "That's similar enough."
+},
+{
+"si": 4,
+"ei": 81,
+"src": "Follow me."
+},
+{
+"si": 4,
+"ei": 82,
+"src": "About the recording..."
+},
+{
+"si": 4,
+"ei": 83,
+"src": "Hand it over to the Master Processor."
+},
+{
+"si": 4,
+"ei": 84,
+"src": "Ok."
+},
+{
+"si": 4,
+"ei": 85,
+"src": "You have returned."
+},
+{
+"si": 4,
+"ei": 86,
+"src": "I told you to leave my home. This is your last warning. Leave, NOW!"
+},
+{
+"si": 4,
+"ei": 87,
+"src": "Enough is enough. This is your death."
+},
+{
+"si": 4,
+"ei": 88,
+"src": "Let's enter the Cyberwomb."
+},
+{
+"si": 6,
+"ei": 0,
+"src": "Welcome back."
+},
+{
+"si": 6,
+"ei": 1,
+"src": "Have you found the Oracle?"
+},
+{
+"si": 6,
+"ei": 2,
+"src": "No luck, yet."
+},
+{
+"si": 6,
+"ei": 3,
+"src": "Yes, I have. I found him in New Delphi."
+},
+{
+"si": 6,
+"ei": 4,
+"src": "I visited his mind. Unfortunately the Feeder had been there already."
+},
+{
+"si": 6,
+"ei": 5,
+"src": "In the mind of the Oracle?"
+},
+{
+"si": 6,
+"ei": 6,
+"src": "Yeah. Physically too, maybe."
+},
+{
+"si": 6,
+"ei": 7,
+"src": "So how was the Oracle?"
+},
+{
+"si": 6,
+"ei": 8,
+"src": "He was a mess. What he said wasn't very coherent."
+},
+{
+"si": 6,
+"ei": 9,
+"src": "According to him the Feeder is in search of the Wormwound."
+},
+{
+"si": 6,
+"ei": 10,
+"src": "The Wormwound?"
+},
+{
+"si": 6,
+"ei": 11,
+"src": "[She looks puzzled.]"
+},
+{
+"si": 6,
+"ei": 12,
+"src": "Do you know what that is?"
+},
+{
+"si": 6,
+"ei": 13,
+"src": "Not really. But it's connected to the flesh. The Oracle called it the origin."
+},
+{
+"si": 6,
+"ei": 14,
+"src": "I never heard about this before."
+},
+{
+"si": 6,
+"ei": 15,
+"src": "**forename** of the Flesh, this is exciting."
+},
+{
+"si": 6,
+"ei": 16,
+"src": "Exciting?"
+},
+{
+"si": 6,
+"ei": 17,
+"src": "Yes, it's very exciting. Could be devastating and dangerous, too, no?"
+},
+{
+"si": 6,
+"ei": 18,
+"src": "[She sniffs.]"
+},
+{
+"si": 6,
+"ei": 19,
+"src": "I smell your excitement, too. You and me, we're of the same flesh."
+},
+{
+"si": 6,
+"ei": 20,
+"src": "You're wrong."
+},
+{
+"si": 6,
+"ei": 21,
+"src": "Hmmh."
+},
+{
+"si": 6,
+"ei": 22,
+"src": "Then I might have misinterpreted."
+},
+{
+"si": 6,
+"ei": 23,
+"src": "So where is this Wormwound?"
+},
+{
+"si": 6,
+"ei": 24,
+"src": "The Oracle couldn't tell exactly."
+},
+{
+"si": 6,
+"ei": 25,
+"src": "He said north. Somewhere north. And that the Perished City might hold answers."
+},
+{
+"si": 6,
+"ei": 26,
+"src": "That's not very specific."
+},
+{
+"si": 6,
+"ei": 27,
+"src": "He's an Oracle."
+},
+{
+"si": 6,
+"ei": 28,
+"src": "Sure."
+},
+{
+"si": 6,
+"ei": 29,
+"src": "But the Perished City is closed. I've never been there."
+},
+{
+"si": 6,
+"ei": 30,
+"src": "He mentioned there might be a path through the mountains."
+},
+{
+"si": 6,
+"ei": 31,
+"src": "Good. ... Then I suggest you go looking for that path and try to get into the city."
+},
+{
+"si": 6,
+"ei": 32,
+"src": "I cannot leave here yet."
+},
+{
+"si": 6,
+"ei": 33,
+"src": "Please contact me when you found out where this Wormwound is."
+},
+{
+"si": 6,
+"ei": 34,
+"src": "Will do."
+},
+{
+"si": 6,
+"ei": 35,
+"src": "Thank you."
+},
+{
+"si": 6,
+"ei": 36,
+"src": "I guess so."
+},
+{
+"si": 6,
+"ei": 37,
+"src": "I knew it."
+},
+{
+"si": 6,
+"ei": 38,
+"src": "What now?"
+},
+{
+"si": 6,
+"ei": 39,
+"src": "You have to find the Oracle before the Feeder does."
+},
+{
+"si": 6,
+"ei": 40,
+"src": "Our best bet of discovering the Oracle is to ask around at a busy place."
+},
+{
+"si": 6,
+"ei": 41,
+"src": "Travel south to the Puke Bar and ask around there."
+},
+{
+"si": 6,
+"ei": 42,
+"src": "Oh, and I know there's a Cyberwomb in the Puke Bar, too."
+},
+{
+"si": 6,
+"ei": 43,
+"src": "You'll find a power module for it in the underground here in Old Trees."
+},
+{
+"si": 6,
+"ei": 44,
+"src": "And I'll give you this virtual representation of Old Trees, and we use this as a meeting point."
+},
+{
+"si": 6,
+"ei": 45,
+"src": "The Cyberwombs in the Puke Bar and the one here in Old Trees are connected."
+},
+{
+"si": 6,
+"ei": 46,
+"src": "Good luck."
+},
+{
+"si": 6,
+"ei": 47,
+"src": "Thank you. Bye."
+},
+{
+"si": 8,
+"ei": 0,
+"src": "My old friend..."
+},
+{
+"si": 8,
+"ei": 1,
+"src": "It's been a while since I was here."
+},
+{
+"si": 8,
+"ei": 2,
+"src": "Where are we, exactly?"
+},
+{
+"si": 8,
+"ei": 3,
+"src": "This is a Cyberwomb of the Philosopher's Lair."
+},
+{
+"si": 8,
+"ei": 4,
+"src": "A near as possible representation, I guess."
+},
+{
+"si": 8,
+"ei": 5,
+"src": "Our bodies are safe while we're in here, right?"
+},
+{
+"si": 8,
+"ei": 6,
+"src": "Yes."
+},
+{
+"si": 8,
+"ei": 7,
+"src": "It's a full virtual sensory experience like the Omniwomb. Nothing happens to your real bodies."
+},
+{
+"si": 8,
+"ei": 8,
+"src": "Oh, good to know."
+},
+{
+"si": 8,
+"ei": 9,
+"src": "So what do we do here?"
+},
+{
+"si": 8,
+"ei": 10,
+"src": "We're examining the remnants of the Philosopher. Let's explore."
+},
+{
+"si": 8,
+"ei": 11,
+"src": "The Feeder..."
+},
+{
+"si": 8,
+"ei": 12,
+"src": "Yeah, I heard it."
+},
+{
+"si": 8,
+"ei": 13,
+"src": "Let's return to the physical world."
+},
+{
+"si": 10,
+"ei": 0,
+"src": "Welcome back."
+},
+{
+"si": 10,
+"ei": 1,
+"src": "About the Oracle..."
+},
+{
+"si": 10,
+"ei": 2,
+"src": "What now?"
+},
+{
+"si": 10,
+"ei": 3,
+"src": "This I know: The Feeder is here in the city. Or was. It worries me."
+}
+]

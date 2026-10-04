@@ -1,0 +1,12 @@
+{
+    "name": "Simplified Chinese Translation",
+    "modId": "community.chineselanguage",
+    "version": "0.1.0",
+    "creator": "community",
+    "description": "Simplified Chinese translation (community, machine-aided).",
+    "isReady": true,
+    "modType": 0,
+    "additionalDataPaths": [],
+    "startLevel": "",
+    "worldMapLevel": ""
+}

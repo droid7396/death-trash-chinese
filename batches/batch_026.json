@@ -1,0 +1,667 @@
+[
+{
+"si": 755,
+"ei": 506,
+"src": "Respect the fate. Respect the natural order."
+},
+{
+"si": 755,
+"ei": 507,
+"src": "Rules of the Oracle: Fate"
+},
+{
+"si": 755,
+"ei": 508,
+"src": "Let us improve the lives of people."
+},
+{
+"si": 755,
+"ei": 509,
+"src": "Rules of the Oracle: Healing"
+},
+{
+"si": 755,
+"ei": 510,
+"src": "Don't let us be influenced by others."
+},
+{
+"si": 755,
+"ei": 511,
+"src": "Rules of the Oracle: Independence"
+},
+{
+"si": 755,
+"ei": 512,
+"src": "We will be honest. To others, and to us."
+},
+{
+"si": 755,
+"ei": 513,
+"src": "Rules of the Oracle: Truth"
+},
+{
+"si": 755,
+"ei": 514,
+"src": "Organs"
+},
+{
+"si": 755,
+"ei": 515,
+"src": "Pacifism"
+},
+{
+"si": 755,
+"ei": 516,
+"src": "You're not able to use weapons against other characters."
+},
+{
+"si": 755,
+"ei": 517,
+"src": "Packaging Material"
+},
+{
+"si": 755,
+"ei": 518,
+"src": "Pain Reliever"
+},
+{
+"si": 755,
+"ei": 519,
+"src": "Suspicious Pain Reliever"
+},
+{
+"si": 755,
+"ei": 520,
+"src": "Notes"
+},
+{
+"si": 755,
+"ei": 521,
+"src": "Philosopher Death Recording"
+},
+{
+"si": 755,
+"ei": 522,
+"src": "Imagine some super rich person was bored back there in the universe, was on the lookout for hot new stuff, and then got news of this place.||||Imagine then if you can shape the world however you like, if you can adjust everything to your own preference, and if you then live for decades in this heaven-like scenario, doesn't it become your own, personal hell, nobody can rescue you from?||||Isn't avolition then, your lack of motivation to do anything, your doom, your end-to-be?||||If you don't have any goals to reach anymore, every day becomes the same. If you're safe and well fed, that's good to have for a few years, for a few decades even, but what then? If medical advancement brings the lifetime of humans to centuries, what does that life feel like?||||I would argue everything will become a bore at some point. And a highly active mind, constantly consuming and building, will run out of stuff to consume and build."
+},
+{
+"si": 755,
+"ei": 523,
+"src": "Avolition"
+},
+{
+"si": 755,
+"ei": 524,
+"src": "We installed [REDACTED] as helpers because people can't govern themselves.||||I mean, they can, in a way, but it's always gonna be messy because people have different opinions, and there's always a subset of people that won't care for the feelings and opinions of others. And then you have your criminals, driven by lust, or curiosity, or they just became like that through circumstances while growing up.||||How do you ensure everyone's security? How do you care for everyone, especially with these unstable conditions on the outside? How could you NOT take more command of the situation?"
+},
+{
+"si": 755,
+"ei": 525,
+"src": "Humanity and Self-determinism"
+},
+{
+"si": 755,
+"ei": 526,
+"src": "Excerpt from a discussion"
+},
+{
+"si": 755,
+"ei": 527,
+"src": "Pistol"
+},
+{
+"si": 755,
+"ei": 528,
+"src": "Enhanced Pistol"
+},
+{
+"si": 755,
+"ei": 529,
+"src": "Placeholder"
+},
+{
+"si": 755,
+"ei": 530,
+"src": "Plastic Trash"
+},
+{
+"si": 755,
+"ei": 531,
+"src": "Expanded Inventory"
+},
+{
+"si": 755,
+"ei": 532,
+"src": "Adds an additional row to the Items and the Body inventory."
+},
+{
+"si": 755,
+"ei": 533,
+"src": "Burning Blood"
+},
+{
+"si": 755,
+"ei": 534,
+"src": "Poisons enemies."
+},
+{
+"si": 755,
+"ei": 535,
+"src": "Poison from Doctor"
+},
+{
+"si": 755,
+"ei": 536,
+"src": "Prison Cell Key"
+},
+{
+"si": 755,
+"ei": 537,
+"src": "Key to Godhunters Prison"
+},
+{
+"si": 755,
+"ei": 538,
+"src": "Prison Master Key"
+},
+{
+"si": 755,
+"ei": 539,
+"src": "Puke"
+},
+{
+"si": 755,
+"ei": 540,
+"src": "Warm and moist."
+},
+{
+"si": 755,
+"ei": 541,
+"src": "Puke"
+},
+{
+"si": 755,
+"ei": 542,
+"src": "Warm and moist"
+},
+{
+"si": 755,
+"ei": 543,
+"src": "Puke"
+},
+{
+"si": 755,
+"ei": 544,
+"src": "Cleanses your stomach."
+},
+{
+"si": 755,
+"ei": 545,
+"src": "Pulse Rifle"
+},
+{
+"si": 755,
+"ei": 546,
+"src": "Pump Action Shotgun"
+},
+{
+"si": 755,
+"ei": 547,
+"src": "Perished City"
+},
+{
+"si": 755,
+"ei": 548,
+"src": "Southern Wasteland"
+},
+{
+"si": 755,
+"ei": 549,
+"src": "Extra Punch I"
+},
+{
+"si": 755,
+"ei": 550,
+"src": "Applies damage bonus to any small or long firearm: ||{0} Damage"
+},
+{
+"si": 755,
+"ei": 551,
+"src": "Extra Magazine I"
+},
+{
+"si": 755,
+"ei": 552,
+"src": "Applies a magazine size bonus to any small or long firearm:||{2} Magazine Size"
+},
+{
+"si": 755,
+"ei": 553,
+"src": "Extra Magazine II"
+},
+{
+"si": 755,
+"ei": 554,
+"src": "Applies a magazine size bonus to any small or long firearm||{2} Magazine Size"
+},
+{
+"si": 755,
+"ei": 555,
+"src": "Elongator I"
+},
+{
+"si": 755,
+"ei": 556,
+"src": "Applies range bonus to any small or long firearm:||{3} Range"
+},
+{
+"si": 755,
+"ei": 557,
+"src": "Action Trigger I"
+},
+{
+"si": 755,
+"ei": 558,
+"src": "Applies rate of fire bonus to any small or long firearm:||{4} Rate of Fire"
+},
+{
+"si": 755,
+"ei": 559,
+"src": "Tight Barrel I"
+},
+{
+"si": 755,
+"ei": 560,
+"src": "Reduces scatter on any small or long firearm:||{1} Scatter"
+},
+{
+"si": 755,
+"ei": 561,
+"src": "World"
+},
+{
+"si": 755,
+"ei": 562,
+"src": "Godhunters"
+},
+{
+"si": 755,
+"ei": 563,
+"src": "Bleeding Head Oracle"
+},
+{
+"si": 755,
+"ei": 564,
+"src": "Personal"
+},
+{
+"si": 755,
+"ei": 565,
+"src": "Thoughts"
+},
+{
+"si": 755,
+"ei": 566,
+"src": "A Tale of Agony and Ecstasy"
+},
+{
+"si": 755,
+"ei": 567,
+"src": "The Urge"
+},
+{
+"si": 755,
+"ei": 568,
+"src": "Revolver"
+},
+{
+"si": 755,
+"ei": 569,
+"src": "Rifle"
+},
+{
+"si": 755,
+"ei": 570,
+"src": "Enhanced Rifle"
+},
+{
+"si": 755,
+"ei": 571,
+"src": "Rocket Launcher"
+},
+{
+"si": 755,
+"ei": 572,
+"src": "Rope"
+},
+{
+"si": 755,
+"ei": 573,
+"src": "Sawed-Off Shotgun"
+},
+{
+"si": 755,
+"ei": 574,
+"src": "Seedling Of The Titan"
+},
+{
+"si": 755,
+"ei": 575,
+"src": "A small fleshworm, which was living inside a titans heart."
+},
+{
+"si": 755,
+"ei": 576,
+"src": "Self Awareness"
+},
+{
+"si": 755,
+"ei": 577,
+"src": "Healing"
+},
+{
+"si": 755,
+"ei": 578,
+"src": "Reset Stats"
+},
+{
+"si": 755,
+"ei": 579,
+"src": "Resets your distribution of attribute and skill points."
+},
+{
+"si": 755,
+"ei": 580,
+"src": "Reset Visuals"
+},
+{
+"si": 755,
+"ei": 581,
+"src": "Lets you reselect the visuals of your character, similar to character creation."
+},
+{
+"si": 755,
+"ei": 582,
+"src": "Merchant for Services"
+},
+{
+"si": 755,
+"ei": 583,
+"src": "Shotgun"
+},
+{
+"si": 755,
+"ei": 584,
+"src": "Super Shotgun"
+},
+{
+"si": 755,
+"ei": 585,
+"src": "Sigil Of The Guts"
+},
+{
+"si": 755,
+"ei": 586,
+"src": "A sigil made by the priest of the guts."
+},
+{
+"si": 755,
+"ei": 587,
+"src": "Sigil Of The Head"
+},
+{
+"si": 755,
+"ei": 588,
+"src": "A sigil made by the priest of the head."
+},
+{
+"si": 755,
+"ei": 589,
+"src": "Sigil Of The Heart"
+},
+{
+"si": 755,
+"ei": 590,
+"src": "A sigil made by the priest of the heart."
+},
+{
+"si": 755,
+"ei": 591,
+"src": "Skull"
+},
+{
+"si": 755,
+"ei": 592,
+"src": "A particularly beautiful human skull."
+},
+{
+"si": 755,
+"ei": 593,
+"src": "Software Virus"
+},
+{
+"si": 755,
+"ei": 594,
+"src": "Spiked Club"
+},
+{
+"si": 755,
+"ei": 595,
+"src": "Facecrusher"
+},
+{
+"si": 755,
+"ei": 596,
+"src": "Spiked Mask"
+},
+{
+"si": 755,
+"ei": 597,
+"src": "Squirms"
+},
+{
+"si": 755,
+"ei": 598,
+"src": "Dead worms. Used as a currency."
+},
+{
+"si": 755,
+"ei": 599,
+"src": "Stealth"
+},
+{
+"si": 755,
+"ei": 600,
+"src": "Cloaks you from being immediately seen by other characters."
+},
+{
+"si": 755,
+"ei": 601,
+"src": "Submachine Gun"
+},
+{
+"si": 755,
+"ei": 602,
+"src": "Superior Fitness"
+},
+{
+"si": 755,
+"ei": 603,
+"src": "High body activity like rolling and stealth consumes less energy."
+},
+{
+"si": 755,
+"ei": 604,
+"src": "Sword"
+},
+{
+"si": 755,
+"ei": 605,
+"src": "This seems like a farce. Why would they want to get rid of us?"
+},
+{
+"si": 755,
+"ei": 606,
+"src": "Day 3"
+},
+{
+"si": 755,
+"ei": 607,
+"src": "Personal notes"
+},
+{
+"si": 755,
+"ei": 608,
+"src": "I've reached a place called Tauris.||The machines here seem unwilling to help.||People around here are friendly. But I can't stand how they're all just eating the meat. It's disgusting."
+},
+{
+"si": 755,
+"ei": 609,
+"src": "Day 5"
+},
+{
+"si": 755,
+"ei": 610,
+"src": "Personal notes"
+},
+{
+"si": 755,
+"ei": 611,
+"src": "This place is called Puke Bar. It's comforting. Stinks like hell.||But no guidance, no plan. Just anarchists.||No one bothers thinking about what would happen if the meat would vanish.||I will continue traveling east. Heard about a strong community in New Delphi."
+},
+{
+"si": 755,
+"ei": 612,
+"src": "Day 12"
+},
+{
+"si": 755,
+"ei": 613,
+"src": "Personal notes"
+},
+{
+"si": 755,
+"ei": 614,
+"src": "Throwable Grenade"
+},
+{
+"si": 755,
+"ei": 615,
+"src": "Ticking Flashbang"
+},
+{
+"si": 755,
+"ei": 616,
+"src": "Ticking Grenade"
+},
+{
+"si": 755,
+"ei": 617,
+"src": "Tower - 4th Floor Key"
+},
+{
+"si": 755,
+"ei": 618,
+"src": "Hierarchs Key"
+},
+{
+"si": 755,
+"ei": 619,
+"src": "Adds more health to minions spawned via implants."
+},
+{
+"si": 755,
+"ei": 620,
+"src": "Trash"
+},
+{
+"si": 755,
+"ei": 621,
+"src": "Unarmed (Hands)"
+},
+{
+"si": 755,
+"ei": 622,
+"src": "Usable Parts"
+},
+{
+"si": 755,
+"ei": 623,
+"src": "Can be deconstructed to yield resources."
+},
+{
+"si": 755,
+"ei": 624,
+"src": "Vanish"
+},
+{
+"si": 755,
+"ei": 625,
+"src": "Vanish from the sight of enemies."
+},
+{
+"si": 755,
+"ei": 626,
+"src": "Veganism"
+},
+{
+"si": 755,
+"ei": 627,
+"src": "You won't eat or drink any animal products."
+},
+{
+"si": 755,
+"ei": 628,
+"src": "Watchful Eye"
+},
+{
+"si": 755,
+"ei": 629,
+"src": "Spiked Fist"
+},
+{
+"si": 755,
+"ei": 630,
+"src": "Teeth"
+},
+{
+"si": 755,
+"ei": 631,
+"src": "Are you tired of your weapons lacking some kind of ... punch?||Is your 'old trustworthy' gun not fit for your next adventure?||Or is your little knife becoming dull?||||Then YOU need weapon mods!||'Jolly Gutter' has you covered. No matter what weapon - we can improve it!||||Come visit ... in ... and be ... ...."
+},
+{
+"si": 755,
+"ei": 632,
+"src": "Weapon Shop Ad"
+},
+{
+"si": 755,
+"ei": 633,
+"src": "Flyer"
+},
+{
+"si": 755,
+"ei": 634,
+"src": "Weird Meat"
+},
+{
+"si": 755,
+"ei": 635,
+"src": "Will have an intoxicating effect."
+},
+{
+"si": 755,
+"ei": 636,
+"src": "Wonder Shroom"
+},
+{
+"si": 755,
+"ei": 637,
+"src": "Wood"
+},
+{
+"si": 755,
+"ei": 638,
+"src": "Wooden Cudgel"
+}
+]

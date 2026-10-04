@@ -1,0 +1,1767 @@
+[
+{
+"si": 74,
+"ei": 4,
+"src": "INFO: Villa key is limited to living quarters."
+},
+{
+"si": 76,
+"ei": 0,
+"src": "I can't open this."
+},
+{
+"si": 78,
+"ei": 0,
+"src": "Fuck."
+},
+{
+"si": 78,
+"ei": 1,
+"src": "Blergh."
+},
+{
+"si": 78,
+"ei": 2,
+"src": "Shit."
+},
+{
+"si": 78,
+"ei": 3,
+"src": "*gulp*"
+},
+{
+"si": 80,
+"ei": 0,
+"src": "Nice making business with you."
+},
+{
+"si": 80,
+"ei": 1,
+"src": "Thanks."
+},
+{
+"si": 80,
+"ei": 2,
+"src": "Nice. Hope you're happy with that."
+},
+{
+"si": 80,
+"ei": 3,
+"src": "That was my favorite one. Use it wisely."
+},
+{
+"si": 80,
+"ei": 4,
+"src": "Don't use that up all at once."
+},
+{
+"si": 80,
+"ei": 5,
+"src": "Puke for the Puke God."
+},
+{
+"si": 80,
+"ei": 6,
+"src": "That's not so fresh anymore. I hope you don't mind."
+},
+{
+"si": 82,
+"ei": 0,
+"src": "What the fuck?"
+},
+{
+"si": 82,
+"ei": 1,
+"src": "Move it."
+},
+{
+"si": 82,
+"ei": 2,
+"src": "Hey..."
+},
+{
+"si": 82,
+"ei": 3,
+"src": "Damn."
+},
+{
+"si": 82,
+"ei": 4,
+"src": "Damned door."
+},
+{
+"si": 82,
+"ei": 5,
+"src": "Fucking door."
+},
+{
+"si": 82,
+"ei": 6,
+"src": "Why isn't this open?"
+},
+{
+"si": 84,
+"ei": 0,
+"src": "Locked."
+},
+{
+"si": 86,
+"ei": 0,
+"src": "This door looks half-broken."
+},
+{
+"si": 88,
+"ei": 0,
+"src": "This looks useful."
+},
+{
+"si": 90,
+"ei": 0,
+"src": "I opened it."
+},
+{
+"si": 90,
+"ei": 1,
+"src": "The key fits."
+},
+{
+"si": 92,
+"ei": 0,
+"src": "Don't need that."
+},
+{
+"si": 92,
+"ei": 1,
+"src": "It's all trash anyway."
+},
+{
+"si": 92,
+"ei": 2,
+"src": "Whatever..."
+},
+{
+"si": 92,
+"ei": 3,
+"src": "Fuck this."
+},
+{
+"si": 92,
+"ei": 4,
+"src": "Fuck this."
+},
+{
+"si": 92,
+"ei": 5,
+"src": "Fuck that."
+},
+{
+"si": 92,
+"ei": 6,
+"src": "Fuck this shit."
+},
+{
+"si": 92,
+"ei": 7,
+"src": "No need for this shit."
+},
+{
+"si": 94,
+"ei": 0,
+"src": "*crunch*"
+},
+{
+"si": 94,
+"ei": 1,
+"src": "*gulp*"
+},
+{
+"si": 96,
+"ei": 0,
+"src": "Blergh."
+},
+{
+"si": 96,
+"ei": 1,
+"src": "*gulp*"
+},
+{
+"si": 98,
+"ei": 0,
+"src": "It's empty."
+},
+{
+"si": 98,
+"ei": 1,
+"src": "There's nothing here."
+},
+{
+"si": 98,
+"ei": 2,
+"src": "Nothing useful here."
+},
+{
+"si": 98,
+"ei": 3,
+"src": "Can't use anything from that stuff."
+},
+{
+"si": 100,
+"ei": 0,
+"src": "I feel sick."
+},
+{
+"si": 100,
+"ei": 1,
+"src": "I cannot eat any of this."
+},
+{
+"si": 100,
+"ei": 2,
+"src": "I feel too sick to eat this."
+},
+{
+"si": 102,
+"ei": 0,
+"src": "What the..."
+},
+{
+"si": 102,
+"ei": 1,
+"src": "What?"
+},
+{
+"si": 102,
+"ei": 2,
+"src": "Ohhh."
+},
+{
+"si": 102,
+"ei": 3,
+"src": "Huh?"
+},
+{
+"si": 102,
+"ei": 4,
+"src": "Oh."
+},
+{
+"si": 104,
+"ei": 0,
+"src": "Hey! Watch your shit."
+},
+{
+"si": 104,
+"ei": 1,
+"src": "Hey! Idiot."
+},
+{
+"si": 104,
+"ei": 2,
+"src": "Hey! Don't push me."
+},
+{
+"si": 104,
+"ei": 3,
+"src": "Hey! Stop that."
+},
+{
+"si": 106,
+"ei": 0,
+"src": "That was the last time you pushed me."
+},
+{
+"si": 106,
+"ei": 1,
+"src": "Woah! Enough is enough."
+},
+{
+"si": 106,
+"ei": 2,
+"src": "Alright. That's enough."
+},
+{
+"si": 108,
+"ei": 0,
+"src": "Oh my god..."
+},
+{
+"si": 108,
+"ei": 1,
+"src": "Eww!"
+},
+{
+"si": 108,
+"ei": 2,
+"src": "Blergh."
+},
+{
+"si": 108,
+"ei": 3,
+"src": "Damn."
+},
+{
+"si": 108,
+"ei": 4,
+"src": "Eew!"
+},
+{
+"si": 110,
+"ei": 0,
+"src": "*moan*"
+},
+{
+"si": 110,
+"ei": 1,
+"src": "Phew."
+},
+{
+"si": 110,
+"ei": 2,
+"src": "*grunt*"
+},
+{
+"si": 112,
+"ei": 0,
+"src": "You look like shit."
+},
+{
+"si": 112,
+"ei": 1,
+"src": "Try some shit and you'll be dead first."
+},
+{
+"si": 112,
+"ei": 2,
+"src": "Wanna try your luck, punk?"
+},
+{
+"si": 112,
+"ei": 3,
+"src": "Move along!"
+},
+{
+"si": 112,
+"ei": 4,
+"src": "Go away."
+},
+{
+"si": 112,
+"ei": 5,
+"src": "Please behave."
+},
+{
+"si": 112,
+"ei": 6,
+"src": "Keep being peaceful!"
+},
+{
+"si": 112,
+"ei": 7,
+"src": "Move along!"
+},
+{
+"si": 114,
+"ei": 0,
+"src": "*mumbles inaudible*"
+},
+{
+"si": 114,
+"ei": 1,
+"src": "Where's a bottle of Schnaps when you need it?"
+},
+{
+"si": 114,
+"ei": 2,
+"src": "Icky."
+},
+{
+"si": 114,
+"ei": 3,
+"src": "Hmmh."
+},
+{
+"si": 114,
+"ei": 4,
+"src": "I need a piece of meat."
+},
+{
+"si": 114,
+"ei": 5,
+"src": "Fuckin' stones. Always fuckin' stones everywhere."
+},
+{
+"si": 114,
+"ei": 6,
+"src": "*scratch*"
+},
+{
+"si": 114,
+"ei": 7,
+"src": "Uhhh. I don't feel so well."
+},
+{
+"si": 114,
+"ei": 8,
+"src": "That's some serious shit."
+},
+{
+"si": 114,
+"ei": 9,
+"src": "I wonder where I left my lube."
+},
+{
+"si": 114,
+"ei": 10,
+"src": "Well..."
+},
+{
+"si": 114,
+"ei": 11,
+"src": "I'm hungry. Someone should feed me."
+},
+{
+"si": 114,
+"ei": 12,
+"src": "It's cold today."
+},
+{
+"si": 114,
+"ei": 13,
+"src": "I just love this cultist life."
+},
+{
+"si": 114,
+"ei": 14,
+"src": "I could use some humping."
+},
+{
+"si": 116,
+"ei": 0,
+"src": "*mumbles inaudible*"
+},
+{
+"si": 116,
+"ei": 1,
+"src": "I need a drink."
+},
+{
+"si": 116,
+"ei": 2,
+"src": "Hmmh."
+},
+{
+"si": 116,
+"ei": 3,
+"src": "*scratch*"
+},
+{
+"si": 116,
+"ei": 4,
+"src": "That's some serious shit."
+},
+{
+"si": 116,
+"ei": 5,
+"src": "The air is getting stale in here."
+},
+{
+"si": 116,
+"ei": 6,
+"src": "Titans help me."
+},
+{
+"si": 116,
+"ei": 7,
+"src": "I could use some humping."
+},
+{
+"si": 118,
+"ei": 0,
+"src": "*mumbles inaudible*"
+},
+{
+"si": 118,
+"ei": 1,
+"src": "Icky."
+},
+{
+"si": 118,
+"ei": 2,
+"src": "Hmmh."
+},
+{
+"si": 118,
+"ei": 3,
+"src": "I need a piece of meat."
+},
+{
+"si": 118,
+"ei": 4,
+"src": "*scratch*"
+},
+{
+"si": 118,
+"ei": 5,
+"src": "Uhhh. I don't feel so well."
+},
+{
+"si": 118,
+"ei": 6,
+"src": "I wonder where I left my lube."
+},
+{
+"si": 118,
+"ei": 7,
+"src": "Well..."
+},
+{
+"si": 118,
+"ei": 8,
+"src": "I'm hungry. Someone should feed me."
+},
+{
+"si": 118,
+"ei": 9,
+"src": "I could use some humping."
+},
+{
+"si": 120,
+"ei": 0,
+"src": "*mumbles inaudible*"
+},
+{
+"si": 120,
+"ei": 1,
+"src": "Where's a bottle of Schnaps when you need it? Where?"
+},
+{
+"si": 120,
+"ei": 2,
+"src": "Icky. Icky."
+},
+{
+"si": 120,
+"ei": 3,
+"src": "Hmmh. Hmm."
+},
+{
+"si": 120,
+"ei": 4,
+"src": "I need a piece of meat. Meat."
+},
+{
+"si": 120,
+"ei": 5,
+"src": "*scratch*"
+},
+{
+"si": 120,
+"ei": 6,
+"src": "Uhhh. I don't feel so well. So well."
+},
+{
+"si": 120,
+"ei": 7,
+"src": "That's some serious shit. Serious"
+},
+{
+"si": 120,
+"ei": 8,
+"src": "I wonder where I left my lube. I wonder."
+},
+{
+"si": 120,
+"ei": 9,
+"src": "I'm hungry. Hungry. Someone should feed me. Feed me."
+},
+{
+"si": 120,
+"ei": 10,
+"src": "It's cold today. Cold today."
+},
+{
+"si": 120,
+"ei": 11,
+"src": "I just love this tower life. Tower life."
+},
+{
+"si": 120,
+"ei": 12,
+"src": "I could use some humping. Could use."
+},
+{
+"si": 122,
+"ei": 0,
+"src": "Ahhhh!"
+},
+{
+"si": 122,
+"ei": 1,
+"src": "Blood and bones"
+},
+{
+"si": 122,
+"ei": 2,
+"src": "Help!"
+},
+{
+"si": 122,
+"ei": 3,
+"src": "Oh boy."
+},
+{
+"si": 122,
+"ei": 4,
+"src": "Oh no..."
+},
+{
+"si": 122,
+"ei": 5,
+"src": "Shit!"
+},
+{
+"si": 122,
+"ei": 6,
+"src": "Damn."
+},
+{
+"si": 122,
+"ei": 7,
+"src": "Fuck!"
+},
+{
+"si": 122,
+"ei": 8,
+"src": "Holy fuck!"
+},
+{
+"si": 124,
+"ei": 0,
+"src": "Fuck yes."
+},
+{
+"si": 124,
+"ei": 1,
+"src": "Go to hell!"
+},
+{
+"si": 124,
+"ei": 2,
+"src": "Rest now."
+},
+{
+"si": 124,
+"ei": 3,
+"src": "Haha. That was great."
+},
+{
+"si": 124,
+"ei": 4,
+"src": "This had to be done."
+},
+{
+"si": 124,
+"ei": 5,
+"src": "Sorry."
+},
+{
+"si": 124,
+"ei": 6,
+"src": "Hahahaha!"
+},
+{
+"si": 124,
+"ei": 7,
+"src": "Ergh."
+},
+{
+"si": 124,
+"ei": 8,
+"src": "The sun takes another."
+},
+{
+"si": 126,
+"ei": 0,
+"src": "It's so dark..."
+},
+{
+"si": 126,
+"ei": 1,
+"src": "Oh, the shadows."
+},
+{
+"si": 126,
+"ei": 2,
+"src": "Oh, what dreadful darkness."
+},
+{
+"si": 126,
+"ei": 3,
+"src": "I'm trembling..."
+},
+{
+"si": 128,
+"ei": 0,
+"src": "What is this machine? Looks broken."
+},
+{
+"si": 130,
+"ei": 0,
+"src": "Dead. Like in real life."
+},
+{
+"si": 132,
+"ei": 0,
+"src": "That's mine now."
+},
+{
+"si": 132,
+"ei": 1,
+"src": "Ohhh, this is good."
+},
+{
+"si": 132,
+"ei": 2,
+"src": "Great stuff."
+},
+{
+"si": 132,
+"ei": 3,
+"src": "Well. Alright."
+},
+{
+"si": 132,
+"ei": 4,
+"src": "Alright."
+},
+{
+"si": 132,
+"ei": 5,
+"src": "That looks useful."
+},
+{
+"si": 132,
+"ei": 6,
+"src": "Haha. Nice."
+},
+{
+"si": 132,
+"ei": 7,
+"src": "Ohhh. Nice."
+},
+{
+"si": 132,
+"ei": 8,
+"src": "Great. More junk."
+},
+{
+"si": 132,
+"ei": 9,
+"src": "That's what I needed."
+},
+{
+"si": 132,
+"ei": 10,
+"src": "That will come in handy."
+},
+{
+"si": 132,
+"ei": 11,
+"src": "Can't have enough of those."
+},
+{
+"si": 132,
+"ei": 12,
+"src": "Nice."
+},
+{
+"si": 132,
+"ei": 13,
+"src": "This looks important."
+},
+{
+"si": 132,
+"ei": 14,
+"src": "Come here."
+},
+{
+"si": 132,
+"ei": 15,
+"src": "Come here, cutie."
+},
+{
+"si": 134,
+"ei": 0,
+"src": "Hehe."
+},
+{
+"si": 134,
+"ei": 1,
+"src": "Haha."
+},
+{
+"si": 134,
+"ei": 2,
+"src": "Haha. That's great."
+},
+{
+"si": 134,
+"ei": 3,
+"src": "Hahahaha!"
+},
+{
+"si": 136,
+"ei": 0,
+"src": "Fresh meat to sell!"
+},
+{
+"si": 136,
+"ei": 1,
+"src": "Tasty meat."
+},
+{
+"si": 136,
+"ei": 2,
+"src": "Buy your meat over here."
+},
+{
+"si": 136,
+"ei": 3,
+"src": "Meat."
+},
+{
+"si": 136,
+"ei": 4,
+"src": "Meat!"
+},
+{
+"si": 136,
+"ei": 5,
+"src": "Uhhh. I don't feel so well."
+},
+{
+"si": 138,
+"ei": 0,
+"src": "Nice. I will find someone for that."
+},
+{
+"si": 138,
+"ei": 1,
+"src": "That looks good."
+},
+{
+"si": 138,
+"ei": 2,
+"src": "Thank you."
+},
+{
+"si": 140,
+"ei": 0,
+"src": "Hold still."
+},
+{
+"si": 140,
+"ei": 1,
+"src": "What the fuck?"
+},
+{
+"si": 140,
+"ei": 2,
+"src": "Hey..."
+},
+{
+"si": 140,
+"ei": 3,
+"src": "Damn."
+},
+{
+"si": 142,
+"ei": 0,
+"src": "Woah! I saw that, you thief."
+},
+{
+"si": 142,
+"ei": 1,
+"src": "Hey! You thief!"
+},
+{
+"si": 142,
+"ei": 2,
+"src": "Thief!"
+},
+{
+"si": 142,
+"ei": 3,
+"src": "Fuck. You bastard!"
+},
+{
+"si": 144,
+"ei": 0,
+"src": "Doesn't look important."
+},
+{
+"si": 144,
+"ei": 1,
+"src": "This doesn't look useful."
+},
+{
+"si": 144,
+"ei": 2,
+"src": "I have no idea what this is."
+},
+{
+"si": 144,
+"ei": 3,
+"src": "What even is this?"
+},
+{
+"si": 146,
+"ei": 0,
+"src": "Bam."
+},
+{
+"si": 146,
+"ei": 1,
+"src": "That's it."
+},
+{
+"si": 146,
+"ei": 2,
+"src": "Here we go."
+},
+{
+"si": 148,
+"ei": 0,
+"src": "*mumbles inaudible*"
+},
+{
+"si": 148,
+"ei": 1,
+"src": "Where's a bottle of Schnaps when you need it?"
+},
+{
+"si": 148,
+"ei": 2,
+"src": "Icky."
+},
+{
+"si": 148,
+"ei": 3,
+"src": "Hmmh."
+},
+{
+"si": 148,
+"ei": 4,
+"src": "I need a piece of meat."
+},
+{
+"si": 148,
+"ei": 5,
+"src": "Those folks look creepy."
+},
+{
+"si": 148,
+"ei": 6,
+"src": "Fuckin' stones. Always fuckin' stones everywhere."
+},
+{
+"si": 148,
+"ei": 7,
+"src": "*scratch*"
+},
+{
+"si": 148,
+"ei": 8,
+"src": "Uhhh. I don't feel so well."
+},
+{
+"si": 148,
+"ei": 9,
+"src": "That's some serious shit."
+},
+{
+"si": 148,
+"ei": 10,
+"src": "I wonder where I left my lube."
+},
+{
+"si": 148,
+"ei": 11,
+"src": "Well..."
+},
+{
+"si": 148,
+"ei": 12,
+"src": "I'm hungry. Someone should feed me."
+},
+{
+"si": 148,
+"ei": 13,
+"src": "It's cold today."
+},
+{
+"si": 148,
+"ei": 14,
+"src": "I just love this cultist life."
+},
+{
+"si": 148,
+"ei": 15,
+"src": "I could use some humping."
+},
+{
+"si": 150,
+"ei": 0,
+"src": "*scraping*"
+},
+{
+"si": 150,
+"ei": 1,
+"src": "Grrrr."
+},
+{
+"si": 150,
+"ei": 2,
+"src": "*sniff*"
+},
+{
+"si": 150,
+"ei": 3,
+"src": "Ahh."
+},
+{
+"si": 150,
+"ei": 4,
+"src": "Hmmmmmh."
+},
+{
+"si": 150,
+"ei": 5,
+"src": "Ohh."
+},
+{
+"si": 150,
+"ei": 6,
+"src": "Master."
+},
+{
+"si": 152,
+"ei": 0,
+"src": "Freshly dead. Still bleeding."
+},
+{
+"si": 154,
+"ei": 0,
+"src": "Ashes to ashes, flesh to flesh."
+},
+{
+"si": 156,
+"ei": 0,
+"src": "The flesh is bound to the weave with barbed wire."
+},
+{
+"si": 158,
+"ei": 0,
+"src": "The sun is always there."
+},
+{
+"si": 158,
+"ei": 1,
+"src": "I never get tired of eating meat."
+},
+{
+"si": 158,
+"ei": 2,
+"src": "Hey... Don't talk to me."
+},
+{
+"si": 158,
+"ei": 3,
+"src": "I wish I were still in Cyberwomb. Everything's bland out here."
+},
+{
+"si": 158,
+"ei": 4,
+"src": "I don't trust the machines."
+},
+{
+"si": 158,
+"ei": 5,
+"src": "I don't remember if it ever rained here."
+},
+{
+"si": 158,
+"ei": 6,
+"src": "The flesh provides!"
+},
+{
+"si": 160,
+"ei": 0,
+"src": "I don't remember the last time I saw the sun."
+},
+{
+"si": 160,
+"ei": 1,
+"src": "I'm so hungry."
+},
+{
+"si": 160,
+"ei": 2,
+"src": "Nobody told me that believing in the Titans would land me in prison."
+},
+{
+"si": 160,
+"ei": 3,
+"src": "Fuck these Godhunters."
+},
+{
+"si": 160,
+"ei": 4,
+"src": "Whatever they were feeding us, it definitely wasn't meat."
+},
+{
+"si": 160,
+"ei": 5,
+"src": "The Titans bless you."
+},
+{
+"si": 162,
+"ei": 0,
+"src": "Hi there, stranger."
+},
+{
+"si": 162,
+"ei": 1,
+"src": "Nice meeting you again."
+},
+{
+"si": 162,
+"ei": 2,
+"src": "Still waiting on my contacts for selling the Machine Core."
+},
+{
+"si": 162,
+"ei": 3,
+"src": "But I figure it's gonna happen any day now."
+},
+{
+"si": 162,
+"ei": 4,
+"src": "Hi there, **forename**."
+},
+{
+"si": 162,
+"ei": 5,
+"src": "Hi. What's your name?"
+},
+{
+"si": 162,
+"ei": 6,
+"src": "What do you want?"
+},
+{
+"si": 162,
+"ei": 7,
+"src": "Want to do a job for the Collectors? It's well paid."
+},
+{
+"si": 162,
+"ei": 8,
+"src": "Let's say I do."
+},
+{
+"si": 162,
+"ei": 9,
+"src": "Well. I'm in a bit of a hard spot right now."
+},
+{
+"si": 162,
+"ei": 10,
+"src": "My contact at the Collectors told me they're looking for a functioning Machine Core."
+},
+{
+"si": 162,
+"ei": 11,
+"src": "And I know there's a bunker in the north at the edge of the mountains. I reckon it's still fully equipped."
+},
+{
+"si": 162,
+"ei": 12,
+"src": "I was on my way. But I got bitten by one of those fucking worms. Still recovering from that."
+},
+{
+"si": 162,
+"ei": 13,
+"src": "That Machine Core worth much?"
+},
+{
+"si": 162,
+"ei": 14,
+"src": "Yes, it's the Collectors. They always pay well... if the stuff is quality."
+},
+{
+"si": 162,
+"ei": 15,
+"src": "How about you get it, then come back and I'll lead us to the buyer?"
+},
+{
+"si": 162,
+"ei": 16,
+"src": "Ok. I guess."
+},
+{
+"si": 162,
+"ei": 17,
+"src": "Cool. Bunker 17 is to the northeast of here. At the foot of the mountains."
+},
+{
+"si": 162,
+"ei": 18,
+"src": "I'm sure you'll find it."
+},
+{
+"si": 162,
+"ei": 19,
+"src": "Good luck, stranger."
+},
+{
+"si": 162,
+"ei": 20,
+"src": "Good luck, **forename**!"
+},
+{
+"si": 162,
+"ei": 21,
+"src": "I don't have a name."
+},
+{
+"si": 162,
+"ei": 22,
+"src": "Really?"
+},
+{
+"si": 162,
+"ei": 23,
+"src": "Does it matter?"
+},
+{
+"si": 162,
+"ei": 24,
+"src": "No. I guess not."
+},
+{
+"si": 162,
+"ei": 25,
+"src": "But... do you want to do a job for the Collectors? It's well paid."
+},
+{
+"si": 162,
+"ei": 26,
+"src": "**forename**."
+},
+{
+"si": 162,
+"ei": 27,
+"src": "Nice to meet you, **forename**. I'm Custer."
+},
+{
+"si": 162,
+"ei": 28,
+"src": "Did you find the Machine Core already?"
+},
+{
+"si": 162,
+"ei": 29,
+"src": "Nope."
+},
+{
+"si": 162,
+"ei": 30,
+"src": "Did you find the Machine Core already?"
+},
+{
+"si": 162,
+"ei": 31,
+"src": "This is it, right?"
+},
+{
+"si": 162,
+"ei": 32,
+"src": "Hey, that looks a lot like the part described to me."
+},
+{
+"si": 162,
+"ei": 33,
+"src": "Well done, stranger."
+},
+{
+"si": 162,
+"ei": 34,
+"src": "Let's meet at the Puke Bar in a few days."
+},
+{
+"si": 162,
+"ei": 35,
+"src": "I'll contact the Collectors. We'll meet again later. Bye."
+},
+{
+"si": 162,
+"ei": 36,
+"src": "Well done, **forename**."
+},
+{
+"si": 162,
+"ei": 37,
+"src": "Good that you're here, but no need to stick around."
+},
+{
+"si": 162,
+"ei": 38,
+"src": "Why don't we meet later at the Puke Bar?"
+},
+{
+"si": 162,
+"ei": 39,
+"src": "We'll meet again later."
+},
+{
+"si": 164,
+"ei": 0,
+"src": "This machine is off."
+},
+{
+"si": 164,
+"ei": 1,
+"src": "Welcome to Cyberwomb."
+},
+{
+"si": 164,
+"ei": 2,
+"src": "You do not own any modules for the Cyberwomb at the moment."
+},
+{
+"si": 164,
+"ei": 3,
+"src": "Where can I get more modules?"
+},
+{
+"si": 164,
+"ei": 4,
+"src": "This information is not available."
+},
+{
+"si": 164,
+"ei": 5,
+"src": "Cyberwomb modules are custom created experiences for the rare collector."
+},
+{
+"si": 164,
+"ei": 6,
+"src": "Therefore, no traditional distribution channels exist."
+},
+{
+"si": 164,
+"ei": 7,
+"src": "[Show modules.]"
+},
+{
+"si": 164,
+"ei": 8,
+"src": "Do you want to launch any module?"
+},
+{
+"si": 166,
+"ei": 0,
+"src": "This machine is running."
+},
+{
+"si": 166,
+"ei": 1,
+"src": "[Remove Cyberwomb Power Module.]"
+},
+{
+"si": 166,
+"ei": 2,
+"src": "Alright. Done."
+},
+{
+"si": 166,
+"ei": 3,
+"src": "This machine is missing some kind of power module."
+},
+{
+"si": 166,
+"ei": 4,
+"src": "Maybe I could borrow one from a similar type of machine."
+},
+{
+"si": 166,
+"ei": 5,
+"src": "Maybe there's one around here somewhere."
+},
+{
+"si": 166,
+"ei": 6,
+"src": "[Insert Cyberwomb Power Module.]"
+},
+{
+"si": 166,
+"ei": 7,
+"src": "Alright. Done."
+},
+{
+"si": 168,
+"ei": 0,
+"src": "Welcome to Cyberwomb!"
+},
+{
+"si": 168,
+"ei": 1,
+"src": "Are you real?"
+},
+{
+"si": 168,
+"ei": 2,
+"src": "I'm just software, and, at the moment, instanced in your imagination."
+},
+{
+"si": 168,
+"ei": 3,
+"src": "If this means I'm real to you, then I'm real."
+},
+{
+"si": 168,
+"ei": 4,
+"src": "How can I help you?"
+},
+{
+"si": 168,
+"ei": 5,
+"src": "Can I die in Cyberwomb?"
+},
+{
+"si": 168,
+"ei": 6,
+"src": "Yes, you can."
+},
+{
+"si": 168,
+"ei": 7,
+"src": "What is Cyberwomb?"
+},
+{
+"si": 168,
+"ei": 8,
+"src": "Cyberwomb is a virtual world simulator with state of the art feedback channels."
+},
+{
+"si": 168,
+"ei": 9,
+"src": "It's an offline variant of Omniwomb."
+},
+{
+"si": 168,
+"ei": 10,
+"src": "Can we connect to Omniwomb?"
+},
+{
+"si": 168,
+"ei": 11,
+"src": "No, we cannot. This installation has no online capabilities."
+},
+{
+"si": 168,
+"ei": 12,
+"src": "Feel free to explore."
+},
+{
+"si": 168,
+"ei": 13,
+"src": "If you want to leave Cyberwomb, please touch the OmniPortal."
+},
+{
+"si": 170,
+"ei": 0,
+"src": "He's dead."
+},
+{
+"si": 170,
+"ei": 1,
+"src": "Looks like he was murdered."
+},
+{
+"si": 172,
+"ei": 0,
+"src": "Ohhh."
+},
+{
+"si": 172,
+"ei": 1,
+"src": "Was it killed?"
+},
+{
+"si": 172,
+"ei": 2,
+"src": "Or used, and then killed? Hard to say."
+},
+{
+"si": 174,
+"ei": 0,
+"src": "STOP! Turn back immediately!"
+},
+{
+"si": 174,
+"ei": 1,
+"src": "You're entering a restricted zone and will be terminated if you continue."
+},
+{
+"si": 176,
+"ei": 0,
+"src": "Who are the Heptarchs?"
+},
+{
+"si": 176,
+"ei": 1,
+"src": "Oh. Am I allowed to talk about them? I don't think so."
+},
+{
+"si": 176,
+"ei": 2,
+"src": "I can tell you this much: They're a bunch of eccentrics."
+},
+{
+"si": 176,
+"ei": 3,
+"src": "I wish I had a villa of my own, too."
+},
+{
+"si": 176,
+"ei": 4,
+"src": "If I owned a villa, I would furnish it with the most exquisite and beautiful treasures. And people."
+},
+{
+"si": 176,
+"ei": 5,
+"src": "You would be part of it, too."
+},
+{
+"si": 176,
+"ei": 6,
+"src": "Uhm..."
+},
+{
+"si": 176,
+"ei": 7,
+"src": "Ohhhhh. That's a nice sentiment, isn't it?"
+},
+{
+"si": 176,
+"ei": 8,
+"src": "What's with all the guards here?"
+},
+{
+"si": 176,
+"ei": 9,
+"src": "Ohhhhh. Hehe."
+},
+{
+"si": 176,
+"ei": 10,
+"src": "It's because I am important. Kind of."
+},
+{
+"si": 176,
+"ei": 11,
+"src": "Even more so since the mistress is away on some adventure."
+},
+{
+"si": 176,
+"ei": 12,
+"src": "Sure, she said it's not an adventure. I bet she's having fun though."
+},
+{
+"si": 176,
+"ei": 13,
+"src": "Oh, and there was the break-in, of course. Need to have some guards to secure the whole estate."
+},
+{
+"si": 176,
+"ei": 14,
+"src": "I found Hevla's engram."
+},
+{
+"si": 176,
+"ei": 15,
+"src": "An engram? Of our Heptarch?"
+},
+{
+"si": 176,
+"ei": 16,
+"src": "Oh, sweet. This might actually let us peek into her quarters and see what she’s hiding."
+},
+{
+"si": 176,
+"ei": 17,
+"src": "I guess I have to grant you the right of first entry."
+},
+{
+"si": 176,
+"ei": 18,
+"src": "Please, take a look at the Archives. I'll follow you shortly."
+},
+{
+"si": 176,
+"ei": 19,
+"src": "Can you show me the site of the break-in?"
+},
+{
+"si": 176,
+"ei": 20,
+"src": "Hevla's Archives?"
+},
+{
+"si": 176,
+"ei": 21,
+"src": "Absolutely not."
+},
+{
+"si": 176,
+"ei": 22,
+"src": "You look gorgeous, that's a plus, but I don't know yet if I can trust you."
+},
+{
+"si": 176,
+"ei": 23,
+"src": "Ohhh, I guess I could let you see the place now."
+},
+{
+"si": 176,
+"ei": 24,
+"src": "Here's a key. Just for you."
+},
+{
+"si": 176,
+"ei": 25,
+"src": "The entrance is in the back of the Villa."
+},
+{
+"si": 176,
+"ei": 26,
+"src": "Well, you have her engram. You can take a look now."
+},
+{
+"si": 176,
+"ei": 27,
+"src": "I need you to look out for something that fits this need."
+},
+{
+"si": 176,
+"ei": 28,
+"src": "Alright. Got it."
+},
+{
+"si": 176,
+"ei": 29,
+"src": "I think I have that exquisite taste you wanted."
+},
+{
+"si": 176,
+"ei": 30,
+"src": "Sweeet."
+},
+{
+"si": 176,
+"ei": 31,
+"src": "What is it?"
+},
+{
+"si": 176,
+"ei": 32,
+"src": "It's the taste of Morrowmeat, after easing his suffering."
+},
+{
+"si": 176,
+"ei": 33,
+"src": "Aaah. The taste of a Titan, marinaded with stress and ailment, and finally garnished with some reprieve."
+},
+{
+"si": 176,
+"ei": 34,
+"src": "Yes, that's a fitting relish as answer to my request."
+},
+{
+"si": 176,
+"ei": 35,
+"src": "Give it to me."
+},
+{
+"si": 176,
+"ei": 36,
+"src": "I appreciate that. You did well."
+},
+{
+"si": 176,
+"ei": 37,
+"src": "How would I gain your trust?"
+},
+{
+"si": 176,
+"ei": 38,
+"src": "Ambitious. I like that."
+},
+{
+"si": 176,
+"ei": 39,
+"src": "There's something that would require a bit of discretion."
+},
+{
+"si": 176,
+"ei": 40,
+"src": "I want to expand my palate. Advance my way towards taking part in the human experience."
+},
+{
+"si": 176,
+"ei": 41,
+"src": "I want to collect a definite case of human delight: Tasting something extraordinary."
+},
+{
+"si": 176,
+"ei": 42,
+"src": "OK. So what is it exactly that you want?"
+},
+{
+"si": 176,
+"ei": 43,
+"src": "I don't know, sweetie. Part of the pleasure will be that I won't know beforehand what I will get."
+},
+{
+"si": 176,
+"ei": 44,
+"src": "You might try finding a specialist at the market."
+},
+{
+"si": 176,
+"ei": 45,
+"src": "Anything else you need to get done?"
+},
+{
+"si": 176,
+"ei": 46,
+"src": "Actually, yes."
+},
+{
+"si": 176,
+"ei": 47,
+"src": "Now we're getting to the bottom of it. Sweet, sweet bottom."
+},
+{
+"si": 176,
+"ei": 48,
+"src": "My mistress got involved with a Titan. Before the mistress left us."
+},
+{
+"si": 176,
+"ei": 49,
+"src": "That Titan is called Mother, and there are all sorts of stories about her circulating here in our Crystal City."
+}
+]

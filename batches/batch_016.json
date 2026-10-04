@@ -1,0 +1,1312 @@
+[
+{
+"si": 403,
+"ei": 7,
+"src": "But before we continue, I need to prepare some things."
+},
+{
+"si": 403,
+"ei": 8,
+"src": "Let's talk again next time you visit New Delphi."
+},
+{
+"si": 405,
+"ei": 0,
+"src": "What happened?"
+},
+{
+"si": 405,
+"ei": 1,
+"src": "Tell me everything!"
+},
+{
+"si": 405,
+"ei": 2,
+"src": "He was mutilated and there was blood all over the place."
+},
+{
+"si": 405,
+"ei": 3,
+"src": "He is dead now, but before he died he mentioned something about the Godhunters."
+},
+{
+"si": 405,
+"ei": 4,
+"src": "The Godhunters?"
+},
+{
+"si": 405,
+"ei": 5,
+"src": "This is bad."
+},
+{
+"si": 405,
+"ei": 6,
+"src": "You there!"
+},
+{
+"si": 405,
+"ei": 7,
+"src": "Yes?"
+},
+{
+"si": 405,
+"ei": 8,
+"src": "Go to Titans Heart and check the situation there!"
+},
+{
+"si": 405,
+"ei": 9,
+"src": "Ah, fuck."
+},
+{
+"si": 405,
+"ei": 10,
+"src": "There goes my cozy guard job."
+},
+{
+"si": 405,
+"ei": 11,
+"src": "Did you say something?"
+},
+{
+"si": 405,
+"ei": 12,
+"src": "No, no, no."
+},
+{
+"si": 405,
+"ei": 13,
+"src": "I'm going, I'm going."
+},
+{
+"si": 405,
+"ei": 14,
+"src": "Thank you very much for telling us about that."
+},
+{
+"si": 405,
+"ei": 15,
+"src": "This is dire news indeed."
+},
+{
+"si": 407,
+"ei": 0,
+"src": "Did that Historian talk again?"
+},
+{
+"si": 407,
+"ei": 1,
+"src": "I told him to guard his mouth."
+},
+{
+"si": 407,
+"ei": 2,
+"src": "Please leave this matter be."
+},
+{
+"si": 407,
+"ei": 3,
+"src": "There is good reason why we tell the story this way."
+},
+{
+"si": 407,
+"ei": 4,
+"src": "Alright. You don't have to tell me."
+},
+{
+"si": 407,
+"ei": 5,
+"src": "Ah, it's good to see you're reasonable."
+},
+{
+"si": 407,
+"ei": 6,
+"src": "Have a pleasant day."
+},
+{
+"si": 407,
+"ei": 7,
+"src": "I insist. Tell me!"
+},
+{
+"si": 407,
+"ei": 8,
+"src": "I see that it is not worth arguing this with you."
+},
+{
+"si": 407,
+"ei": 9,
+"src": "But you will have to prove your devotion to the Titans beforehand."
+},
+{
+"si": 407,
+"ei": 10,
+"src": "No way."
+},
+{
+"si": 407,
+"ei": 11,
+"src": "It's probably not worth it anyway."
+},
+{
+"si": 407,
+"ei": 12,
+"src": "I knew this would be your answer."
+},
+{
+"si": 407,
+"ei": 13,
+"src": "Talk to me again when you wish to prove your devotion."
+},
+{
+"si": 407,
+"ei": 14,
+"src": "Alright."
+},
+{
+"si": 407,
+"ei": 15,
+"src": "What do I need to do?"
+},
+{
+"si": 407,
+"ei": 16,
+"src": "Complete the final steps of a pilgrims trial, prove your devotion, and we may talk about this again."
+},
+{
+"si": 407,
+"ei": 17,
+"src": "Complete your pilgrimage, and we may talk about this again."
+},
+{
+"si": 407,
+"ei": 18,
+"src": "But I am preoccupied with the situation around the Titans Heart."
+},
+{
+"si": 407,
+"ei": 19,
+"src": "Please ask again once this is over."
+},
+{
+"si": 407,
+"ei": 20,
+"src": "But you will have to finish proving your devotion to the Titans beforehand."
+},
+{
+"si": 407,
+"ei": 21,
+"src": "Which, of course, can only happen once I finished my preparations for the final step."
+},
+{
+"si": 407,
+"ei": 22,
+"src": "So please stay patient until then."
+},
+{
+"si": 407,
+"ei": 23,
+"src": "You will have to prove your devotion before I will say anything."
+},
+{
+"si": 407,
+"ei": 24,
+"src": "Once we are done with the last step of you becoming a true believer, ask me again."
+},
+{
+"si": 407,
+"ei": 25,
+"src": "You will have to prove your devotion before I will say anything."
+},
+{
+"si": 407,
+"ei": 26,
+"src": "I apologize, but we are still in worry with what happened to the Heart of the Titan."
+},
+{
+"si": 407,
+"ei": 27,
+"src": "I cannot entertain this matter right now."
+},
+{
+"si": 409,
+"ei": 0,
+"src": "So it's finally come to this."
+},
+{
+"si": 409,
+"ei": 1,
+"src": "I wish I didn't have to, but you have proven yourself more than worthy."
+},
+{
+"si": 409,
+"ei": 2,
+"src": "No matter how much I wished this to remain a secret."
+},
+{
+"si": 409,
+"ei": 3,
+"src": "I was burdened with the key to the gate down below."
+},
+{
+"si": 409,
+"ei": 4,
+"src": "Behind which lie the remnants of this place's past."
+},
+{
+"si": 409,
+"ei": 5,
+"src": "But the Titans have heard my prayers and lifted this weight from me."
+},
+{
+"si": 409,
+"ei": 6,
+"src": "The key is gone."
+},
+{
+"si": 409,
+"ei": 7,
+"src": "And with it my ability to present you the secret."
+},
+{
+"si": 409,
+"ei": 8,
+"src": "And with it my ability to present you the answer."
+},
+{
+"si": 409,
+"ei": 9,
+"src": "Here, take this and walk through the gate down there."
+},
+{
+"si": 409,
+"ei": 10,
+"src": "Experience yourself what this place used to be."
+},
+{
+"si": 409,
+"ei": 11,
+"src": "Oh, how I wish you wouldn't ask."
+},
+{
+"si": 409,
+"ei": 12,
+"src": "So it's finally come to this."
+},
+{
+"si": 409,
+"ei": 13,
+"src": "I hoped that by sending you away I wouldn't have to tell you."
+},
+{
+"si": 411,
+"ei": 1,
+"src": "Hello?"
+},
+{
+"si": 411,
+"ei": 2,
+"src": "You're still interested in talking with me?"
+},
+{
+"si": 411,
+"ei": 3,
+"src": "How exciting."
+},
+{
+"si": 411,
+"ei": 4,
+"src": "What do you need?"
+},
+{
+"si": 411,
+"ei": 5,
+"src": "Why won't the others talk to you?"
+},
+{
+"si": 411,
+"ei": 6,
+"src": "Oh, I don't know."
+},
+{
+"si": 411,
+"ei": 7,
+"src": "The others, they're more interested in the rites and stuff."
+},
+{
+"si": 411,
+"ei": 8,
+"src": "Not the stories our community is actually built upon."
+},
+{
+"si": 411,
+"ei": 9,
+"src": "I guess I'm boring them."
+},
+{
+"si": 411,
+"ei": 10,
+"src": "Except for the High Priest, maybe."
+},
+{
+"si": 411,
+"ei": 11,
+"src": "Even though we don't agree on many things, he was always kind to me."
+},
+{
+"si": 411,
+"ei": 12,
+"src": "Anything else?"
+},
+{
+"si": 411,
+"ei": 13,
+"src": "What was that about the true story of this place?"
+},
+{
+"si": 411,
+"ei": 14,
+"src": "No, no, no."
+},
+{
+"si": 411,
+"ei": 15,
+"src": "The High Priest told me not to talk about this."
+},
+{
+"si": 411,
+"ei": 16,
+"src": "This is just an ancient place that is older than the Bleeding."
+},
+{
+"si": 411,
+"ei": 17,
+"src": "And the Sleeper chose one of the pools here as his resting place."
+},
+{
+"si": 411,
+"ei": 18,
+"src": "There's nothing more to it."
+},
+{
+"si": 411,
+"ei": 19,
+"src": "So stop asking me about this."
+},
+{
+"si": 411,
+"ei": 20,
+"src": "Who is the Sleeper?"
+},
+{
+"si": 411,
+"ei": 21,
+"src": "One of the Flesh Titans."
+},
+{
+"si": 411,
+"ei": 22,
+"src": "It is said that he used to wander around the deserts in this area."
+},
+{
+"si": 411,
+"ei": 23,
+"src": "But one day he decided to take his rest in the pools."
+},
+{
+"si": 411,
+"ei": 24,
+"src": "So New Delphi became a holy place."
+},
+{
+"si": 411,
+"ei": 25,
+"src": "And the pilgrims come here to pray to him."
+},
+{
+"si": 411,
+"ei": 26,
+"src": "At least that's the official story."
+},
+{
+"si": 411,
+"ei": 27,
+"src": "The documents tell something else."
+},
+{
+"si": 411,
+"ei": 28,
+"src": "Oh, wait. The High Priest told me not to talk about that."
+},
+{
+"si": 411,
+"ei": 29,
+"src": "What is this Bleeding?"
+},
+{
+"si": 411,
+"ei": 30,
+"src": "It happened a long time ago."
+},
+{
+"si": 411,
+"ei": 31,
+"src": "This planet used to be completely normal."
+},
+{
+"si": 411,
+"ei": 32,
+"src": "But then it started to rain blood and flesh."
+},
+{
+"si": 411,
+"ei": 33,
+"src": "For a long time. Maybe years even."
+},
+{
+"si": 411,
+"ei": 34,
+"src": "There aren't many records from that time."
+},
+{
+"si": 411,
+"ei": 35,
+"src": "And soon after, the Titans started appearing."
+},
+{
+"si": 411,
+"ei": 36,
+"src": "What are the Flesh Titans?"
+},
+{
+"si": 411,
+"ei": 37,
+"src": "Mysterious beings of flesh."
+},
+{
+"si": 411,
+"ei": 38,
+"src": "They started appearing after the Bleeding."
+},
+{
+"si": 411,
+"ei": 39,
+"src": "Where they go, the flesh grows."
+},
+{
+"si": 411,
+"ei": 40,
+"src": "And with the flesh comes life."
+},
+{
+"si": 411,
+"ei": 41,
+"src": "At least that's what we believe."
+},
+{
+"si": 411,
+"ei": 42,
+"src": "But their history is very murky."
+},
+{
+"si": 411,
+"ei": 43,
+"src": "So, what is the history of this place?"
+},
+{
+"si": 411,
+"ei": 44,
+"src": "These are the ruins of New Delphi."
+},
+{
+"si": 411,
+"ei": 45,
+"src": "This place was old even before the Bleeding."
+},
+{
+"si": 411,
+"ei": 46,
+"src": "The pools are filled with mysterious liquids."
+},
+{
+"si": 411,
+"ei": 47,
+"src": "And the Sleeper chose one of them as his resting place."
+},
+{
+"si": 411,
+"ei": 48,
+"src": "Who are you?"
+},
+{
+"si": 411,
+"ei": 49,
+"src": "I'm the Historian."
+},
+{
+"si": 411,
+"ei": 50,
+"src": "I study the history of places connected to the Flesh Titans."
+},
+{
+"si": 411,
+"ei": 51,
+"src": "But documentation is scarce."
+},
+{
+"si": 411,
+"ei": 53,
+"src": "HELLO!"
+},
+{
+"si": 411,
+"ei": 54,
+"src": "Oh, you're talking to me."
+},
+{
+"si": 411,
+"ei": 55,
+"src": "No one ever talks to me."
+},
+{
+"si": 413,
+"ei": 0,
+"src": "As we consume the flesh, the flesh will consume us."
+},
+{
+"si": 413,
+"ei": 1,
+"src": "My prayers will be heard."
+},
+{
+"si": 413,
+"ei": 2,
+"src": "I'm here to pray."
+},
+{
+"si": 413,
+"ei": 3,
+"src": "It's too fucking hot."
+},
+{
+"si": 413,
+"ei": 4,
+"src": "I'm so thirsty."
+},
+{
+"si": 413,
+"ei": 5,
+"src": "These ruins were already ancient when the bleeding happened."
+},
+{
+"si": 413,
+"ei": 6,
+"src": "I travelled for five days, just to see the sleeper."
+},
+{
+"si": 413,
+"ei": 7,
+"src": "They say New Delphi is hiding a secret."
+},
+{
+"si": 413,
+"ei": 8,
+"src": "Have you not met the sleeper?"
+},
+{
+"si": 413,
+"ei": 9,
+"src": "I did not expect it to be so hot here."
+},
+{
+"si": 413,
+"ei": 10,
+"src": "The High Priest is wise."
+},
+{
+"si": 413,
+"ei": 11,
+"src": "I travelled from far away, and still no hookup."
+},
+{
+"si": 415,
+"ei": 0,
+"src": "For the flesh."
+},
+{
+"si": 415,
+"ei": 1,
+"src": "Be blessed by the flesh."
+},
+{
+"si": 415,
+"ei": 2,
+"src": "Follow the Titans."
+},
+{
+"si": 415,
+"ei": 3,
+"src": "As you will."
+},
+{
+"si": 415,
+"ei": 4,
+"src": "May the wounds close in peace."
+},
+{
+"si": 415,
+"ei": 5,
+"src": "The sun will rise again."
+},
+{
+"si": 415,
+"ei": 6,
+"src": "Mind your body."
+},
+{
+"si": 415,
+"ei": 7,
+"src": "Do not hesitate. Do!"
+},
+{
+"si": 415,
+"ei": 8,
+"src": "Remember to be."
+},
+{
+"si": 415,
+"ei": 9,
+"src": "May the Titans offer you peace."
+},
+{
+"si": 415,
+"ei": 10,
+"src": "Go, my child."
+},
+{
+"si": 415,
+"ei": 11,
+"src": "Know your will."
+},
+{
+"si": 415,
+"ei": 12,
+"src": "Praise the flesh."
+},
+{
+"si": 415,
+"ei": 13,
+"src": "Protect yourself."
+},
+{
+"si": 415,
+"ei": 14,
+"src": "Believe in the blood."
+},
+{
+"si": 417,
+"ei": 0,
+"src": "You have come back."
+},
+{
+"si": 417,
+"ei": 1,
+"src": "Will you let the Titans bless you?"
+},
+{
+"si": 417,
+"ei": 2,
+"src": "Do the blessings even work?"
+},
+{
+"si": 417,
+"ei": 3,
+"src": "That Titan over there doesn't seem very active."
+},
+{
+"si": 417,
+"ei": 4,
+"src": "Be quiet, fool!"
+},
+{
+"si": 417,
+"ei": 5,
+"src": "Do not let the pilgrims waver in their belief."
+},
+{
+"si": 417,
+"ei": 6,
+"src": "Take the Historian as your example, quietly staying down in his hut."
+},
+{
+"si": 417,
+"ei": 7,
+"src": "This place is blessed by the sleeper, and nobody's words may defile it."
+},
+{
+"si": 417,
+"ei": 8,
+"src": "Such is the glory of the Titans."
+},
+{
+"si": 417,
+"ei": 9,
+"src": "What's with the big guy in the pool?"
+},
+{
+"si": 417,
+"ei": 10,
+"src": "Do not speak ill of the sleeper."
+},
+{
+"si": 417,
+"ei": 11,
+"src": "He is a Titan who wandered these lands and decided to take his rest, right here."
+},
+{
+"si": 417,
+"ei": 12,
+"src": "He has blessed us with his presence."
+},
+{
+"si": 417,
+"ei": 13,
+"src": "And we share his blessings with the rest of all the people."
+},
+{
+"si": 417,
+"ei": 14,
+"src": "Even one as you may receive them."
+},
+{
+"si": 417,
+"ei": 15,
+"src": "Who are all these people?"
+},
+{
+"si": 417,
+"ei": 16,
+"src": "The souls, once lost, who have found their way to truth."
+},
+{
+"si": 417,
+"ei": 17,
+"src": "They come from far and wide to show their devotion as pilgrims."
+},
+{
+"si": 417,
+"ei": 18,
+"src": "They are here to receive the blessing of the Titans."
+},
+{
+"si": 417,
+"ei": 19,
+"src": "The strongest among them have even decided to stay, and put their entire being in front of the masters."
+},
+{
+"si": 417,
+"ei": 20,
+"src": "You too could be one of them."
+},
+{
+"si": 417,
+"ei": 21,
+"src": "But you have far surpassed them in both strength and devotion already."
+},
+{
+"si": 417,
+"ei": 22,
+"src": "The Titans?"
+},
+{
+"si": 417,
+"ei": 23,
+"src": "Oh you poor soul, don't you know of them?"
+},
+{
+"si": 417,
+"ei": 24,
+"src": "Our guardians and masters."
+},
+{
+"si": 417,
+"ei": 25,
+"src": "They saw our sinful ways, and came to lead us to bliss."
+},
+{
+"si": 417,
+"ei": 26,
+"src": "Where they go, the flesh grows."
+},
+{
+"si": 417,
+"ei": 27,
+"src": "And where the flesh grows, life blooms."
+},
+{
+"si": 417,
+"ei": 28,
+"src": "Praise them, my child, for they still have hope for you."
+},
+{
+"si": 417,
+"ei": 29,
+"src": "Come, and join us in praise."
+},
+{
+"si": 417,
+"ei": 30,
+"src": "Surely you jest."
+},
+{
+"si": 417,
+"ei": 31,
+"src": "You have saved one's seedling after all."
+},
+{
+"si": 417,
+"ei": 32,
+"src": "They are the ones who have sent you to help us."
+},
+{
+"si": 417,
+"ei": 33,
+"src": "Oh, what an oddity do my eyes see."
+},
+{
+"si": 417,
+"ei": 34,
+"src": "A child, that has not yet joined the flock."
+},
+{
+"si": 417,
+"ei": 35,
+"src": "Come here, come here."
+},
+{
+"si": 417,
+"ei": 36,
+"src": "Let the grace of the Titans bless you, like it blesses all the others."
+},
+{
+"si": 417,
+"ei": 37,
+"src": "You are back."
+},
+{
+"si": 417,
+"ei": 38,
+"src": "Titans bless you."
+},
+{
+"si": 417,
+"ei": 39,
+"src": "I have heard of your heroic tale."
+},
+{
+"si": 417,
+"ei": 40,
+"src": "The Titans must have big plans for you."
+},
+{
+"si": 419,
+"ei": 0,
+"src": "Hello."
+},
+{
+"si": 419,
+"ei": 1,
+"src": "Hi."
+},
+{
+"si": 421,
+"ei": 0,
+"src": "Welcome."
+},
+{
+"si": 423,
+"ei": 0,
+"src": "Hey, sister."
+},
+{
+"si": 423,
+"ei": 1,
+"src": "I have a question regarding the celibacy."
+},
+{
+"si": 423,
+"ei": 2,
+"src": "What do you mean? We have no rules enforcing celibacy."
+},
+{
+"si": 423,
+"ei": 3,
+"src": "WHAT? All this time I live in abstinence, and... no one ever told me?"
+},
+{
+"si": 423,
+"ei": 4,
+"src": "*shrugs*"
+},
+{
+"si": 423,
+"ei": 5,
+"src": "Alright. Gonna make the best of that now."
+},
+{
+"si": 423,
+"ei": 6,
+"src": "Hey, brother."
+},
+{
+"si": 423,
+"ei": 7,
+"src": "What's up?"
+},
+{
+"si": 423,
+"ei": 8,
+"src": "Look who's here."
+},
+{
+"si": 423,
+"ei": 9,
+"src": "Finally decided to come over, right? You were staring at me the whole time."
+},
+{
+"si": 423,
+"ei": 10,
+"src": "I was not."
+},
+{
+"si": 423,
+"ei": 11,
+"src": "You were."
+},
+{
+"si": 423,
+"ei": 12,
+"src": "I was not."
+},
+{
+"si": 423,
+"ei": 14,
+"src": "Alright. See you later."
+},
+{
+"si": 423,
+"ei": 15,
+"src": "For the Flesh!"
+},
+{
+"si": 423,
+"ei": 16,
+"src": "Hail the Flesh!"
+},
+{
+"si": 423,
+"ei": 17,
+"src": "I need to eat something."
+},
+{
+"si": 423,
+"ei": 18,
+"src": "Yeah, well. Whatever."
+},
+{
+"si": 423,
+"ei": 19,
+"src": "Do you have some food that is not meat? Can I have it?"
+},
+{
+"si": 423,
+"ei": 20,
+"src": "Hahaha."
+},
+{
+"si": 423,
+"ei": 21,
+"src": "Hail the Flesh!"
+},
+{
+"si": 423,
+"ei": 22,
+"src": "All Hail the Meat."
+},
+{
+"si": 423,
+"ei": 23,
+"src": "Did you read that passage about uniting the children?"
+},
+{
+"si": 423,
+"ei": 24,
+"src": "Do you know if that's us? The children, I mean."
+},
+{
+"si": 423,
+"ei": 25,
+"src": "Do I look like I'm in charge? I have no idea really."
+},
+{
+"si": 423,
+"ei": 26,
+"src": "It could literally mean children, right? Perhaps it's a hint that we should begin making some?"
+},
+{
+"si": 423,
+"ei": 27,
+"src": "I'm not so sure about that."
+},
+{
+"si": 423,
+"ei": 28,
+"src": "Hey. How is it today?"
+},
+{
+"si": 423,
+"ei": 29,
+"src": "Painful. But I don't want to complain too much."
+},
+{
+"si": 423,
+"ei": 30,
+"src": "And yours?"
+},
+{
+"si": 423,
+"ei": 31,
+"src": "More than painful. Fucking hell, really."
+},
+{
+"si": 423,
+"ei": 32,
+"src": "It's like someone decided to make this a hellhole for me, raining shit from..."
+},
+{
+"si": 423,
+"ei": 33,
+"src": "Ah, well, don't want to complain either."
+},
+{
+"si": 423,
+"ei": 34,
+"src": "Welcome!"
+},
+{
+"si": 425,
+"ei": 0,
+"src": "So, how did they capture you?"
+},
+{
+"si": 425,
+"ei": 1,
+"src": "I was out to take a piss."
+},
+{
+"si": 425,
+"ei": 2,
+"src": "And they were hiding in the bush."
+},
+{
+"si": 425,
+"ei": 3,
+"src": "Let's say they weren't very happy with the situation."
+},
+{
+"si": 425,
+"ei": 4,
+"src": "Praise the Titans!"
+},
+{
+"si": 425,
+"ei": 5,
+"src": "Praise be."
+},
+{
+"si": 425,
+"ei": 6,
+"src": "I miss my wife."
+},
+{
+"si": 425,
+"ei": 7,
+"src": "You have a wife?"
+},
+{
+"si": 425,
+"ei": 8,
+"src": "No."
+},
+{
+"si": 425,
+"ei": 9,
+"src": "But if I had one, I'd be missing her after all this time."
+},
+{
+"si": 425,
+"ei": 10,
+"src": "How long have we been here for?"
+},
+{
+"si": 425,
+"ei": 11,
+"src": "I don't know."
+},
+{
+"si": 425,
+"ei": 12,
+"src": "Wasn't it your turn to count the days?"
+},
+{
+"si": 425,
+"ei": 13,
+"src": "Shit. I forgot."
+},
+{
+"si": 425,
+"ei": 14,
+"src": "Hey!"
+},
+{
+"si": 427,
+"ei": 0,
+"src": "Hey, sister. Sister."
+},
+{
+"si": 427,
+"ei": 1,
+"src": "I have a question regarding the celibacy. Celibacy."
+},
+{
+"si": 427,
+"ei": 2,
+"src": "What do you mean? What? We have no rules enforcing celibacy. No rules."
+},
+{
+"si": 427,
+"ei": 3,
+"src": "WHAT? WHAT? All this time I live in abstinence, and... no one ever told me? No one?"
+},
+{
+"si": 427,
+"ei": 4,
+"src": "*shrugs*"
+},
+{
+"si": 427,
+"ei": 5,
+"src": "Alright. Alright. Gonna make the best of that now. Best of that."
+},
+{
+"si": 427,
+"ei": 6,
+"src": "Hey, brother. Brother."
+},
+{
+"si": 427,
+"ei": 7,
+"src": "What's up? What?"
+},
+{
+"si": 427,
+"ei": 8,
+"src": "Look who's here. Here."
+},
+{
+"si": 427,
+"ei": 9,
+"src": "Finally decided to come over, right? Right? You were staring at me the whole time. At me."
+},
+{
+"si": 427,
+"ei": 10,
+"src": "I was not. Was not."
+},
+{
+"si": 427,
+"ei": 11,
+"src": "You were. You."
+},
+{
+"si": 427,
+"ei": 12,
+"src": "I was not. Was not."
+},
+{
+"si": 427,
+"ei": 14,
+"src": "Alright. Alright. See you later. See you."
+},
+{
+"si": 427,
+"ei": 15,
+"src": "For the Hierarch! The Hierarch!"
+},
+{
+"si": 427,
+"ei": 16,
+"src": "Hail the Hierarch! The Hierarch!"
+},
+{
+"si": 427,
+"ei": 17,
+"src": "I need to eat something. Need to eat."
+},
+{
+"si": 427,
+"ei": 18,
+"src": "Yeah, well. Whatever. Whatever."
+},
+{
+"si": 427,
+"ei": 19,
+"src": "Do you have some food that is not meat? Not meat? Can I have it? Can I"
+},
+{
+"si": 427,
+"ei": 20,
+"src": "Hahaha. Hahaha."
+},
+{
+"si": 427,
+"ei": 21,
+"src": "Hail the Hierarch! The Hierarch!"
+},
+{
+"si": 427,
+"ei": 22,
+"src": "All Hail the Hierarch! The Hierarch!"
+},
+{
+"si": 427,
+"ei": 23,
+"src": "Did you read that passage about uniting the children? Uniting?"
+},
+{
+"si": 427,
+"ei": 24,
+"src": "Do you know if that's us? Us? The children, I mean. The children."
+},
+{
+"si": 427,
+"ei": 25,
+"src": "Do I look like I'm in charge? Do I? I have no idea really. No idea."
+},
+{
+"si": 427,
+"ei": 26,
+"src": "It could literally mean children, right? Right? Perhaps it's a hint that we should begin making some? Making some?"
+},
+{
+"si": 427,
+"ei": 27,
+"src": "I'm not so sure about that. Not sure."
+},
+{
+"si": 427,
+"ei": 28,
+"src": "Hey. Hey. How is it today? How?"
+}
+]

@@ -1,0 +1,2137 @@
+[
+{
+"si": 0,
+"ei": 455,
+"src": "Never"
+},
+{
+"si": 0,
+"ei": 456,
+"src": "Zoom while in dialogue"
+},
+{
+"si": 0,
+"ei": 457,
+"src": "Animalism"
+},
+{
+"si": 0,
+"ei": 458,
+"src": "Hotkey Language Override"
+},
+{
+"si": 0,
+"ei": 459,
+"src": "Equipped"
+},
+{
+"si": 0,
+"ei": 460,
+"src": "Same"
+},
+{
+"si": 0,
+"ei": 461,
+"src": "VSync (Default)"
+},
+{
+"si": 0,
+"ei": 462,
+"src": "Found something"
+},
+{
+"si": 0,
+"ei": 463,
+"src": "Item missing"
+},
+{
+"si": 0,
+"ei": 464,
+"src": "Toggle [0]{0}||with {1}||"
+},
+{
+"si": 0,
+"ei": 465,
+"src": "Input Bindings||Player 2"
+},
+{
+"si": 0,
+"ei": 466,
+"src": "Gathering knowledge..."
+},
+{
+"si": 0,
+"ei": 467,
+"src": "Waiting on other player..."
+},
+{
+"si": 0,
+"ei": 468,
+"src": "Activating cheats will mark the current savegame for not getting Achievements."
+},
+{
+"si": 0,
+"ei": 469,
+"src": "Controller Vibration (if available)"
+},
+{
+"si": 0,
+"ei": 470,
+"src": "Steam Input (will be added later)"
+},
+{
+"si": 0,
+"ei": 471,
+"src": "Inventory"
+},
+{
+"si": 0,
+"ei": 472,
+"src": "Mod Scenarios"
+},
+{
+"si": 0,
+"ei": 473,
+"src": "Attach Basic Hardware and Game Info"
+},
+{
+"si": 0,
+"ei": 474,
+"src": "Attach Log File"
+},
+{
+"si": 0,
+"ei": 475,
+"src": "Attach Log File From Previous Application Start"
+},
+{
+"si": 0,
+"ei": 476,
+"src": "Clear"
+},
+{
+"si": 0,
+"ei": 477,
+"src": "Ok"
+},
+{
+"si": 0,
+"ei": 478,
+"src": "Cancel"
+},
+{
+"si": 0,
+"ei": 479,
+"src": "Send"
+},
+{
+"si": 0,
+"ei": 480,
+"src": "Attach Screenshot:||(Low Resolution)"
+},
+{
+"si": 0,
+"ei": 481,
+"src": "Enter text..."
+},
+{
+"si": 0,
+"ei": 482,
+"src": "Write feedback about the game or report a bug.||You can also contact us here: team@deathtrash.com"
+},
+{
+"si": 0,
+"ei": 483,
+"src": "Shortcuts:||F1: Toggle form (keeps text, renews screenshot)||Ctrl or Command + Enter: Send form"
+},
+{
+"si": 0,
+"ei": 484,
+"src": "Your name / nickname"
+},
+{
+"si": 0,
+"ei": 485,
+"src": "Feedback / Bug Description"
+},
+{
+"si": 0,
+"ei": 486,
+"src": "Feedback sent successfully"
+},
+{
+"si": 0,
+"ei": 487,
+"src": "Sending..."
+},
+{
+"si": 0,
+"ei": 488,
+"src": "Press {0} anytime||to report feedback & bugs."
+},
+{
+"si": 0,
+"ei": 489,
+"src": "You need to stay together"
+},
+{
+"si": 0,
+"ei": 490,
+"src": "Local Co-Op Mode"
+},
+{
+"si": 0,
+"ei": 491,
+"src": "Shared Screen"
+},
+{
+"si": 0,
+"ei": 492,
+"src": "Split Screen"
+},
+{
+"si": 0,
+"ei": 493,
+"src": "Show Export Directory"
+},
+{
+"si": 0,
+"ei": 494,
+"src": "Save and Continue"
+},
+{
+"si": 0,
+"ei": 495,
+"src": "Please wait"
+},
+{
+"si": 0,
+"ei": 496,
+"src": "Second Screen"
+},
+{
+"si": 0,
+"ei": 497,
+"src": "Loading not possible"
+},
+{
+"si": 0,
+"ei": 498,
+"src": "You might experience bugs and||work in progress features.||||The final version will contain more locations and story, more combat variations and non-combat gameplay."
+},
+{
+"si": 0,
+"ei": 499,
+"src": "Logged in:"
+},
+{
+"si": 0,
+"ei": 500,
+"src": "Head"
+},
+{
+"si": 0,
+"ei": 501,
+"src": "Cloth Color"
+},
+{
+"si": 0,
+"ei": 502,
+"src": "Services"
+},
+{
+"si": 0,
+"ei": 503,
+"src": "Doctor"
+},
+{
+"si": 0,
+"ei": 504,
+"src": "Will heal fully."
+},
+{
+"si": 0,
+"ei": 505,
+"src": "Awakening"
+},
+{
+"si": 0,
+"ei": 506,
+"src": "Overwrite Profile?"
+},
+{
+"si": 0,
+"ei": 507,
+"src": "since latest Savegame"
+},
+{
+"si": 0,
+"ei": 508,
+"src": "Skill"
+},
+{
+"si": 0,
+"ei": 509,
+"src": "Attribute"
+},
+{
+"si": 0,
+"ei": 510,
+"src": "{0} Mindwarp"
+},
+{
+"si": 0,
+"ei": 511,
+"src": "Challenge"
+},
+{
+"si": 0,
+"ei": 512,
+"src": "Hostile"
+},
+{
+"si": 0,
+"ei": 513,
+"src": "Thought"
+},
+{
+"si": 0,
+"ei": 514,
+"src": "Knowledge"
+},
+{
+"si": 0,
+"ei": 516,
+"src": "New Delphi"
+},
+{
+"si": 0,
+"ei": 517,
+"src": "Poison"
+},
+{
+"si": 0,
+"ei": 518,
+"src": "since saving"
+},
+{
+"si": 0,
+"ei": 519,
+"src": "Saved on:"
+},
+{
+"si": 0,
+"ei": 520,
+"src": "You don't have enough awareness yet."
+},
+{
+"si": 0,
+"ei": 521,
+"src": "Not enough awareness"
+},
+{
+"si": 0,
+"ei": 522,
+"src": "Success"
+},
+{
+"si": 0,
+"ei": 523,
+"src": "Flesh Crater"
+},
+{
+"si": 0,
+"ei": 524,
+"src": "No Entries"
+},
+{
+"si": 0,
+"ei": 525,
+"src": "Knowledge"
+},
+{
+"si": 0,
+"ei": 526,
+"src": "Memorize"
+},
+{
+"si": 0,
+"ei": 527,
+"src": "Memorizing..."
+},
+{
+"si": 0,
+"ei": 528,
+"src": "Close {0}"
+},
+{
+"si": 0,
+"ei": 529,
+"src": "Cyberwomb Module"
+},
+{
+"si": 0,
+"ei": 530,
+"src": "Restart"
+},
+{
+"si": 0,
+"ei": 531,
+"src": "Abandon current game||and restart?"
+},
+{
+"si": 0,
+"ei": 532,
+"src": "Overwrite Savegame?"
+},
+{
+"si": 0,
+"ei": 533,
+"src": "Automatic Inventory Sorting"
+},
+{
+"si": 0,
+"ei": 534,
+"src": "<size=16><b>Common Commands</b></size>||||Invulnerable||Unstuck||Item||Level Hub||||<size=16><b>In-game Shortcuts</b></size>||||Shortcuts can be enabled by using the Console Command <i>Enable Debug Shortcuts</i>.||||F7   Toggle showing Hitboxes (WIP)||F8   Toggle Slow Motion Time||<size=14>Set Slow Motion speed through Console: <i>Set Slow Motion Time Scale</i></size>"
+},
+{
+"si": 0,
+"ei": 535,
+"src": "Can be called from anywhere"
+},
+{
+"si": 0,
+"ei": 536,
+"src": "Map"
+},
+{
+"si": 0,
+"ei": 537,
+"src": "Toggle"
+},
+{
+"si": 0,
+"ei": 538,
+"src": "Hold Pressed"
+},
+{
+"si": 0,
+"ei": 539,
+"src": "Gathering data..."
+},
+{
+"si": 0,
+"ei": 540,
+"src": "Ctrl Left"
+},
+{
+"si": 0,
+"ei": 541,
+"src": "Ctrl Right"
+},
+{
+"si": 0,
+"ei": 542,
+"src": "Shift Left"
+},
+{
+"si": 0,
+"ei": 543,
+"src": "Shift Right"
+},
+{
+"si": 0,
+"ei": 544,
+"src": "Item missing"
+},
+{
+"si": 0,
+"ei": 545,
+"src": "Equip"
+},
+{
+"si": 0,
+"ei": 546,
+"src": "None"
+},
+{
+"si": 0,
+"ei": 547,
+"src": "None"
+},
+{
+"si": 0,
+"ei": 548,
+"src": "Select"
+},
+{
+"si": 0,
+"ei": 549,
+"src": "Equipped Weapons"
+},
+{
+"si": 0,
+"ei": 550,
+"src": "Equipped Items"
+},
+{
+"si": 0,
+"ei": 551,
+"src": "Equipped Abilities"
+},
+{
+"si": 0,
+"ei": 552,
+"src": "Select ability or item"
+},
+{
+"si": 0,
+"ei": 553,
+"src": "Stealth"
+},
+{
+"si": 0,
+"ei": 554,
+"src": "Body"
+},
+{
+"si": 0,
+"ei": 555,
+"src": "Old Trees"
+},
+{
+"si": 0,
+"ei": 556,
+"src": "General reminder:||Select Equipment {0}"
+},
+{
+"si": 0,
+"ei": 557,
+"src": "Select Equipment||{0}"
+},
+{
+"si": 0,
+"ei": 558,
+"src": "or"
+},
+{
+"si": 0,
+"ei": 559,
+"src": "The Wall"
+},
+{
+"si": 0,
+"ei": 560,
+"src": "Grants {0} experience points."
+},
+{
+"si": 0,
+"ei": 561,
+"src": "Consume"
+},
+{
+"si": 0,
+"ei": 562,
+"src": "Implants"
+},
+{
+"si": 0,
+"ei": 563,
+"src": "You own this one already"
+},
+{
+"si": 0,
+"ei": 564,
+"src": "Use a Cyberwomb machine"
+},
+{
+"si": 0,
+"ei": 565,
+"src": "{0} Memorize"
+},
+{
+"si": 0,
+"ei": 566,
+"src": "Missing crafting knowledge."
+},
+{
+"si": 0,
+"ei": 567,
+"src": "Book"
+},
+{
+"si": 0,
+"ei": 568,
+"src": "Select Nano Health {0}"
+},
+{
+"si": 0,
+"ei": 569,
+"src": "Learned:"
+},
+{
+"si": 0,
+"ei": 570,
+"src": "Focus Energy restored"
+},
+{
+"si": 0,
+"ei": 571,
+"src": "Mode Ability"
+},
+{
+"si": 0,
+"ei": 572,
+"src": "Passive"
+},
+{
+"si": 0,
+"ei": 573,
+"src": "Active Ability"
+},
+{
+"si": 0,
+"ei": 574,
+"src": "Pick up the Stealth module"
+},
+{
+"si": 0,
+"ei": 575,
+"src": "Equip the Stealth module"
+},
+{
+"si": 0,
+"ei": 576,
+"src": "Click on the Body Tab"
+},
+{
+"si": 0,
+"ei": 577,
+"src": "Open Body Inventory {0}{1}"
+},
+{
+"si": 0,
+"ei": 578,
+"src": "Titans Head"
+},
+{
+"si": 0,
+"ei": 579,
+"src": "Titans Heart"
+},
+{
+"si": 0,
+"ei": 580,
+"src": "Titans Guts"
+},
+{
+"si": 0,
+"ei": 581,
+"src": "Lost:"
+},
+{
+"si": 0,
+"ei": 582,
+"src": "Focus Energy already full"
+},
+{
+"si": 0,
+"ei": 583,
+"src": "Gadgets"
+},
+{
+"si": 0,
+"ei": 584,
+"src": "Toggle"
+},
+{
+"si": 0,
+"ei": 585,
+"src": "Always"
+},
+{
+"si": 0,
+"ei": 586,
+"src": "Hold Pressed"
+},
+{
+"si": 0,
+"ei": 587,
+"src": "Not available."
+},
+{
+"si": 0,
+"ei": 588,
+"src": "Influences how fast other characters discover you and how much energy movement during stealth consumes.||Backstabbing damage: + {0} %"
+},
+{
+"si": 0,
+"ei": 589,
+"src": "Godhunters' Prison"
+},
+{
+"si": 0,
+"ei": 590,
+"src": "No Active Ability equipped"
+},
+{
+"si": 0,
+"ei": 591,
+"src": "No Stealth Ability equipped"
+},
+{
+"si": 0,
+"ei": 592,
+"src": "Select [0]{0}||with {1}"
+},
+{
+"si": 0,
+"ei": 593,
+"src": "Block incoming attacks {0}"
+},
+{
+"si": 0,
+"ei": 594,
+"src": "Godhunters' Prison"
+},
+{
+"si": 0,
+"ei": 595,
+"src": "Required"
+},
+{
+"si": 0,
+"ei": 596,
+"src": "Godhunters' Prison"
+},
+{
+"si": 0,
+"ei": 597,
+"src": "Will heal {0} health instantly."
+},
+{
+"si": 0,
+"ei": 598,
+"src": "Infection"
+},
+{
+"si": 0,
+"ei": 599,
+"src": "Now use [0]{0}||with {1}"
+},
+{
+"si": 0,
+"ei": 600,
+"src": "Throw [0]{0}||by holding and releasing {1}"
+},
+{
+"si": 0,
+"ei": 601,
+"src": "Give Partner"
+},
+{
+"si": 0,
+"ei": 602,
+"src": "Partner not available"
+},
+{
+"si": 0,
+"ei": 603,
+"src": "Partner not ready"
+},
+{
+"si": 0,
+"ei": 604,
+"src": "Not enough space"
+},
+{
+"si": 0,
+"ei": 605,
+"src": "{0} Learn"
+},
+{
+"si": 0,
+"ei": 606,
+"src": "Learning..."
+},
+{
+"si": 0,
+"ei": 607,
+"src": "Frame Rate"
+},
+{
+"si": 0,
+"ei": 608,
+"src": "Just quit"
+},
+{
+"si": 0,
+"ei": 609,
+"src": "Send"
+},
+{
+"si": 0,
+"ei": 610,
+"src": "Sending..."
+},
+{
+"si": 0,
+"ei": 611,
+"src": "Encountered Script Error.||Please send us the report.||You can restart the game afterwards."
+},
+{
+"si": 0,
+"ei": 612,
+"src": "Enter optional additional info..."
+},
+{
+"si": 0,
+"ei": 613,
+"src": "No valid target"
+},
+{
+"si": 0,
+"ei": 614,
+"src": "You have been discovered!"
+},
+{
+"si": 0,
+"ei": 615,
+"src": "Forced Max 30"
+},
+{
+"si": 0,
+"ei": 616,
+"src": "Forced Max 60"
+},
+{
+"si": 0,
+"ei": 617,
+"src": "Forced Max 120"
+},
+{
+"si": 0,
+"ei": 618,
+"src": "Forced Max 144"
+},
+{
+"si": 0,
+"ei": 619,
+"src": "Merchant"
+},
+{
+"si": 0,
+"ei": 620,
+"src": "Already applied on this item"
+},
+{
+"si": 0,
+"ei": 621,
+"src": "Overwrite modification?"
+},
+{
+"si": 0,
+"ei": 622,
+"src": "Apply"
+},
+{
+"si": 0,
+"ei": 623,
+"src": "Manual"
+},
+{
+"si": 0,
+"ei": 624,
+"src": "Show Enemy Health Bars"
+},
+{
+"si": 0,
+"ei": 625,
+"src": "Custom UI Scale"
+},
+{
+"si": 0,
+"ei": 626,
+"src": "Camera Zoom Non-Combat"
+},
+{
+"si": 0,
+"ei": 627,
+"src": "Near"
+},
+{
+"si": 0,
+"ei": 628,
+"src": "Far"
+},
+{
+"si": 0,
+"ei": 629,
+"src": "No valid items"
+},
+{
+"si": 0,
+"ei": 630,
+"src": "LevelHub Data is missing"
+},
+{
+"si": 0,
+"ei": 631,
+"src": "Achievements"
+},
+{
+"si": 0,
+"ei": 632,
+"src": "[ Hidden ]"
+},
+{
+"si": 0,
+"ei": 633,
+"src": "[ Hidden Description ]"
+},
+{
+"si": 0,
+"ei": 634,
+"src": "Unlocked:"
+},
+{
+"si": 0,
+"ei": 635,
+"src": "Sickness"
+},
+{
+"si": 0,
+"ei": 636,
+"src": "No valid target"
+},
+{
+"si": 0,
+"ei": 637,
+"src": "[Not signed in]"
+},
+{
+"si": 0,
+"ei": 638,
+"src": "For controller"
+},
+{
+"si": 0,
+"ei": 639,
+"src": "Mental"
+},
+{
+"si": 0,
+"ei": 640,
+"src": "Resistance against any kind of mental damage."
+},
+{
+"si": 0,
+"ei": 641,
+"src": "Biological"
+},
+{
+"si": 0,
+"ei": 642,
+"src": "Resistance against any kind of biological damage."
+},
+{
+"si": 0,
+"ei": 643,
+"src": "Patch Notes"
+},
+{
+"si": 0,
+"ei": 644,
+"src": "Requirements not visible here"
+},
+{
+"si": 0,
+"ei": 645,
+"src": "You cannot use this because of your pacifism!"
+},
+{
+"si": 0,
+"ei": 646,
+"src": "You cannot use this because of your veganism"
+},
+{
+"si": 0,
+"ei": 647,
+"src": "Extra Challenges"
+},
+{
+"si": 0,
+"ei": 648,
+"src": "Has only one savegame and deletes this savegame when you die."
+},
+{
+"si": 0,
+"ei": 649,
+"src": "Damage"
+},
+{
+"si": 0,
+"ei": 650,
+"src": "Rate of Fire"
+},
+{
+"si": 0,
+"ei": 651,
+"src": "Scatter"
+},
+{
+"si": 0,
+"ei": 652,
+"src": "Speed"
+},
+{
+"si": 0,
+"ei": 653,
+"src": "sec"
+},
+{
+"si": 0,
+"ei": 654,
+"src": "Stash"
+},
+{
+"si": 0,
+"ei": 655,
+"src": "None"
+},
+{
+"si": 0,
+"ei": 656,
+"src": "Light"
+},
+{
+"si": 0,
+"ei": 657,
+"src": "Full"
+},
+{
+"si": 0,
+"ei": 658,
+"src": "Input"
+},
+{
+"si": 0,
+"ei": 659,
+"src": "Automatic"
+},
+{
+"si": 0,
+"ei": 660,
+"src": "Xbox One / Series"
+},
+{
+"si": 0,
+"ei": 661,
+"src": "Xbox 360"
+},
+{
+"si": 0,
+"ei": 662,
+"src": "Playstation"
+},
+{
+"si": 0,
+"ei": 663,
+"src": "Nintendo Switch"
+},
+{
+"si": 0,
+"ei": 664,
+"src": "Melee Blunt"
+},
+{
+"si": 0,
+"ei": 665,
+"src": "Melee Sharp"
+},
+{
+"si": 0,
+"ei": 666,
+"src": "Stealth"
+},
+{
+"si": 0,
+"ei": 667,
+"src": "Crafting"
+},
+{
+"si": 0,
+"ei": 668,
+"src": "Unlimited"
+},
+{
+"si": 0,
+"ei": 669,
+"src": "Placeholder"
+},
+{
+"si": 0,
+"ei": 670,
+"src": "Map Overview"
+},
+{
+"si": 0,
+"ei": 671,
+"src": "Abstract"
+},
+{
+"si": 0,
+"ei": 672,
+"src": "Rendered"
+},
+{
+"si": 0,
+"ei": 673,
+"src": "Mods"
+},
+{
+"si": 0,
+"ei": 674,
+"src": "Custom module:"
+},
+{
+"si": 0,
+"ei": 675,
+"src": "JSON in mod.manifest is not valid."
+},
+{
+"si": 0,
+"ei": 676,
+"src": "Error setting up for modding"
+},
+{
+"si": 0,
+"ei": 677,
+"src": "Couldn't find mod.manifest file."
+},
+{
+"si": 0,
+"ei": 678,
+"src": "Invalid JSON in modded file."
+},
+{
+"si": 0,
+"ei": 679,
+"src": "Error"
+},
+{
+"si": 0,
+"ei": 680,
+"src": "Couldn't load level {0}."
+},
+{
+"si": 0,
+"ei": 681,
+"src": "Couldn't find LevelHub with Id {0}."
+},
+{
+"si": 0,
+"ei": 682,
+"src": "Error: Savegame is incompatible"
+},
+{
+"si": 0,
+"ei": 683,
+"src": "Using Steam version but not running through Steam.||Different save games, no cloud sync, no Steam features."
+},
+{
+"si": 0,
+"ei": 684,
+"src": "Achievements will not be synced."
+},
+{
+"si": 0,
+"ei": 685,
+"src": "Warning"
+},
+{
+"si": 0,
+"ei": 686,
+"src": "Mod Id Conflict: {0}"
+},
+{
+"si": 0,
+"ei": 688,
+"src": "Location"
+},
+{
+"si": 0,
+"ei": 689,
+"src": "High tech"
+},
+{
+"si": 0,
+"ei": 690,
+"src": "Reimport Prefabs?"
+},
+{
+"si": 0,
+"ei": 691,
+"src": "Save Level?"
+},
+{
+"si": 0,
+"ei": 692,
+"src": "Save changes?"
+},
+{
+"si": 0,
+"ei": 693,
+"src": "Replace background?"
+},
+{
+"si": 0,
+"ei": 694,
+"src": "Return To||Level Editor"
+},
+{
+"si": 0,
+"ei": 695,
+"src": "Leave Editor?"
+},
+{
+"si": 0,
+"ei": 696,
+"src": "Set visibility of new workshop item"
+},
+{
+"si": 0,
+"ei": 697,
+"src": "Couldn't find published item anymore. Publish as new item?"
+},
+{
+"si": 0,
+"ei": 698,
+"src": "No local mods found for publishing or updating"
+},
+{
+"si": 0,
+"ei": 699,
+"src": "Select mod for publishing or updating"
+},
+{
+"si": 0,
+"ei": 700,
+"src": "Select mod for unpublishing"
+},
+{
+"si": 0,
+"ei": 701,
+"src": "Getting list of published workshop items"
+},
+{
+"si": 0,
+"ei": 702,
+"src": "No published workshop items found"
+},
+{
+"si": 0,
+"ei": 703,
+"src": "Could not create mod. Name {0} is invalid."
+},
+{
+"si": 0,
+"ei": 704,
+"src": "Could not create mod. Directory {0} already exists."
+},
+{
+"si": 0,
+"ei": 705,
+"src": "Could not create level hub. Name {0} is invalid."
+},
+{
+"si": 0,
+"ei": 706,
+"src": "Reset stats?"
+},
+{
+"si": 0,
+"ei": 707,
+"src": "Ok"
+},
+{
+"si": 0,
+"ei": 708,
+"src": "Reset character visuals?"
+},
+{
+"si": 0,
+"ei": 709,
+"src": "Ok"
+},
+{
+"si": 0,
+"ei": 710,
+"src": "Bought Items"
+},
+{
+"si": 0,
+"ei": 711,
+"src": "Bought different items"
+},
+{
+"si": 0,
+"ei": 712,
+"src": "www.deathtrash.com"
+},
+{
+"si": 0,
+"ei": 713,
+"src": "Player Health Bar: Show Number"
+},
+{
+"si": 0,
+"ei": 714,
+"src": "Only available||in full game version"
+},
+{
+"si": 0,
+"ei": 715,
+"src": "Show player portrait in dialogue"
+},
+{
+"si": 0,
+"ei": 716,
+"src": "This demo contains the first 1-2 hours||of the full Early Access version.||||You can continue your save game||when playing the Early Access version.||||<color=#FFA68B> Press any key or button to start </color>"
+},
+{
+"si": 0,
+"ei": 717,
+"src": "Automatic (Default)"
+},
+{
+"si": 0,
+"ei": 718,
+"src": "Switch to ranged weapon||{0}{1}"
+},
+{
+"si": 0,
+"ei": 719,
+"src": "Thanks for playing."
+},
+{
+"si": 0,
+"ei": 720,
+"src": "Hold {0} and use {1}||for melee attacks||from current position"
+},
+{
+"si": 0,
+"ei": 721,
+"src": "Level Editor"
+},
+{
+"si": 0,
+"ei": 722,
+"src": "Mouse and keyboard handling while in combat mode. The alternative modes might need additional input customization."
+},
+{
+"si": 0,
+"ei": 723,
+"src": "Can be changed anytime."
+},
+{
+"si": 0,
+"ei": 724,
+"src": "Hybrid"
+},
+{
+"si": 0,
+"ei": 725,
+"src": "Keyboard movement only.||Manual switching between melee and ranged."
+},
+{
+"si": 0,
+"ei": 726,
+"src": "Keyboard and point and click movement.||Automatic switching between melee and ranged through active targeting button (default: right mouse button)."
+},
+{
+"si": 0,
+"ei": 727,
+"src": "Keyboard and point and click movement for melee combat, but only keyboard movement for ranged combat.||Manual switching between melee and ranged."
+},
+{
+"si": 0,
+"ei": 728,
+"src": "Play the local co-op mode on one computer with two screens attached.||||This might not work for all screen combinations.||||To deactivate the second screen please restart the game. This is necessary due to an engine limitation."
+},
+{
+"si": 0,
+"ei": 729,
+"src": "Continue Demo"
+},
+{
+"si": 0,
+"ei": 730,
+"src": "Notes"
+},
+{
+"si": 0,
+"ei": 731,
+"src": "Wishlist Now!"
+},
+{
+"si": 0,
+"ei": 732,
+"src": "You can travel around here."
+},
+{
+"si": 0,
+"ei": 733,
+"src": "Owned by someone"
+},
+{
+"si": 0,
+"ei": 734,
+"src": "Not available in the demo!"
+},
+{
+"si": 0,
+"ei": 735,
+"src": "Resistance"
+},
+{
+"si": 0,
+"ei": 736,
+"src": "Hard-locked camera on character"
+},
+{
+"si": 0,
+"ei": 737,
+"src": "Show Tutorials"
+},
+{
+"si": 0,
+"ei": 738,
+"src": "Large Firearms"
+},
+{
+"si": 0,
+"ei": 739,
+"src": "Quickload"
+},
+{
+"si": 0,
+"ei": 740,
+"src": "Roll towards mouse cursor"
+},
+{
+"si": 0,
+"ei": 741,
+"src": "{0} Toggle speed||while traveling"
+},
+{
+"si": 0,
+"ei": 742,
+"src": "World map speed toggle"
+},
+{
+"si": 0,
+"ei": 743,
+"src": "Modding was not set up yet. Use the debug console with Modding: Setup..."
+},
+{
+"si": 0,
+"ei": 744,
+"src": "Missing Item"
+},
+{
+"si": 0,
+"ei": 745,
+"src": "Skill missing"
+},
+{
+"si": 0,
+"ei": 746,
+"src": "Map"
+},
+{
+"si": 0,
+"ei": 747,
+"src": "Controller Manager"
+},
+{
+"si": 0,
+"ei": 748,
+"src": "Default"
+},
+{
+"si": 0,
+"ei": 749,
+"src": "InControl"
+},
+{
+"si": 0,
+"ei": 750,
+"src": "Unity Input"
+},
+{
+"si": 0,
+"ei": 751,
+"src": "Hold targeting button {0} to switch to ranged combat."
+},
+{
+"si": 0,
+"ei": 752,
+"src": "Switching back to melee||happens automatically||on cursor over combat enemies."
+},
+{
+"si": 0,
+"ei": 753,
+"src": "Use {0} correctly timed||to avoid damage completely."
+},
+{
+"si": 0,
+"ei": 755,
+"src": "Load latest savegame?"
+},
+{
+"si": 0,
+"ei": 756,
+"src": "Import savegames from demo?"
+},
+{
+"si": 0,
+"ei": 757,
+"src": "Template"
+},
+{
+"si": 0,
+"ei": 758,
+"src": "Camera"
+},
+{
+"si": 0,
+"ei": 759,
+"src": "User Interface"
+},
+{
+"si": 0,
+"ei": 760,
+"src": "Movement Up"
+},
+{
+"si": 0,
+"ei": 761,
+"src": "Movement Down"
+},
+{
+"si": 0,
+"ei": 762,
+"src": "Movement Left"
+},
+{
+"si": 0,
+"ei": 763,
+"src": "Movement Right"
+},
+{
+"si": 0,
+"ei": 764,
+"src": "Shoot"
+},
+{
+"si": 0,
+"ei": 765,
+"src": "Roll"
+},
+{
+"si": 0,
+"ei": 766,
+"src": "Block"
+},
+{
+"si": 0,
+"ei": 767,
+"src": "Ranged combat targeting"
+},
+{
+"si": 0,
+"ei": 768,
+"src": "Free Look"
+},
+{
+"si": 0,
+"ei": 769,
+"src": "Next Melee Weapon"
+},
+{
+"si": 0,
+"ei": 770,
+"src": "Previous Melee Weapon"
+},
+{
+"si": 0,
+"ei": 771,
+"src": "Next Ranged Weapon"
+},
+{
+"si": 0,
+"ei": 772,
+"src": "Previous Ranged Weapon"
+},
+{
+"si": 0,
+"ei": 773,
+"src": "Next Weapon"
+},
+{
+"si": 0,
+"ei": 774,
+"src": "Previous Weapon"
+},
+{
+"si": 0,
+"ei": 775,
+"src": "Stats"
+},
+{
+"si": 0,
+"ei": 776,
+"src": "Highlight all objects"
+},
+{
+"si": 0,
+"ei": 777,
+"src": "Next Ability"
+},
+{
+"si": 0,
+"ei": 778,
+"src": "Quickload"
+},
+{
+"si": 0,
+"ei": 779,
+"src": "Compare Items"
+},
+{
+"si": 0,
+"ei": 780,
+"src": "Window Navigation Left"
+},
+{
+"si": 0,
+"ei": 781,
+"src": "Window Navigation Right"
+},
+{
+"si": 0,
+"ei": 782,
+"src": "Secondary Window Navigation Right"
+},
+{
+"si": 0,
+"ei": 783,
+"src": "Secondary Window Navigation Left"
+},
+{
+"si": 0,
+"ei": 784,
+"src": "Early Access"
+},
+{
+"si": 0,
+"ei": 785,
+"src": "In Development"
+},
+{
+"si": 0,
+"ei": 786,
+"src": "Quicksave"
+},
+{
+"si": 0,
+"ei": 787,
+"src": "These challenges are intended for players that are already familiar with the game and want some additional challenges on top. You shouldn't use them on your first playthrough."
+},
+{
+"si": 0,
+"ei": 788,
+"src": "Memorized location"
+},
+{
+"si": 0,
+"ei": 789,
+"src": "Beach"
+},
+{
+"si": 0,
+"ei": 790,
+"src": "Old Trees"
+},
+{
+"si": 0,
+"ei": 791,
+"src": "Body Armor"
+},
+{
+"si": 0,
+"ei": 792,
+"src": "Memory"
+},
+{
+"si": 0,
+"ei": 793,
+"src": "Brain"
+},
+{
+"si": 0,
+"ei": 794,
+"src": "Combat mode is not available here"
+},
+{
+"si": 0,
+"ei": 795,
+"src": "Lair Of The Philosopher"
+},
+{
+"si": 0,
+"ei": 796,
+"src": "Mute puking"
+},
+{
+"si": 0,
+"ei": 797,
+"src": "Support Page"
+},
+{
+"si": 0,
+"ei": 798,
+"src": "If you're having a technical problem, take a look at our support page first.||If you can't find a solution there, please use this form to describe your problem."
+},
+{
+"si": 0,
+"ei": 799,
+"src": "Locker"
+},
+{
+"si": 0,
+"ei": 800,
+"src": "[Leave.]"
+},
+{
+"si": 0,
+"ei": 801,
+"src": "Keyboard only"
+},
+{
+"si": 0,
+"ei": 802,
+"src": "Movement and targeting by keyboard only."
+},
+{
+"si": 0,
+"ei": 803,
+"src": "Animal"
+},
+{
+"si": 0,
+"ei": 804,
+"src": "Mutant"
+},
+{
+"si": 0,
+"ei": 805,
+"src": "Current Save Game Data & User Settings"
+},
+{
+"si": 0,
+"ei": 806,
+"src": "No save games found on this profile"
+},
+{
+"si": 0,
+"ei": 807,
+"src": "Resources inventory is full"
+},
+{
+"si": 0,
+"ei": 808,
+"src": "Close: Hold {0} and press {1}"
+},
+{
+"si": 0,
+"ei": 809,
+"src": "Optional"
+},
+{
+"si": 0,
+"ei": 810,
+"src": "Your email"
+},
+{
+"si": 0,
+"ei": 811,
+"src": "Feedback / Bug"
+},
+{
+"si": 0,
+"ei": 812,
+"src": "Technical Help"
+},
+{
+"si": 0,
+"ei": 813,
+"src": "Problem Description"
+},
+{
+"si": 0,
+"ei": 814,
+"src": "Error loading language file"
+},
+{
+"si": 0,
+"ei": 815,
+"src": "Direct Movement Angles"
+},
+{
+"si": 0,
+"ei": 816,
+"src": "Default"
+},
+{
+"si": 0,
+"ei": 817,
+"src": "Straight Angles"
+},
+{
+"si": 0,
+"ei": 818,
+"src": "Default"
+},
+{
+"si": 0,
+"ei": 819,
+"src": "Font"
+},
+{
+"si": 0,
+"ei": 820,
+"src": "Storage"
+},
+{
+"si": 0,
+"ei": 821,
+"src": "Kills"
+},
+{
+"si": 0,
+"ei": 822,
+"src": "No Controller attached"
+},
+{
+"si": 0,
+"ei": 823,
+"src": "Trigger Left"
+},
+{
+"si": 0,
+"ei": 824,
+"src": "Trigger Right"
+},
+{
+"si": 0,
+"ei": 825,
+"src": "Shoulder Left"
+},
+{
+"si": 0,
+"ei": 826,
+"src": "Shoulder Right"
+},
+{
+"si": 0,
+"ei": 827,
+"src": "Action Top"
+},
+{
+"si": 0,
+"ei": 828,
+"src": "Action Bottom"
+},
+{
+"si": 0,
+"ei": 829,
+"src": "Action Left"
+},
+{
+"si": 0,
+"ei": 830,
+"src": "Action Right"
+},
+{
+"si": 0,
+"ei": 831,
+"src": "DPad Up"
+},
+{
+"si": 0,
+"ei": 832,
+"src": "DPad Down"
+},
+{
+"si": 0,
+"ei": 833,
+"src": "DPad Left"
+},
+{
+"si": 0,
+"ei": 834,
+"src": "DPad Right"
+},
+{
+"si": 0,
+"ei": 835,
+"src": "Left Stick"
+},
+{
+"si": 0,
+"ei": 836,
+"src": "Left Stick Button"
+},
+{
+"si": 0,
+"ei": 837,
+"src": "Right Stick"
+},
+{
+"si": 0,
+"ei": 838,
+"src": "Right Stick Button"
+},
+{
+"si": 0,
+"ei": 839,
+"src": "Menu Button"
+},
+{
+"si": 0,
+"ei": 840,
+"src": "Alternative Menu Button"
+},
+{
+"si": 0,
+"ei": 841,
+"src": "Unity Input"
+},
+{
+"si": 0,
+"ei": 842,
+"src": "Android"
+},
+{
+"si": 0,
+"ei": 843,
+"src": "Location"
+},
+{
+"si": 0,
+"ei": 844,
+"src": "Focus Charger"
+},
+{
+"si": 0,
+"ei": 845,
+"src": "To Other Area"
+},
+{
+"si": 0,
+"ei": 846,
+"src": "Test Controller"
+},
+{
+"si": 0,
+"ei": 847,
+"src": "Test"
+},
+{
+"si": 0,
+"ei": 848,
+"src": "Couldn't load save game"
+},
+{
+"si": 0,
+"ei": 849,
+"src": "Move to:"
+},
+{
+"si": 0,
+"ei": 850,
+"src": "Owned Item"
+},
+{
+"si": 0,
+"ei": 851,
+"src": "Success"
+},
+{
+"si": 0,
+"ei": 852,
+"src": "d"
+},
+{
+"si": 0,
+"ei": 853,
+"src": "min"
+},
+{
+"si": 0,
+"ei": 854,
+"src": "sec"
+},
+{
+"si": 0,
+"ei": 855,
+"src": "h"
+},
+{
+"si": 0,
+"ei": 856,
+"src": "Freezing"
+},
+{
+"si": 0,
+"ei": 857,
+"src": "Humanoid Workshop"
+},
+{
+"si": 0,
+"ei": 858,
+"src": "Workshop"
+},
+{
+"si": 0,
+"ei": 859,
+"src": "Continue running gameplay even when the application is not focused."
+},
+{
+"si": 0,
+"ei": 860,
+"src": "Debug Console: Shift + F10"
+},
+{
+"si": 0,
+"ei": 861,
+"src": "Discord"
+},
+{
+"si": 0,
+"ei": 862,
+"src": "Error loading language file: Couldn't get language id"
+},
+{
+"si": 0,
+"ei": 863,
+"src": "Demo"
+},
+{
+"si": 0,
+"ei": 864,
+"src": "Cyberwomb Modules"
+},
+{
+"si": 0,
+"ei": 865,
+"src": "{0} Desolation"
+},
+{
+"si": 0,
+"ei": 866,
+"src": "Co-op"
+},
+{
+"si": 0,
+"ei": 867,
+"src": "English"
+},
+{
+"si": 0,
+"ei": 868,
+"src": "Select Melee Weapon"
+},
+{
+"si": 0,
+"ei": 869,
+"src": "Select Ranged Weapon"
+},
+{
+"si": 0,
+"ei": 870,
+"src": "Min Skill"
+},
+{
+"si": 0,
+"ei": 871,
+"src": "Min Attribute"
+},
+{
+"si": 0,
+"ei": 872,
+"src": "Min Level"
+},
+{
+"si": 0,
+"ei": 874,
+"src": "Max"
+},
+{
+"si": 0,
+"ei": 875,
+"src": "The Maw"
+},
+{
+"si": 0,
+"ei": 876,
+"src": "This will reset the current language. Continue?"
+},
+{
+"si": 0,
+"ei": 877,
+"src": "Ok"
+},
+{
+"si": 0,
+"ei": 878,
+"src": "Usage: {0} Infection"
+},
+{
+"si": 0,
+"ei": 879,
+"src": "The Kennels"
+},
+{
+"si": 0,
+"ei": 880,
+"src": "Loading Level Hub:"
+},
+{
+"si": 0,
+"ei": 881,
+"src": "Loading Prefabs"
+},
+{
+"si": 0,
+"ei": 882,
+"src": "You have reached the end of this module."
+},
+{
+"si": 0,
+"ei": 883,
+"src": "Search in prefabs and tools"
+},
+{
+"si": 0,
+"ei": 884,
+"src": "-> Create New Level Hub"
+},
+{
+"si": 0,
+"ei": 885,
+"src": "Same item is already equipped"
+}
+]

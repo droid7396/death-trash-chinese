@@ -1,0 +1,1637 @@
+[
+{
+"si": 649,
+"ei": 1,
+"src": "Mechanical Failure: Gate can not be opened."
+},
+{
+"si": 649,
+"ei": 2,
+"src": "[Send bots.]"
+},
+{
+"si": 651,
+"ei": 0,
+"src": "Have you come to join me? Join me?"
+},
+{
+"si": 651,
+"ei": 1,
+"src": "I'm looking for a woman."
+},
+{
+"si": 651,
+"ei": 2,
+"src": "A woman? A woman?"
+},
+{
+"si": 651,
+"ei": 3,
+"src": "Two of them came by a long time ago. Long time ago."
+},
+{
+"si": 651,
+"ei": 4,
+"src": "I remember them, because they were the first survivors. First survivors."
+},
+{
+"si": 651,
+"ei": 5,
+"src": "But I have not seen them since. Not seen them since."
+},
+{
+"si": 651,
+"ei": 6,
+"src": "What is this place?"
+},
+{
+"si": 651,
+"ei": 7,
+"src": "This is my room. My room."
+},
+{
+"si": 651,
+"ei": 8,
+"src": "It is where I stay to do the Hierarchs bidding. His bidding."
+},
+{
+"si": 651,
+"ei": 9,
+"src": "I do as he tells me. As he tells me."
+},
+{
+"si": 651,
+"ei": 10,
+"src": "Why are you talking like this?"
+},
+{
+"si": 651,
+"ei": 11,
+"src": "I must sound odd. Odd."
+},
+{
+"si": 651,
+"ei": 12,
+"src": "I have been here for a long time. Long time."
+},
+{
+"si": 651,
+"ei": 13,
+"src": "The Hierarch sent me, to take care of this floor. This floor."
+},
+{
+"si": 651,
+"ei": 14,
+"src": "He sends me food every week. Every week."
+},
+{
+"si": 651,
+"ei": 15,
+"src": "But I have not seen many people since. Many people."
+},
+{
+"si": 651,
+"ei": 16,
+"src": "My lack of interaction must make me sound odd. Sound odd."
+},
+{
+"si": 651,
+"ei": 17,
+"src": "By the Hierarch, a survivor. Survivor."
+},
+{
+"si": 651,
+"ei": 18,
+"src": "A new face. New face."
+},
+{
+"si": 651,
+"ei": 19,
+"src": "What a joy. Joy."
+},
+{
+"si": 653,
+"ei": 1,
+"src": "Nothing."
+},
+{
+"si": 655,
+"ei": 0,
+"src": "Recruit!"
+},
+{
+"si": 655,
+"ei": 1,
+"src": "This place used to be a factory. A place the machines used for replication."
+},
+{
+"si": 655,
+"ei": 2,
+"src": "So much of their power, concentrated in this place."
+},
+{
+"si": 655,
+"ei": 3,
+"src": "Imagine if they lost it."
+},
+{
+"si": 655,
+"ei": 4,
+"src": "Imagine if we used their own powers against them."
+},
+{
+"si": 655,
+"ei": 5,
+"src": "This is why I have conquered this place."
+},
+{
+"si": 655,
+"ei": 6,
+"src": "This is why I gather the strong."
+},
+{
+"si": 655,
+"ei": 7,
+"src": "The next exam awaits you now. Good luck."
+},
+{
+"si": 657,
+"ei": 0,
+"src": "What is taking you so long? So long?"
+},
+{
+"si": 657,
+"ei": 1,
+"src": "It's right here. Right here."
+},
+{
+"si": 657,
+"ei": 2,
+"src": "I talked with the cyborg."
+},
+{
+"si": 657,
+"ei": 3,
+"src": "What cyborg? Cyborg?"
+},
+{
+"si": 657,
+"ei": 4,
+"src": "What you call the \"eyesore\"."
+},
+{
+"si": 657,
+"ei": 5,
+"src": "It's actually a failed cyborg."
+},
+{
+"si": 657,
+"ei": 6,
+"src": "Seems like the Hierarch didn't do a good job during the creation."
+},
+{
+"si": 657,
+"ei": 7,
+"src": "So this thing is even more of a blight on the Hierarchs honor? More of a blight?"
+},
+{
+"si": 657,
+"ei": 8,
+"src": "Even more reason to kill it. Kill it."
+},
+{
+"si": 657,
+"ei": 9,
+"src": "No."
+},
+{
+"si": 657,
+"ei": 10,
+"src": "He's in pain."
+},
+{
+"si": 657,
+"ei": 11,
+"src": "We need to help him."
+},
+{
+"si": 657,
+"ei": 12,
+"src": "Fuck off. Fuck."
+},
+{
+"si": 657,
+"ei": 13,
+"src": "You can help him yourself. Help him."
+},
+{
+"si": 657,
+"ei": 14,
+"src": "You're right."
+},
+{
+"si": 657,
+"ei": 15,
+"src": "Good. Good."
+},
+{
+"si": 657,
+"ei": 16,
+"src": "Now kill it. Kill."
+},
+{
+"si": 657,
+"ei": 17,
+"src": "I'm done with the eyesore."
+},
+{
+"si": 657,
+"ei": 18,
+"src": "Well done. Well done."
+},
+{
+"si": 657,
+"ei": 19,
+"src": "And you also took care of the other one too. The other one."
+},
+{
+"si": 657,
+"ei": 20,
+"src": "I couldn't be more happy. More happy."
+},
+{
+"si": 657,
+"ei": 21,
+"src": "There is just one more issue. One issue."
+},
+{
+"si": 657,
+"ei": 22,
+"src": "We have another eyesore right over there. Over there."
+},
+{
+"si": 657,
+"ei": 23,
+"src": "Please take care of that too. Take care."
+},
+{
+"si": 657,
+"ei": 24,
+"src": "I'm done with the other one too."
+},
+{
+"si": 657,
+"ei": 25,
+"src": "Good. Good."
+},
+{
+"si": 657,
+"ei": 26,
+"src": "I am very grateful for your service. For your service."
+},
+{
+"si": 657,
+"ei": 27,
+"src": "You are new here. New here."
+},
+{
+"si": 657,
+"ei": 28,
+"src": "Yet you have already done something amazing. Amazing."
+},
+{
+"si": 657,
+"ei": 29,
+"src": "What?"
+},
+{
+"si": 657,
+"ei": 30,
+"src": "You got rid of the eyesores. The eyesores."
+},
+{
+"si": 657,
+"ei": 31,
+"src": "I could not be happier. Could not."
+},
+{
+"si": 657,
+"ei": 32,
+"src": "You got rid of the eyesore. The eyesore."
+},
+{
+"si": 657,
+"ei": 33,
+"src": "Though there is one more. One more."
+},
+{
+"si": 657,
+"ei": 34,
+"src": "You should remove it too. Remove it."
+},
+{
+"si": 657,
+"ei": 35,
+"src": "The beauty of the Hierarch should not be tainted by it. Not be tainted."
+},
+{
+"si": 657,
+"ei": 36,
+"src": "Can you do me a favour? Favour?"
+},
+{
+"si": 657,
+"ei": 37,
+"src": "What do you want?"
+},
+{
+"si": 657,
+"ei": 38,
+"src": "You see this room here. This room."
+},
+{
+"si": 657,
+"ei": 39,
+"src": "There's an eyesore inside. An eyesore."
+},
+{
+"si": 657,
+"ei": 40,
+"src": "We need to get rid of it. Get rid of it."
+},
+{
+"si": 657,
+"ei": 41,
+"src": "He's a cyborg."
+},
+{
+"si": 657,
+"ei": 42,
+"src": "What? What?"
+},
+{
+"si": 657,
+"ei": 43,
+"src": "We talked. He's a cyborg."
+},
+{
+"si": 657,
+"ei": 44,
+"src": "And he's in pain."
+},
+{
+"si": 657,
+"ei": 45,
+"src": "That is even more reason to kill it. More reason to kill."
+},
+{
+"si": 657,
+"ei": 46,
+"src": "No."
+},
+{
+"si": 657,
+"ei": 47,
+"src": "He's in pain."
+},
+{
+"si": 657,
+"ei": 48,
+"src": "We need to help him."
+},
+{
+"si": 657,
+"ei": 49,
+"src": "Fuck off. Fuck."
+},
+{
+"si": 657,
+"ei": 50,
+"src": "You can help him yourself. Help him."
+},
+{
+"si": 657,
+"ei": 51,
+"src": "You're right."
+},
+{
+"si": 657,
+"ei": 52,
+"src": "Good. Good."
+},
+{
+"si": 657,
+"ei": 53,
+"src": "Now kill it. Kill."
+},
+{
+"si": 657,
+"ei": 54,
+"src": "An eyesore?"
+},
+{
+"si": 657,
+"ei": 55,
+"src": "I don't know how else to call it. How else to call it."
+},
+{
+"si": 657,
+"ei": 56,
+"src": "It just came here from upstairs. From upstairs."
+},
+{
+"si": 657,
+"ei": 57,
+"src": "We then captured it and put it in here. In here."
+},
+{
+"si": 657,
+"ei": 58,
+"src": "The others are saying the Hierarch created it. The Hierarch created it."
+},
+{
+"si": 657,
+"ei": 59,
+"src": "But that is impossible. Impossible."
+},
+{
+"si": 657,
+"ei": 60,
+"src": "The Hierarch only creates perfection. Perfection."
+},
+{
+"si": 657,
+"ei": 61,
+"src": "Not ... this. Not this."
+},
+{
+"si": 657,
+"ei": 62,
+"src": "I'm on my way then."
+},
+{
+"si": 657,
+"ei": 63,
+"src": "You have come back. Come back."
+},
+{
+"si": 657,
+"ei": 64,
+"src": "You truly are great. Great."
+},
+{
+"si": 657,
+"ei": 65,
+"src": "What are you waiting for? Waiting for?"
+},
+{
+"si": 657,
+"ei": 66,
+"src": "The eyesore is in that small room over there. Over there."
+},
+{
+"si": 657,
+"ei": 67,
+"src": "Well, the other eyesore is now gone."
+},
+{
+"si": 657,
+"ei": 68,
+"src": "Yes, yes."
+},
+{
+"si": 657,
+"ei": 69,
+"src": "I could not be more happy. More happy."
+},
+{
+"si": 657,
+"ei": 70,
+"src": "The Hierarch is untainted once again. Once again."
+},
+{
+"si": 657,
+"ei": 71,
+"src": "You wanted to help that thing. Help."
+},
+{
+"si": 657,
+"ei": 72,
+"src": "And yet it is gone. It is gone."
+},
+{
+"si": 657,
+"ei": 73,
+"src": "You must be completely useless. Useless."
+},
+{
+"si": 657,
+"ei": 74,
+"src": "You are trying to help that thing. That thing."
+},
+{
+"si": 657,
+"ei": 75,
+"src": "You know this won't make the Hierarch happy. The Hierarch."
+},
+{
+"si": 657,
+"ei": 76,
+"src": "My plan worked. Worked."
+},
+{
+"si": 657,
+"ei": 77,
+"src": "You truly are stupid. Stupid."
+},
+{
+"si": 657,
+"ei": 78,
+"src": "You are new here. New."
+},
+{
+"si": 657,
+"ei": 79,
+"src": "Help me get rid of the eyesore in this room. The eyesore."
+},
+{
+"si": 657,
+"ei": 80,
+"src": "No, I need to help him."
+},
+{
+"si": 657,
+"ei": 81,
+"src": "He's in pain."
+},
+{
+"si": 657,
+"ei": 82,
+"src": "You are trying to help that thing. That thing."
+},
+{
+"si": 657,
+"ei": 83,
+"src": "Do you have anything, that could help?"
+},
+{
+"si": 657,
+"ei": 84,
+"src": "Help? Help?"
+},
+{
+"si": 657,
+"ei": 85,
+"src": "Why would I help you with this? With this?"
+},
+{
+"si": 657,
+"ei": 86,
+"src": "The eyesore needs to go. Needs to go."
+},
+{
+"si": 657,
+"ei": 87,
+"src": "But he's made by the Hierarch, isn't he?"
+},
+{
+"si": 657,
+"ei": 88,
+"src": "You are right. Are right."
+},
+{
+"si": 657,
+"ei": 89,
+"src": "This here might help. Might help."
+},
+{
+"si": 657,
+"ei": 90,
+"src": "But I am not that sure if it really will. Not that sure."
+},
+{
+"si": 657,
+"ei": 91,
+"src": "Thank you."
+},
+{
+"si": 657,
+"ei": 92,
+"src": "Please?"
+},
+{
+"si": 657,
+"ei": 93,
+"src": "If you insist. Insist."
+},
+{
+"si": 657,
+"ei": 94,
+"src": "I can give you this. Give you this."
+},
+{
+"si": 657,
+"ei": 95,
+"src": "I am sure it will work. It will work."
+},
+{
+"si": 657,
+"ei": 96,
+"src": "Trust me. Trust me."
+},
+{
+"si": 659,
+"ei": 0,
+"src": "You. Survivor?"
+},
+{
+"si": 659,
+"ei": 1,
+"src": "I. Survivor."
+},
+{
+"si": 659,
+"ei": 2,
+"src": "Who are you?"
+},
+{
+"si": 659,
+"ei": 3,
+"src": "I. Cyborg."
+},
+{
+"si": 659,
+"ei": 4,
+"src": "Almost. Dead."
+},
+{
+"si": 659,
+"ei": 5,
+"src": "Hierarch. Found. Me."
+},
+{
+"si": 659,
+"ei": 6,
+"src": "Took. Me."
+},
+{
+"si": 659,
+"ei": 7,
+"src": "Fixed. Me."
+},
+{
+"si": 659,
+"ei": 8,
+"src": "Gave. Body."
+},
+{
+"si": 659,
+"ei": 9,
+"src": "Hierarch. Good."
+},
+{
+"si": 659,
+"ei": 10,
+"src": "Hierarch. Strong."
+},
+{
+"si": 659,
+"ei": 11,
+"src": "I. Alive."
+},
+{
+"si": 659,
+"ei": 12,
+"src": "I'm looking for pain reliever ingredients."
+},
+{
+"si": 659,
+"ei": 13,
+"src": "Do you have anything, that could help?"
+},
+{
+"si": 659,
+"ei": 14,
+"src": "Pain. Reliever. Why?"
+},
+{
+"si": 659,
+"ei": 15,
+"src": "There's another one like you over there."
+},
+{
+"si": 659,
+"ei": 16,
+"src": "And he's in pain."
+},
+{
+"si": 659,
+"ei": 17,
+"src": "Want. Help."
+},
+{
+"si": 659,
+"ei": 18,
+"src": "But. Have. Nothing."
+},
+{
+"si": 659,
+"ei": 19,
+"src": "Very. Sorry."
+},
+{
+"si": 659,
+"ei": 20,
+"src": "But. Only. Old. Brain."
+},
+{
+"si": 659,
+"ei": 21,
+"src": "Not. Helpful."
+},
+{
+"si": 659,
+"ei": 22,
+"src": "I actually need a brain."
+},
+{
+"si": 659,
+"ei": 23,
+"src": "Really?"
+},
+{
+"si": 659,
+"ei": 24,
+"src": "Please. Take."
+},
+{
+"si": 659,
+"ei": 25,
+"src": "Old. Brain. Yours. Now."
+},
+{
+"si": 661,
+"ei": 0,
+"src": "Please. Help. Me."
+},
+{
+"si": 661,
+"ei": 1,
+"src": "Pain. Strong. Pain. Unbearable. Pain."
+},
+{
+"si": 661,
+"ei": 2,
+"src": "Please. No. Alone."
+},
+{
+"si": 661,
+"ei": 3,
+"src": "Look, I brought you a pain reliever."
+},
+{
+"si": 661,
+"ei": 4,
+"src": "Pain. Relief?"
+},
+{
+"si": 661,
+"ei": 5,
+"src": "Yes. Here."
+},
+{
+"si": 661,
+"ei": 6,
+"src": "Smells. Bad."
+},
+{
+"si": 661,
+"ei": 7,
+"src": "But. Will. Take."
+},
+{
+"si": 661,
+"ei": 8,
+"src": "What. This?"
+},
+{
+"si": 661,
+"ei": 9,
+"src": "Pain. Pain."
+},
+{
+"si": 661,
+"ei": 10,
+"src": "Pain. Stronger. Pain."
+},
+{
+"si": 661,
+"ei": 11,
+"src": "Thank. You."
+},
+{
+"si": 661,
+"ei": 12,
+"src": "Grateful."
+},
+{
+"si": 661,
+"ei": 14,
+"src": "Pain. Gone."
+},
+{
+"si": 661,
+"ei": 15,
+"src": "This person outside wants me to kill you."
+},
+{
+"si": 661,
+"ei": 16,
+"src": "This. Acceptable."
+},
+{
+"si": 661,
+"ei": 17,
+"src": "Too. Much. Pain."
+},
+{
+"si": 661,
+"ei": 18,
+"src": "Too. Much. Hurt."
+},
+{
+"si": 661,
+"ei": 19,
+"src": "Please. Fast."
+},
+{
+"si": 661,
+"ei": 20,
+"src": "Who ... are you?"
+},
+{
+"si": 661,
+"ei": 21,
+"src": "I. Cyborg."
+},
+{
+"si": 661,
+"ei": 22,
+"src": "I. Failure."
+},
+{
+"si": 661,
+"ei": 23,
+"src": "Hierarch. Tried."
+},
+{
+"si": 661,
+"ei": 24,
+"src": "Not. Good."
+},
+{
+"si": 661,
+"ei": 25,
+"src": "Pain."
+},
+{
+"si": 661,
+"ei": 26,
+"src": "Help. Please."
+},
+{
+"si": 661,
+"ei": 27,
+"src": "You. Helped."
+},
+{
+"si": 661,
+"ei": 28,
+"src": "Pain. Gone."
+},
+{
+"si": 661,
+"ei": 29,
+"src": "Grateful."
+},
+{
+"si": 663,
+"ei": 0,
+"src": "Well done getting that key."
+},
+{
+"si": 663,
+"ei": 1,
+"src": "Cyborg? Hierarch?"
+},
+{
+"si": 663,
+"ei": 2,
+"src": "Yes. We cyborgs are his creation."
+},
+{
+"si": 663,
+"ei": 3,
+"src": "He is taking in us feeble humans, and augmenting us."
+},
+{
+"si": 663,
+"ei": 4,
+"src": "Unlocking our potential."
+},
+{
+"si": 663,
+"ei": 5,
+"src": "So we can join him in his fight against the machine when the time is right."
+},
+{
+"si": 663,
+"ei": 6,
+"src": "Why aren't you repeating yourself when talking?"
+},
+{
+"si": 663,
+"ei": 7,
+"src": "You mean like the supervisors you met on your way up, or the scientists in here?"
+},
+{
+"si": 663,
+"ei": 8,
+"src": "We're not the same."
+},
+{
+"si": 663,
+"ei": 9,
+"src": "I'm a cyborg. A former piece of flesh and bones, augmented and improved by the Hierarch."
+},
+{
+"si": 663,
+"ei": 10,
+"src": "They on the other hand are still raw humans."
+},
+{
+"si": 663,
+"ei": 11,
+"src": "The Hierarch chose them to serve him."
+},
+{
+"si": 663,
+"ei": 12,
+"src": "So they are very important."
+},
+{
+"si": 663,
+"ei": 13,
+"src": "Who are you?"
+},
+{
+"si": 663,
+"ei": 14,
+"src": "Name's Drun."
+},
+{
+"si": 663,
+"ei": 15,
+"src": "Cyborg guard for the one and only Hierarch."
+},
+{
+"si": 663,
+"ei": 16,
+"src": "I have the key."
+},
+{
+"si": 663,
+"ei": 17,
+"src": "Cluvo is always telling the truth."
+},
+{
+"si": 663,
+"ei": 18,
+"src": "You have the key. Give it to me!"
+},
+{
+"si": 663,
+"ei": 19,
+"src": "Oh no. I'm sorry, but you are wrong."
+},
+{
+"si": 663,
+"ei": 20,
+"src": "Give us a moment to reorganize, then try again."
+},
+{
+"si": 663,
+"ei": 21,
+"src": "Congratulations. You are right."
+},
+{
+"si": 663,
+"ei": 22,
+"src": "Here take it, and hurry to the Hierarch."
+},
+{
+"si": 663,
+"ei": 23,
+"src": "He is surely eager to meet a newcomer."
+},
+{
+"si": 663,
+"ei": 24,
+"src": "Cluvo is always lying."
+},
+{
+"si": 663,
+"ei": 25,
+"src": "I don't have the ..."
+},
+{
+"si": 663,
+"ei": 27,
+"src": "Wait, I really don't have it."
+},
+{
+"si": 663,
+"ei": 28,
+"src": "Did you manage to get sneaky on me?"
+},
+{
+"si": 663,
+"ei": 29,
+"src": "I don't have the key."
+},
+{
+"si": 663,
+"ei": 30,
+"src": "I don't have the key."
+},
+{
+"si": 663,
+"ei": 31,
+"src": "I have the ..."
+},
+{
+"si": 663,
+"ei": 33,
+"src": "Apparently I don't have the key."
+},
+{
+"si": 663,
+"ei": 34,
+"src": "I have the key."
+},
+{
+"si": 665,
+"ei": 0,
+"src": "You ... you got the key? You're good."
+},
+{
+"si": 665,
+"ei": 1,
+"src": "Are you a cyborg too?"
+},
+{
+"si": 665,
+"ei": 2,
+"src": "Is it that obvious?"
+},
+{
+"si": 665,
+"ei": 3,
+"src": "I didn't want to, originally."
+},
+{
+"si": 665,
+"ei": 4,
+"src": "But I was convinced otherwise."
+},
+{
+"si": 665,
+"ei": 5,
+"src": "At least I'm a bit stronger now."
+},
+{
+"si": 665,
+"ei": 6,
+"src": "Why aren't you repeating yourself when talking?"
+},
+{
+"si": 665,
+"ei": 7,
+"src": "I'm not sure what you mean."
+},
+{
+"si": 665,
+"ei": 8,
+"src": "Why would I repeat myself?"
+},
+{
+"si": 665,
+"ei": 9,
+"src": "I mean, so many others in this tower do it."
+},
+{
+"si": 665,
+"ei": 10,
+"src": "Really?"
+},
+{
+"si": 665,
+"ei": 11,
+"src": "I haven't noticed."
+},
+{
+"si": 665,
+"ei": 12,
+"src": "Who are you?"
+},
+{
+"si": 665,
+"ei": 13,
+"src": "I am Cluvo."
+},
+{
+"si": 665,
+"ei": 14,
+"src": "Thank you for asking."
+},
+{
+"si": 665,
+"ei": 15,
+"src": "I have the key. Really."
+},
+{
+"si": 665,
+"ei": 16,
+"src": "Bann is always telling the truth. Please trust him."
+},
+{
+"si": 665,
+"ei": 17,
+"src": "You have the key. Give it to me!"
+},
+{
+"si": 665,
+"ei": 18,
+"src": "I'm sorry, but you're wrong. I don't have it."
+},
+{
+"si": 665,
+"ei": 19,
+"src": "Please try again in a moment. Okay?"
+},
+{
+"si": 665,
+"ei": 20,
+"src": "How ... how did you know?"
+},
+{
+"si": 665,
+"ei": 21,
+"src": "You must be really smart."
+},
+{
+"si": 665,
+"ei": 22,
+"src": "Here, please take it."
+},
+{
+"si": 665,
+"ei": 23,
+"src": "Bann is... Bann is lying."
+},
+{
+"si": 665,
+"ei": 24,
+"src": "I don't have the ..."
+},
+{
+"si": 665,
+"ei": 26,
+"src": "Wait, I really don't have it."
+},
+{
+"si": 665,
+"ei": 27,
+"src": "Fuck."
+},
+{
+"si": 665,
+"ei": 28,
+"src": "Have I lost it somewhere?"
+},
+{
+"si": 665,
+"ei": 29,
+"src": "Oh wait... Did you take it from me?"
+},
+{
+"si": 665,
+"ei": 30,
+"src": "That's really impressive, actually."
+},
+{
+"si": 665,
+"ei": 31,
+"src": "I'm sorry, I don't have the key."
+},
+{
+"si": 665,
+"ei": 32,
+"src": "I'm sorry, I don't have the key."
+},
+{
+"si": 665,
+"ei": 33,
+"src": "I have the ..."
+},
+{
+"si": 665,
+"ei": 35,
+"src": "It's gone."
+},
+{
+"si": 665,
+"ei": 36,
+"src": "I have the key. Really."
+},
+{
+"si": 667,
+"ei": 0,
+"src": "Well done getting the key."
+},
+{
+"si": 667,
+"ei": 1,
+"src": "Now off you go. Do whatever you want with it."
+},
+{
+"si": 667,
+"ei": 2,
+"src": "You're a cyborg?"
+},
+{
+"si": 667,
+"ei": 3,
+"src": "Yeah. The Hierarch gave me this chance, I took it, and here we are."
+},
+{
+"si": 667,
+"ei": 4,
+"src": "A lot stronger, and with a cozy job guarding this gate."
+},
+{
+"si": 667,
+"ei": 5,
+"src": "He said some stuff about an upcoming war too."
+},
+{
+"si": 667,
+"ei": 6,
+"src": "Looking forward to that."
+},
+{
+"si": 667,
+"ei": 7,
+"src": "Why aren't you repeating yourself when talking?"
+},
+{
+"si": 667,
+"ei": 8,
+"src": "Don't you dare compare me to those ... people."
+},
+{
+"si": 667,
+"ei": 9,
+"src": "\"I'm saying a thing. Saying a thing.\""
+},
+{
+"si": 667,
+"ei": 10,
+"src": "So fucking annoying."
+},
+{
+"si": 667,
+"ei": 11,
+"src": "That's why I'm standing guard out here, rather than being inside with the others."
+},
+{
+"si": 667,
+"ei": 12,
+"src": "If they just became cyborgs like us. How much more peaceful it could be."
+},
+{
+"si": 667,
+"ei": 13,
+"src": "Who are you?"
+},
+{
+"si": 667,
+"ei": 14,
+"src": "Bann."
+},
+{
+"si": 667,
+"ei": 16,
+"src": "What?!"
+},
+{
+"si": 667,
+"ei": 17,
+"src": "I was hoping you'd tell me a bit more than just your name."
+},
+{
+"si": 667,
+"ei": 18,
+"src": "Are you looking for a fight?"
+},
+{
+"si": 667,
+"ei": 19,
+"src": "No. I'm sorry."
+},
+{
+"si": 667,
+"ei": 20,
+"src": "Good."
+},
+{
+"si": 667,
+"ei": 21,
+"src": "Yeah."
+},
+{
+"si": 667,
+"ei": 22,
+"src": "I have the key."
+},
+{
+"si": 667,
+"ei": 23,
+"src": "Asger is always telling the truth."
+},
+{
+"si": 667,
+"ei": 24,
+"src": "You have the key. Give it to me!"
+},
+{
+"si": 667,
+"ei": 25,
+"src": "Ha! Wrong!"
+},
+{
+"si": 667,
+"ei": 26,
+"src": "Try again later, if you think you can still do it."
+},
+{
+"si": 667,
+"ei": 27,
+"src": "Figured it out, huh? Or were you just guessing?"
+},
+{
+"si": 667,
+"ei": 28,
+"src": "Doesn't matter anyway."
+},
+{
+"si": 667,
+"ei": 29,
+"src": "Now take the key, and go inside."
+},
+{
+"si": 667,
+"ei": 30,
+"src": "Asger is always lying."
+},
+{
+"si": 667,
+"ei": 31,
+"src": "I don't have the ..."
+},
+{
+"si": 667,
+"ei": 33,
+"src": "Oh you."
+},
+{
+"si": 667,
+"ei": 34,
+"src": "You stole it from my pocket, didn't you."
+},
+{
+"si": 667,
+"ei": 35,
+"src": "Well, if you already have it, move on."
+},
+{
+"si": 667,
+"ei": 36,
+"src": "I don't have the key."
+},
+{
+"si": 667,
+"ei": 37,
+"src": "I don't have the key."
+},
+{
+"si": 667,
+"ei": 38,
+"src": "I have the ..."
+},
+{
+"si": 667,
+"ei": 39,
+"src": "I have the key."
+},
+{
+"si": 669,
+"ei": 0,
+"src": "Well done getting the key, human."
+},
+{
+"si": 669,
+"ei": 1,
+"src": "You're a cyborg?"
+},
+{
+"si": 669,
+"ei": 2,
+"src": "I am a cyborg."
+},
+{
+"si": 669,
+"ei": 3,
+"src": "I am improved."
+},
+{
+"si": 669,
+"ei": 4,
+"src": "Do not be afraid of me, human."
+},
+{
+"si": 669,
+"ei": 5,
+"src": "I was once like you, human."
+},
+{
+"si": 669,
+"ei": 6,
+"src": "Praise the hierarch."
+},
+{
+"si": 669,
+"ei": 7,
+"src": "I am his tool."
+},
+{
+"si": 669,
+"ei": 8,
+"src": "Why aren't you repeating yourself when talking?"
+},
+{
+"si": 669,
+"ei": 9,
+"src": "I am a cyborg."
+},
+{
+"si": 669,
+"ei": 10,
+"src": "I am improved."
+},
+{
+"si": 669,
+"ei": 11,
+"src": "My logic is clear."
+},
+{
+"si": 669,
+"ei": 12,
+"src": "I am distancing myself from human speech patterns."
+},
+{
+"si": 669,
+"ei": 13,
+"src": "I shall not repeat myself like those humans."
+},
+{
+"si": 669,
+"ei": 14,
+"src": "I am beyond your and their comprehension."
+},
+{
+"si": 669,
+"ei": 15,
+"src": "Who are you?"
+},
+{
+"si": 669,
+"ei": 16,
+"src": "Designation: Asger"
+},
+{
+"si": 669,
+"ei": 17,
+"src": "Door guard under the Great Hierarch."
+},
+{
+"si": 669,
+"ei": 18,
+"src": "Well done getting the key, fellow cyborg."
+},
+{
+"si": 669,
+"ei": 19,
+"src": "I have the key."
+},
+{
+"si": 669,
+"ei": 20,
+"src": "Drun is telling the truth."
+},
+{
+"si": 669,
+"ei": 21,
+"src": "You have the key. Give it to me!"
+},
+{
+"si": 669,
+"ei": 22,
+"src": "Incorrect. We shall now reorganize."
+},
+{
+"si": 669,
+"ei": 23,
+"src": "Correct."
+},
+{
+"si": 669,
+"ei": 24,
+"src": "Here is your reward."
+},
+{
+"si": 669,
+"ei": 25,
+"src": "Drun is lying."
+},
+{
+"si": 669,
+"ei": 26,
+"src": "I do not have the ..."
+},
+{
+"si": 669,
+"ei": 28,
+"src": "I do not have the key."
+},
+{
+"si": 669,
+"ei": 29,
+"src": "You must have used covert tactics to take it from me."
+},
+{
+"si": 669,
+"ei": 30,
+"src": "Congratulations on finding such an improbable solution."
+},
+{
+"si": 669,
+"ei": 31,
+"src": "I do not have the key."
+},
+{
+"si": 669,
+"ei": 32,
+"src": "I do not have the key."
+},
+{
+"si": 669,
+"ei": 33,
+"src": "I have the ..."
+},
+{
+"si": 669,
+"ei": 35,
+"src": "I do not have the key."
+},
+{
+"si": 669,
+"ei": 36,
+"src": "I have the key."
+},
+{
+"si": 671,
+"ei": 0,
+"src": "I'll explain it again."
+},
+{
+"si": 671,
+"ei": 1,
+"src": "While searching for the key, every one of the guards will either always tell you the truth, or always lie."
+},
+{
+"si": 671,
+"ei": 2,
+"src": "If you guess wrong, we'll switch it around."
+}
+]

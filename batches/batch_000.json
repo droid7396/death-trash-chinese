@@ -1,0 +1,2252 @@
+[
+{
+"si": 0,
+"ei": 0,
+"src": "New Game"
+},
+{
+"si": 0,
+"ei": 1,
+"src": "Resume"
+},
+{
+"si": 0,
+"ei": 2,
+"src": "Load"
+},
+{
+"si": 0,
+"ei": 3,
+"src": "Save"
+},
+{
+"si": 0,
+"ei": 4,
+"src": "Quit"
+},
+{
+"si": 0,
+"ei": 5,
+"src": "Main Menu"
+},
+{
+"si": 0,
+"ei": 6,
+"src": "Cancel"
+},
+{
+"si": 0,
+"ei": 7,
+"src": "Connect a controller for this mode"
+},
+{
+"si": 0,
+"ei": 8,
+"src": "Connect another Controller for this mode"
+},
+{
+"si": 0,
+"ei": 9,
+"src": "You must leave together"
+},
+{
+"si": 0,
+"ei": 10,
+"src": "Reviving..."
+},
+{
+"si": 0,
+"ei": 11,
+"src": "Not possible now"
+},
+{
+"si": 0,
+"ei": 12,
+"src": "You can leave any dialogue||anytime {0}"
+},
+{
+"si": 0,
+"ei": 13,
+"src": "Start"
+},
+{
+"si": 0,
+"ei": 14,
+"src": "Inventory is full"
+},
+{
+"si": 0,
+"ei": 15,
+"src": "Deconstruct"
+},
+{
+"si": 0,
+"ei": 16,
+"src": "Nano Health"
+},
+{
+"si": 0,
+"ei": 17,
+"src": "No ammo"
+},
+{
+"si": 0,
+"ei": 18,
+"src": "No Item selected"
+},
+{
+"si": 0,
+"ei": 19,
+"src": "Level"
+},
+{
+"si": 0,
+"ei": 20,
+"src": "Talk"
+},
+{
+"si": 0,
+"ei": 21,
+"src": "not affordable"
+},
+{
+"si": 0,
+"ei": 23,
+"src": "None"
+},
+{
+"si": 0,
+"ei": 24,
+"src": "Finished"
+},
+{
+"si": 0,
+"ei": 25,
+"src": "New Quest"
+},
+{
+"si": 0,
+"ei": 26,
+"src": "Quest updated"
+},
+{
+"si": 0,
+"ei": 27,
+"src": "Switched Characters"
+},
+{
+"si": 0,
+"ei": 28,
+"src": "Mouse"
+},
+{
+"si": 0,
+"ei": 29,
+"src": "Controller"
+},
+{
+"si": 0,
+"ei": 30,
+"src": "Let's continue..."
+},
+{
+"si": 0,
+"ei": 31,
+"src": "Failed Quest"
+},
+{
+"si": 0,
+"ei": 32,
+"src": "Combat"
+},
+{
+"si": 0,
+"ei": 33,
+"src": "Combat ends"
+},
+{
+"si": 0,
+"ei": 34,
+"src": "Use"
+},
+{
+"si": 0,
+"ei": 35,
+"src": "Examine"
+},
+{
+"si": 0,
+"ei": 36,
+"src": "World Map"
+},
+{
+"si": 0,
+"ei": 37,
+"src": "Read"
+},
+{
+"si": 0,
+"ei": 38,
+"src": "Drop all"
+},
+{
+"si": 0,
+"ei": 39,
+"src": "Deconstruct all"
+},
+{
+"si": 0,
+"ei": 40,
+"src": "Sell all"
+},
+{
+"si": 0,
+"ei": 41,
+"src": "Search"
+},
+{
+"si": 0,
+"ei": 42,
+"src": "Loot"
+},
+{
+"si": 0,
+"ei": 43,
+"src": "Loot all"
+},
+{
+"si": 0,
+"ei": 44,
+"src": "Drink"
+},
+{
+"si": 0,
+"ei": 45,
+"src": "Let's continue..."
+},
+{
+"si": 0,
+"ei": 46,
+"src": "Talk"
+},
+{
+"si": 0,
+"ei": 47,
+"src": "Continue"
+},
+{
+"si": 0,
+"ei": 48,
+"src": "Select Profile"
+},
+{
+"si": 0,
+"ei": 49,
+"src": "Back"
+},
+{
+"si": 0,
+"ei": 50,
+"src": "Empty"
+},
+{
+"si": 0,
+"ei": 51,
+"src": "Reload"
+},
+{
+"si": 0,
+"ei": 52,
+"src": "Switch Profile"
+},
+{
+"si": 0,
+"ei": 53,
+"src": "Body"
+},
+{
+"si": 0,
+"ei": 54,
+"src": "Load Game"
+},
+{
+"si": 0,
+"ei": 55,
+"src": "Select Game Module"
+},
+{
+"si": 0,
+"ei": 56,
+"src": "Learn"
+},
+{
+"si": 0,
+"ei": 57,
+"src": "Crafting Recipe learned"
+},
+{
+"si": 0,
+"ei": 58,
+"src": "Teaches a crafting recipe."
+},
+{
+"si": 0,
+"ei": 59,
+"src": "Controller connection lost"
+},
+{
+"si": 0,
+"ei": 60,
+"src": "All"
+},
+{
+"si": 0,
+"ei": 61,
+"src": "Kill"
+},
+{
+"si": 0,
+"ei": 62,
+"src": "Skin Color"
+},
+{
+"si": 0,
+"ei": 63,
+"src": "Hair Color"
+},
+{
+"si": 0,
+"ei": 64,
+"src": "Open"
+},
+{
+"si": 0,
+"ei": 65,
+"src": "Close"
+},
+{
+"si": 0,
+"ei": 66,
+"src": "Touch"
+},
+{
+"si": 0,
+"ei": 67,
+"src": "Menu"
+},
+{
+"si": 0,
+"ei": 68,
+"src": "There are enemies nearby."
+},
+{
+"si": 0,
+"ei": 69,
+"src": "Other Player Died"
+},
+{
+"si": 0,
+"ei": 70,
+"src": "Join"
+},
+{
+"si": 0,
+"ei": 71,
+"src": "Head"
+},
+{
+"si": 0,
+"ei": 72,
+"src": "not available"
+},
+{
+"si": 0,
+"ei": 73,
+"src": "Corpse"
+},
+{
+"si": 0,
+"ei": 74,
+"src": "Eat"
+},
+{
+"si": 0,
+"ei": 75,
+"src": "needs"
+},
+{
+"si": 0,
+"ei": 76,
+"src": "Inventory"
+},
+{
+"si": 0,
+"ei": 77,
+"src": "Unknown"
+},
+{
+"si": 0,
+"ei": 78,
+"src": "Failed"
+},
+{
+"si": 0,
+"ei": 79,
+"src": "Impossible"
+},
+{
+"si": 0,
+"ei": 80,
+"src": "Success"
+},
+{
+"si": 0,
+"ei": 81,
+"src": "Steal"
+},
+{
+"si": 0,
+"ei": 82,
+"src": "Pickpocket"
+},
+{
+"si": 0,
+"ei": 83,
+"src": "Cannot be used right now"
+},
+{
+"si": 0,
+"ei": 84,
+"src": "Cannot use while in combat"
+},
+{
+"si": 0,
+"ei": 85,
+"src": "Can only use while in combat"
+},
+{
+"si": 0,
+"ei": 86,
+"src": "Equip"
+},
+{
+"si": 0,
+"ei": 87,
+"src": "Trinket"
+},
+{
+"si": 0,
+"ei": 88,
+"src": "Missing Infection"
+},
+{
+"si": 0,
+"ei": 89,
+"src": "Ability has Cooldown"
+},
+{
+"si": 0,
+"ei": 90,
+"src": "Abilities"
+},
+{
+"si": 0,
+"ei": 91,
+"src": "Reload"
+},
+{
+"si": 0,
+"ei": 92,
+"src": "Use Equipped Item"
+},
+{
+"si": 0,
+"ei": 93,
+"src": "Action Bar 1"
+},
+{
+"si": 0,
+"ei": 94,
+"src": "Action Bar 2"
+},
+{
+"si": 0,
+"ei": 95,
+"src": "Action Bar 3"
+},
+{
+"si": 0,
+"ei": 96,
+"src": "Action Bar 4"
+},
+{
+"si": 0,
+"ei": 97,
+"src": "Movement"
+},
+{
+"si": 0,
+"ei": 98,
+"src": "Saving is not possible||right now"
+},
+{
+"si": 0,
+"ei": 99,
+"src": "No further ammo"
+},
+{
+"si": 0,
+"ei": 100,
+"src": "Pickpocketing"
+},
+{
+"si": 0,
+"ei": 101,
+"src": "Target"
+},
+{
+"si": 0,
+"ei": 102,
+"src": "No Crafting knowledge"
+},
+{
+"si": 0,
+"ei": 103,
+"src": "No Quests"
+},
+{
+"si": 0,
+"ei": 104,
+"src": "Editor"
+},
+{
+"si": 0,
+"ei": 105,
+"src": "Leave Current Game?"
+},
+{
+"si": 0,
+"ei": 106,
+"src": "Explore"
+},
+{
+"si": 0,
+"ei": 107,
+"src": "Explore Mind"
+},
+{
+"si": 0,
+"ei": 108,
+"src": "Options"
+},
+{
+"si": 0,
+"ei": 109,
+"src": "Move one piece to:"
+},
+{
+"si": 0,
+"ei": 110,
+"src": "Move Stack to:"
+},
+{
+"si": 0,
+"ei": 111,
+"src": "Energy Cells"
+},
+{
+"si": 0,
+"ei": 112,
+"src": "Health is already full"
+},
+{
+"si": 0,
+"ei": 113,
+"src": "Can't pick up more of that"
+},
+{
+"si": 0,
+"ei": 114,
+"src": "No ranged weapon equipped"
+},
+{
+"si": 0,
+"ei": 115,
+"src": "Multiplayer"
+},
+{
+"si": 0,
+"ei": 116,
+"src": "Switching Mode not possible right now"
+},
+{
+"si": 0,
+"ei": 117,
+"src": "Save"
+},
+{
+"si": 0,
+"ei": 118,
+"src": "Load Game"
+},
+{
+"si": 0,
+"ei": 119,
+"src": "Local Co-Op"
+},
+{
+"si": 0,
+"ei": 120,
+"src": "Autosave"
+},
+{
+"si": 0,
+"ei": 121,
+"src": "Select Profile"
+},
+{
+"si": 0,
+"ei": 122,
+"src": "Delete Profile {0}"
+},
+{
+"si": 0,
+"ei": 123,
+"src": "New Slot"
+},
+{
+"si": 0,
+"ei": 124,
+"src": "Credits"
+},
+{
+"si": 0,
+"ei": 125,
+"src": "Accept"
+},
+{
+"si": 0,
+"ei": 126,
+"src": "Not enough materials"
+},
+{
+"si": 0,
+"ei": 127,
+"src": "Sound"
+},
+{
+"si": 0,
+"ei": 128,
+"src": "Music / Environment"
+},
+{
+"si": 0,
+"ei": 129,
+"src": "Continue running gameplay when unfocused"
+},
+{
+"si": 0,
+"ei": 130,
+"src": "Controller Vibration"
+},
+{
+"si": 0,
+"ei": 131,
+"src": "Lock mouse cursor"
+},
+{
+"si": 0,
+"ei": 132,
+"src": "Friendly Fire"
+},
+{
+"si": 0,
+"ei": 133,
+"src": "Screenshake"
+},
+{
+"si": 0,
+"ei": 134,
+"src": "Melee Weapon"
+},
+{
+"si": 0,
+"ei": 135,
+"src": "Ranged Weapon"
+},
+{
+"si": 0,
+"ei": 136,
+"src": "Strong Melee"
+},
+{
+"si": 0,
+"ei": 137,
+"src": "Ability"
+},
+{
+"si": 0,
+"ei": 138,
+"src": "Difficulty"
+},
+{
+"si": 0,
+"ei": 139,
+"src": "Enemies have better stats. Enemies rotate, shoot and hit faster."
+},
+{
+"si": 0,
+"ei": 140,
+"src": "Standard"
+},
+{
+"si": 0,
+"ei": 141,
+"src": "Select Profile Slot"
+},
+{
+"si": 0,
+"ei": 142,
+"src": "Combat Difficulty"
+},
+{
+"si": 0,
+"ei": 143,
+"src": "You can change the difficulty anytime during the game. You can also avoid combat encounters."
+},
+{
+"si": 0,
+"ei": 144,
+"src": "Hard"
+},
+{
+"si": 0,
+"ei": 145,
+"src": "Combat will be challenging."
+},
+{
+"si": 0,
+"ei": 146,
+"src": "Enemies have worse stats."
+},
+{
+"si": 0,
+"ei": 147,
+"src": "Relaxed"
+},
+{
+"si": 0,
+"ei": 148,
+"src": "Local Co-Op Mode"
+},
+{
+"si": 0,
+"ei": 149,
+"src": "Not enough"
+},
+{
+"si": 0,
+"ei": 150,
+"src": "Undo"
+},
+{
+"si": 0,
+"ei": 151,
+"src": "Blunt"
+},
+{
+"si": 0,
+"ei": 152,
+"src": "Sharp"
+},
+{
+"si": 0,
+"ei": 153,
+"src": "Projectiles"
+},
+{
+"si": 0,
+"ei": 154,
+"src": "Buy"
+},
+{
+"si": 0,
+"ei": 155,
+"src": "Sell"
+},
+{
+"si": 0,
+"ei": 156,
+"src": "Crit Chance"
+},
+{
+"si": 0,
+"ei": 157,
+"src": "Crit Damage"
+},
+{
+"si": 0,
+"ei": 158,
+"src": "This action is not available here."
+},
+{
+"si": 0,
+"ei": 159,
+"src": "This action is not available yet."
+},
+{
+"si": 0,
+"ei": 160,
+"src": "Search (Empty)"
+},
+{
+"si": 0,
+"ei": 161,
+"src": "Proficiency with ranged weapons like rifles and energy guns.||Damage: + {0} %"
+},
+{
+"si": 0,
+"ei": 162,
+"src": "Proficiency with melee weapons like blades.||Damage: + {0} %"
+},
+{
+"si": 0,
+"ei": 163,
+"src": "Increases movement speed."
+},
+{
+"si": 0,
+"ei": 164,
+"src": "A good understanding of animals."
+},
+{
+"si": 0,
+"ei": 165,
+"src": "Creativity and a feel for special opportunities. Unlocks dialogue options."
+},
+{
+"si": 0,
+"ei": 166,
+"src": "Proficiency with small guns like pistols and SMGs.||Damage: + {0} %"
+},
+{
+"si": 0,
+"ei": 167,
+"src": "Unlocking doors and containers. Increases chance of success."
+},
+{
+"si": 0,
+"ei": 168,
+"src": "Stealing from other characters. Increases chance of success."
+},
+{
+"si": 0,
+"ei": 169,
+"src": "Interacting with merchants. Better prices."
+},
+{
+"si": 0,
+"ei": 170,
+"src": "Combat Mode"
+},
+{
+"si": 0,
+"ei": 171,
+"src": "Full Graphic Violence"
+},
+{
+"si": 0,
+"ei": 172,
+"src": "Master"
+},
+{
+"si": 0,
+"ei": 173,
+"src": "Invalid Name"
+},
+{
+"si": 0,
+"ei": 174,
+"src": "None"
+},
+{
+"si": 0,
+"ei": 175,
+"src": "Explosives"
+},
+{
+"si": 0,
+"ei": 176,
+"src": "Full"
+},
+{
+"si": 0,
+"ei": 177,
+"src": "Color"
+},
+{
+"si": 0,
+"ei": 178,
+"src": "Accent Color"
+},
+{
+"si": 0,
+"ei": 179,
+"src": "Resistance against blunt objects like Clubs."
+},
+{
+"si": 0,
+"ei": 180,
+"src": "Resistance against sharp objects like axes and blades."
+},
+{
+"si": 0,
+"ei": 181,
+"src": "Resistance against most of the ranged weapons."
+},
+{
+"si": 0,
+"ei": 182,
+"src": "Resistance against any kind of fire based damage."
+},
+{
+"si": 0,
+"ei": 183,
+"src": "Resistance against any kind of energy based damage."
+},
+{
+"si": 0,
+"ei": 184,
+"src": "Resistance against any kind of tech based damage, including cyber attacks."
+},
+{
+"si": 0,
+"ei": 185,
+"src": "Title Screen"
+},
+{
+"si": 0,
+"ei": 186,
+"src": "No reload needed"
+},
+{
+"si": 0,
+"ei": 187,
+"src": "Health"
+},
+{
+"si": 0,
+"ei": 189,
+"src": "No ranged weapon"
+},
+{
+"si": 0,
+"ei": 190,
+"src": "Quest can't be started again"
+},
+{
+"si": 0,
+"ei": 191,
+"src": "Collect"
+},
+{
+"si": 0,
+"ei": 192,
+"src": "Character Name"
+},
+{
+"si": 0,
+"ei": 193,
+"src": "UI Scale"
+},
+{
+"si": 0,
+"ei": 194,
+"src": "Small"
+},
+{
+"si": 0,
+"ei": 195,
+"src": "Large"
+},
+{
+"si": 0,
+"ei": 196,
+"src": "Custom"
+},
+{
+"si": 0,
+"ei": 197,
+"src": "Item requirements missing"
+},
+{
+"si": 0,
+"ei": 198,
+"src": "Handheld: Zoomed Out"
+},
+{
+"si": 0,
+"ei": 199,
+"src": "Free Slot"
+},
+{
+"si": 0,
+"ei": 200,
+"src": "Action interrupted"
+},
+{
+"si": 0,
+"ei": 201,
+"src": "Used key"
+},
+{
+"si": 0,
+"ei": 202,
+"src": "Travel to"
+},
+{
+"si": 0,
+"ei": 203,
+"src": "Backstab"
+},
+{
+"si": 0,
+"ei": 204,
+"src": "Potential salvage"
+},
+{
+"si": 0,
+"ei": 205,
+"src": "Yes"
+},
+{
+"si": 0,
+"ei": 206,
+"src": "No"
+},
+{
+"si": 0,
+"ei": 207,
+"src": "Skip {0}"
+},
+{
+"si": 0,
+"ei": 208,
+"src": "Container"
+},
+{
+"si": 0,
+"ei": 209,
+"src": "Skills"
+},
+{
+"si": 0,
+"ei": 210,
+"src": "Statistics"
+},
+{
+"si": 0,
+"ei": 211,
+"src": "Stats"
+},
+{
+"si": 0,
+"ei": 212,
+"src": "General"
+},
+{
+"si": 0,
+"ei": 213,
+"src": "Puked"
+},
+{
+"si": 0,
+"ei": 214,
+"src": "Killed"
+},
+{
+"si": 0,
+"ei": 215,
+"src": "Quests failed"
+},
+{
+"si": 0,
+"ei": 216,
+"src": "Quests finished"
+},
+{
+"si": 0,
+"ei": 217,
+"src": "Social"
+},
+{
+"si": 0,
+"ei": 218,
+"src": "Combat"
+},
+{
+"si": 0,
+"ei": 219,
+"src": "Trickery"
+},
+{
+"si": 0,
+"ei": 220,
+"src": "Small Firearms"
+},
+{
+"si": 0,
+"ei": 221,
+"src": "Melee"
+},
+{
+"si": 0,
+"ei": 222,
+"src": "Proficiency with rifles and shotguns.||Damage: + {0} %"
+},
+{
+"si": 0,
+"ei": 223,
+"src": "Proficiency with advanced weapons.||Damage: + {0} %"
+},
+{
+"si": 0,
+"ei": 224,
+"src": "Artistry"
+},
+{
+"si": 0,
+"ei": 225,
+"src": "Bartering"
+},
+{
+"si": 0,
+"ei": 226,
+"src": "Lockpicking"
+},
+{
+"si": 0,
+"ei": 227,
+"src": "Core"
+},
+{
+"si": 0,
+"ei": 228,
+"src": "Resistances"
+},
+{
+"si": 0,
+"ei": 229,
+"src": "Strength"
+},
+{
+"si": 0,
+"ei": 230,
+"src": "Hardiness"
+},
+{
+"si": 0,
+"ei": 231,
+"src": "Finesse"
+},
+{
+"si": 0,
+"ei": 232,
+"src": "Cybertech"
+},
+{
+"si": 0,
+"ei": 233,
+"src": "Empathy"
+},
+{
+"si": 0,
+"ei": 234,
+"src": "Occultism"
+},
+{
+"si": 0,
+"ei": 235,
+"src": "Exp."
+},
+{
+"si": 0,
+"ei": 236,
+"src": "Level"
+},
+{
+"si": 0,
+"ei": 237,
+"src": "Point"
+},
+{
+"si": 0,
+"ei": 238,
+"src": "Points"
+},
+{
+"si": 0,
+"ei": 239,
+"src": "remaining"
+},
+{
+"si": 0,
+"ei": 240,
+"src": "Fire"
+},
+{
+"si": 0,
+"ei": 241,
+"src": "Energy"
+},
+{
+"si": 0,
+"ei": 242,
+"src": "Increases health and resistances."
+},
+{
+"si": 0,
+"ei": 243,
+"src": "Allows the use of better melee weapons. Better crit chances with melee weapons."
+},
+{
+"si": 0,
+"ei": 244,
+"src": "Allows the use of better ranged weapons. Better crit chances with ranged weapons."
+},
+{
+"si": 0,
+"ei": 245,
+"src": "Allows the use of abilities that communicate with the flesh. Makes you endure higher stages of infection."
+},
+{
+"si": 0,
+"ei": 246,
+"src": "Allows the use of most forms of implants and tech abilities."
+},
+{
+"si": 0,
+"ei": 247,
+"src": "Influences some interactions with other characters."
+},
+{
+"si": 0,
+"ei": 248,
+"src": "Random Name {0}||Random Variant {1}"
+},
+{
+"si": 0,
+"ei": 249,
+"src": "Random name {0}||Random visuals {1} Next preset {2}"
+},
+{
+"si": 0,
+"ei": 250,
+"src": "Choose your character"
+},
+{
+"si": 0,
+"ei": 251,
+"src": "Choose your character"
+},
+{
+"si": 0,
+"ei": 252,
+"src": "Language"
+},
+{
+"si": 0,
+"ei": 253,
+"src": "English"
+},
+{
+"si": 0,
+"ei": 254,
+"src": "Deutsch"
+},
+{
+"si": 0,
+"ei": 255,
+"src": "Drop"
+},
+{
+"si": 0,
+"ei": 256,
+"src": "Audio"
+},
+{
+"si": 0,
+"ei": 257,
+"src": "Current Game"
+},
+{
+"si": 0,
+"ei": 258,
+"src": "Unequip"
+},
+{
+"si": 0,
+"ei": 259,
+"src": "Close inventory"
+},
+{
+"si": 0,
+"ei": 260,
+"src": "Click on the Inventory Tab"
+},
+{
+"si": 0,
+"ei": 261,
+"src": "Open Inventory {0}{1}"
+},
+{
+"si": 0,
+"ei": 262,
+"src": "Select the [0]{0} Ability||from the Action Bar"
+},
+{
+"si": 0,
+"ei": 263,
+"src": "Select the [0]{0} Ability||with {1} and {2}"
+},
+{
+"si": 0,
+"ei": 264,
+"src": "Use ability [0]{0}||anywhere {1}"
+},
+{
+"si": 0,
+"ei": 265,
+"src": "Pick up some of your own puke"
+},
+{
+"si": 0,
+"ei": 266,
+"src": "Examine the machine again"
+},
+{
+"si": 0,
+"ei": 267,
+"src": "Holster your weapon {0}"
+},
+{
+"si": 0,
+"ei": 268,
+"src": "Pick up the weapon"
+},
+{
+"si": 0,
+"ei": 269,
+"src": "Equip the weapon"
+},
+{
+"si": 0,
+"ei": 270,
+"src": "Draw weapon {0}"
+},
+{
+"si": 0,
+"ei": 271,
+"src": "Hit melee {0}||to enter combat mode||"
+},
+{
+"si": 0,
+"ei": 272,
+"src": "Walk around with {0}{1}{2}{3}"
+},
+{
+"si": 0,
+"ei": 273,
+"src": "Destroy that door over there||with {0}"
+},
+{
+"si": 0,
+"ei": 274,
+"src": "Strong Melee Attack:||Hold {0}"
+},
+{
+"si": 0,
+"ei": 275,
+"src": "Pick up the rifle||and the ammo"
+},
+{
+"si": 0,
+"ei": 276,
+"src": "Equip the rifle"
+},
+{
+"si": 0,
+"ei": 277,
+"src": "Target with ranged weapon||{0}"
+},
+{
+"si": 0,
+"ei": 278,
+"src": "Select ranged weapon||by targeting with right stick"
+},
+{
+"si": 0,
+"ei": 279,
+"src": "Shoot all red lights||on the wall {0}"
+},
+{
+"si": 0,
+"ei": 280,
+"src": "Reload {0}"
+},
+{
+"si": 0,
+"ei": 282,
+"src": "{0} All"
+},
+{
+"si": 0,
+"ei": 283,
+"src": "{0} All"
+},
+{
+"si": 0,
+"ei": 284,
+"src": "Walk {0} or {1}{2}{3}{4}"
+},
+{
+"si": 0,
+"ei": 285,
+"src": "Walk {0}"
+},
+{
+"si": 0,
+"ei": 286,
+"src": "Press {0} to roll.||Try it a few times now."
+},
+{
+"si": 0,
+"ei": 287,
+"src": "You can save the game manually when not in combat. {0}"
+},
+{
+"si": 0,
+"ei": 288,
+"src": "Some actions cost energy. When exhausted, you move slower."
+},
+{
+"si": 0,
+"ei": 289,
+"src": "Continue {0}"
+},
+{
+"si": 0,
+"ei": 290,
+"src": "Pick up the [0]{0}"
+},
+{
+"si": 0,
+"ei": 291,
+"src": "Click the [0]{0}||or drag it|| into the slot"
+},
+{
+"si": 0,
+"ei": 292,
+"src": "Equip the [0]{0}"
+},
+{
+"si": 0,
+"ei": 293,
+"src": "Pick up [0]{0}"
+},
+{
+"si": 0,
+"ei": 294,
+"src": "Press {0} to heal yourself||with Nano Health."
+},
+{
+"si": 0,
+"ei": 295,
+"src": "Health instantly"
+},
+{
+"si": 0,
+"ei": 296,
+"src": "All Actions {0}  Equip / Consume {1}  Compare {2}  Close {3} / {4}"
+},
+{
+"si": 0,
+"ei": 297,
+"src": "Close {0} / {1}"
+},
+{
+"si": 0,
+"ei": 298,
+"src": "Click to start"
+},
+{
+"si": 0,
+"ei": 299,
+"src": "Press  {0}  to start"
+},
+{
+"si": 0,
+"ei": 300,
+"src": "Ammo"
+},
+{
+"si": 0,
+"ei": 301,
+"src": "Unarmed"
+},
+{
+"si": 0,
+"ei": 302,
+"src": "Ammo"
+},
+{
+"si": 0,
+"ei": 303,
+"src": "Ranged"
+},
+{
+"si": 0,
+"ei": 304,
+"src": "Weapons"
+},
+{
+"si": 0,
+"ei": 305,
+"src": "Quicksave"
+},
+{
+"si": 0,
+"ei": 306,
+"src": "Festering Gorge"
+},
+{
+"si": 0,
+"ei": 307,
+"src": "Bunker 17"
+},
+{
+"si": 0,
+"ei": 308,
+"src": "Red Forest"
+},
+{
+"si": 0,
+"ei": 309,
+"src": "Queen's Palace"
+},
+{
+"si": 0,
+"ei": 310,
+"src": "Crossroads"
+},
+{
+"si": 0,
+"ei": 311,
+"src": "Mine 19"
+},
+{
+"si": 0,
+"ei": 312,
+"src": "Ruins Of Orlon"
+},
+{
+"si": 0,
+"ei": 313,
+"src": "Butcher's Den"
+},
+{
+"si": 0,
+"ei": 314,
+"src": "Puke Bar"
+},
+{
+"si": 0,
+"ei": 315,
+"src": "Kraken Temple"
+},
+{
+"si": 0,
+"ei": 316,
+"src": "Surface Integration Course"
+},
+{
+"si": 0,
+"ei": 317,
+"src": "Caves"
+},
+{
+"si": 0,
+"ei": 318,
+"src": "Wasteland"
+},
+{
+"si": 0,
+"ei": 319,
+"src": "Recipe"
+},
+{
+"si": 0,
+"ei": 320,
+"src": "Dungeon"
+},
+{
+"si": 0,
+"ei": 321,
+"src": "Barkeeper"
+},
+{
+"si": 0,
+"ei": 322,
+"src": "You've reached"
+},
+{
+"si": 0,
+"ei": 323,
+"src": "Screen"
+},
+{
+"si": 0,
+"ei": 324,
+"src": "Delete Profile?"
+},
+{
+"si": 0,
+"ei": 325,
+"src": "Singleplayer"
+},
+{
+"si": 0,
+"ei": 326,
+"src": "Controller  |  Controller"
+},
+{
+"si": 0,
+"ei": 327,
+"src": "Mouse  |  Controller"
+},
+{
+"si": 0,
+"ei": 328,
+"src": "Controller  |  Mouse"
+},
+{
+"si": 0,
+"ei": 329,
+"src": "Switch sides"
+},
+{
+"si": 0,
+"ei": 330,
+"src": "Switch characters"
+},
+{
+"si": 0,
+"ei": 331,
+"src": "Locations visited"
+},
+{
+"si": 0,
+"ei": 332,
+"src": "Enter"
+},
+{
+"si": 0,
+"ei": 333,
+"src": "Can be sold at merchants"
+},
+{
+"si": 0,
+"ei": 334,
+"src": "Combat mode is not available yet"
+},
+{
+"si": 0,
+"ei": 335,
+"src": "End Of Demo"
+},
+{
+"si": 0,
+"ei": 336,
+"src": "You have reached the current end of the Early Access version."
+},
+{
+"si": 0,
+"ei": 337,
+"src": "Return to Main Menu?"
+},
+{
+"si": 0,
+"ei": 338,
+"src": "Return to Title Screen?"
+},
+{
+"si": 0,
+"ei": 339,
+"src": "Continue Campaign"
+},
+{
+"si": 0,
+"ei": 340,
+"src": "Quest Item"
+},
+{
+"si": 0,
+"ei": 341,
+"src": "Open Inventory {0}"
+},
+{
+"si": 0,
+"ei": 342,
+"src": "Open Inventory with {0}||or click on the portrait"
+},
+{
+"si": 0,
+"ei": 343,
+"src": "Vignette"
+},
+{
+"si": 0,
+"ei": 344,
+"src": "Apply Changes?"
+},
+{
+"si": 0,
+"ei": 345,
+"src": "Apply"
+},
+{
+"si": 0,
+"ei": 346,
+"src": "Discard"
+},
+{
+"si": 0,
+"ei": 347,
+"src": "Screenshot"
+},
+{
+"si": 0,
+"ei": 348,
+"src": "Memory"
+},
+{
+"si": 0,
+"ei": 349,
+"src": "Symbiont"
+},
+{
+"si": 0,
+"ei": 350,
+"src": "Body Armor"
+},
+{
+"si": 0,
+"ei": 351,
+"src": "Items"
+},
+{
+"si": 0,
+"ei": 352,
+"src": "Mind"
+},
+{
+"si": 0,
+"ei": 353,
+"src": "Quests"
+},
+{
+"si": 0,
+"ei": 354,
+"src": "Resources"
+},
+{
+"si": 0,
+"ei": 355,
+"src": "Learned Ability"
+},
+{
+"si": 0,
+"ei": 356,
+"src": "Finished"
+},
+{
+"si": 0,
+"ei": 357,
+"src": "Quests"
+},
+{
+"si": 0,
+"ei": 358,
+"src": "Get"
+},
+{
+"si": 0,
+"ei": 359,
+"src": "Return to:"
+},
+{
+"si": 0,
+"ei": 360,
+"src": "Location"
+},
+{
+"si": 0,
+"ei": 361,
+"src": "{0} Draw weapon"
+},
+{
+"si": 0,
+"ei": 362,
+"src": "{0} Holster weapon"
+},
+{
+"si": 0,
+"ei": 363,
+"src": "No items to deconstruct"
+},
+{
+"si": 0,
+"ei": 364,
+"src": "Equipped"
+},
+{
+"si": 0,
+"ei": 365,
+"src": "Deconstruct equipped item?"
+},
+{
+"si": 0,
+"ei": 366,
+"src": "Deconstruct"
+},
+{
+"si": 0,
+"ei": 367,
+"src": "Create"
+},
+{
+"si": 0,
+"ei": 368,
+"src": "Very slow"
+},
+{
+"si": 0,
+"ei": 369,
+"src": "Slow"
+},
+{
+"si": 0,
+"ei": 370,
+"src": "Normal"
+},
+{
+"si": 0,
+"ei": 371,
+"src": "Fast"
+},
+{
+"si": 0,
+"ei": 372,
+"src": "Very fast"
+},
+{
+"si": 0,
+"ei": 373,
+"src": "Health"
+},
+{
+"si": 0,
+"ei": 374,
+"src": "Max Health"
+},
+{
+"si": 0,
+"ei": 375,
+"src": "This item can't be dropped"
+},
+{
+"si": 0,
+"ei": 376,
+"src": "Consumables"
+},
+{
+"si": 0,
+"ei": 377,
+"src": "Max Item count reached"
+},
+{
+"si": 0,
+"ei": 378,
+"src": "All Actions {0}  Buy / Sell {1}  Compare {2}  Toggle {3}  Close {4}"
+},
+{
+"si": 0,
+"ei": 379,
+"src": "Open Inventory {0}{1}"
+},
+{
+"si": 0,
+"ei": 380,
+"src": "Equipment"
+},
+{
+"si": 0,
+"ei": 381,
+"src": "No empty space"
+},
+{
+"si": 0,
+"ei": 382,
+"src": "Close {0} / {1}"
+},
+{
+"si": 0,
+"ei": 384,
+"src": "Cancel {0} / {1}"
+},
+{
+"si": 0,
+"ei": 385,
+"src": "Crafting Resource"
+},
+{
+"si": 0,
+"ei": 386,
+"src": "Animal"
+},
+{
+"si": 0,
+"ei": 387,
+"src": "Back"
+},
+{
+"si": 0,
+"ei": 388,
+"src": "Implant"
+},
+{
+"si": 0,
+"ei": 389,
+"src": "Can't reload:||No ranged weapon equipped"
+},
+{
+"si": 0,
+"ei": 390,
+"src": "Increase {0} Decrease {1}"
+},
+{
+"si": 0,
+"ei": 391,
+"src": "Permadeath"
+},
+{
+"si": 0,
+"ei": 392,
+"src": "On"
+},
+{
+"si": 0,
+"ei": 393,
+"src": "Off"
+},
+{
+"si": 0,
+"ei": 394,
+"src": "Assign now or later!"
+},
+{
+"si": 0,
+"ei": 395,
+"src": "Cannot use this||while enemies are nearby"
+},
+{
+"si": 0,
+"ei": 396,
+"src": "Discovered items"
+},
+{
+"si": 0,
+"ei": 397,
+"src": "Help"
+},
+{
+"si": 0,
+"ei": 398,
+"src": "Mountain Pass"
+},
+{
+"si": 0,
+"ei": 399,
+"src": "Anomaly"
+},
+{
+"si": 0,
+"ei": 400,
+"src": "Unexplored"
+},
+{
+"si": 0,
+"ei": 401,
+"src": "Reputation"
+},
+{
+"si": 0,
+"ei": 402,
+"src": "Human Enclaves"
+},
+{
+"si": 0,
+"ei": 403,
+"src": "Flesh Titans"
+},
+{
+"si": 0,
+"ei": 404,
+"src": "Machine God"
+},
+{
+"si": 0,
+"ei": 405,
+"src": "It is alone. It is many. It watches everyone."
+},
+{
+"si": 0,
+"ei": 406,
+"src": "Cosmic beings of different, eccentric personalities."
+},
+{
+"si": 0,
+"ei": 407,
+"src": "The last bits of civilization on Nexus. Human settlements, barred off from the wasteland."
+},
+{
+"si": 0,
+"ei": 408,
+"src": "Anomaly"
+},
+{
+"si": 0,
+"ei": 409,
+"src": "Encounter"
+},
+{
+"si": 0,
+"ei": 410,
+"src": "Requirement not met"
+},
+{
+"si": 0,
+"ei": 411,
+"src": "Always"
+},
+{
+"si": 0,
+"ei": 412,
+"src": "Use {0} to get a rough map of the area, including exits."
+},
+{
+"si": 0,
+"ei": 413,
+"src": "Stealing"
+},
+{
+"si": 0,
+"ei": 414,
+"src": "Mouse Input in Combat"
+},
+{
+"si": 0,
+"ei": 415,
+"src": "Resolution"
+},
+{
+"si": 0,
+"ei": 416,
+"src": "Display"
+},
+{
+"si": 0,
+"ei": 417,
+"src": "Screen mode"
+},
+{
+"si": 0,
+"ei": 418,
+"src": "Fullscreen Classic"
+},
+{
+"si": 0,
+"ei": 419,
+"src": "Fullscreen Window"
+},
+{
+"si": 0,
+"ei": 420,
+"src": "Windowed"
+},
+{
+"si": 0,
+"ei": 421,
+"src": "Reset all to default"
+},
+{
+"si": 0,
+"ei": 422,
+"src": "Delete entry {0}||Reset entry {1}"
+},
+{
+"si": 0,
+"ei": 423,
+"src": "Action Bar 5"
+},
+{
+"si": 0,
+"ei": 424,
+"src": "Action Bar 6"
+},
+{
+"si": 0,
+"ei": 425,
+"src": "Action Bar 7"
+},
+{
+"si": 0,
+"ei": 426,
+"src": "Action Bar 8"
+},
+{
+"si": 0,
+"ei": 427,
+"src": "Switch Melee and Ranged"
+},
+{
+"si": 0,
+"ei": 428,
+"src": "Manual Melee Attack Mode"
+},
+{
+"si": 0,
+"ei": 429,
+"src": "Input Bindings"
+},
+{
+"si": 0,
+"ei": 430,
+"src": "Highlight all objects"
+},
+{
+"si": 0,
+"ei": 431,
+"src": "Text"
+},
+{
+"si": 0,
+"ei": 432,
+"src": "Buy back"
+},
+{
+"si": 0,
+"ei": 433,
+"src": "Cannot be sold"
+},
+{
+"si": 0,
+"ei": 434,
+"src": "Emotion"
+},
+{
+"si": 0,
+"ei": 435,
+"src": "Sensation"
+},
+{
+"si": 0,
+"ei": 436,
+"src": "Proficiency with melee weapons like clubs.||Damage: + {0} %"
+},
+{
+"si": 0,
+"ei": 437,
+"src": "No map available for this area"
+},
+{
+"si": 0,
+"ei": 438,
+"src": "Encounter"
+},
+{
+"si": 0,
+"ei": 439,
+"src": "This game is unfinished and being worked on.||||Save games will be compatible with new versions but we cannot guarantee this for the 1.0 release of the game due to possible quest progress and balancing issues.||||<color=#FFA68B> Press any key or button to start </color>"
+},
+{
+"si": 0,
+"ei": 440,
+"src": "Gameplay time"
+},
+{
+"si": 0,
+"ei": 441,
+"src": "continued"
+},
+{
+"si": 0,
+"ei": 442,
+"src": "Will heal {0} health over time."
+},
+{
+"si": 0,
+"ei": 443,
+"src": "Used cheats"
+},
+{
+"si": 0,
+"ei": 444,
+"src": "Execute and activate cheats?"
+},
+{
+"si": 0,
+"ei": 445,
+"src": "Activating cheats will mark the current savegame."
+},
+{
+"si": 0,
+"ei": 446,
+"src": "Activate"
+},
+{
+"si": 0,
+"ei": 447,
+"src": "Cannot use while combat mode is disabled"
+},
+{
+"si": 0,
+"ei": 448,
+"src": "SAVING"
+},
+{
+"si": 0,
+"ei": 450,
+"src": "Stranger"
+},
+{
+"si": 0,
+"ei": 451,
+"src": "Resources"
+},
+{
+"si": 0,
+"ei": 452,
+"src": "Items"
+},
+{
+"si": 0,
+"ei": 453,
+"src": "Controller Glyphs"
+},
+{
+"si": 0,
+"ei": 454,
+"src": "Controller Glyphs Pl. 2"
+}
+]

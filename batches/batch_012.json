@@ -1,0 +1,1282 @@
+[
+{
+"si": 256,
+"ei": 37,
+"src": "If you got nothing better to do, I might need your help with something."
+},
+{
+"si": 256,
+"ei": 38,
+"src": "I'd say the steaks here are worth my life, but with all these Godhunters around I'm reconsidering."
+},
+{
+"si": 256,
+"ei": 39,
+"src": "Yes."
+},
+{
+"si": 256,
+"ei": 40,
+"src": "Great. Here's the deal for you: I tell you how to get some of that meat the easy way, and you bring me a piece of it."
+},
+{
+"si": 256,
+"ei": 41,
+"src": "Praise the flesh."
+},
+{
+"si": 256,
+"ei": 42,
+"src": "How dare you show your face to me?"
+},
+{
+"si": 256,
+"ei": 43,
+"src": "Oh, I can smell it. You have found the flesh, haven't you?"
+},
+{
+"si": 256,
+"ei": 44,
+"src": "Quick, give it to me!"
+},
+{
+"si": 256,
+"ei": 45,
+"src": "No. It's mine now."
+},
+{
+"si": 256,
+"ei": 46,
+"src": "How dare you? Give it to me."
+},
+{
+"si": 256,
+"ei": 47,
+"src": "Sorry. I'll just keep it."
+},
+{
+"si": 256,
+"ei": 48,
+"src": "You're gonna regret this."
+},
+{
+"si": 256,
+"ei": 49,
+"src": "Alright."
+},
+{
+"si": 256,
+"ei": 50,
+"src": "Here. Take it."
+},
+{
+"si": 256,
+"ei": 51,
+"src": "Oh, you glorious piece of flesh."
+},
+{
+"si": 256,
+"ei": 52,
+"src": "I am going to enjoy this."
+},
+{
+"si": 256,
+"ei": 53,
+"src": "Here, take this as a thanks."
+},
+{
+"si": 256,
+"ei": 54,
+"src": "Goodbye now."
+},
+{
+"si": 258,
+"ei": 0,
+"src": "So, what do you do all day?"
+},
+{
+"si": 258,
+"ei": 1,
+"src": "PONDERING."
+},
+{
+"si": 258,
+"ei": 2,
+"src": "About what? Life, eternity?"
+},
+{
+"si": 258,
+"ei": 4,
+"src": "Hmmh? What else could there be?"
+},
+{
+"si": 258,
+"ei": 5,
+"src": "FRIENDSHIP. SOCIETY. AMUSEMENT."
+},
+{
+"si": 258,
+"ei": 6,
+"src": "What the hell? You have friends?"
+},
+{
+"si": 258,
+"ei": 7,
+"src": "FRIENDS. YOU."
+},
+{
+"si": 258,
+"ei": 8,
+"src": "No, I don't think so."
+},
+{
+"si": 258,
+"ei": 9,
+"src": "SADNESS."
+},
+{
+"si": 258,
+"ei": 10,
+"src": "OTHER FRIENDS?"
+},
+{
+"si": 258,
+"ei": 11,
+"src": "You want me to go look for someone?"
+},
+{
+"si": 258,
+"ei": 12,
+"src": "SEARCH FRIENDS."
+},
+{
+"si": 258,
+"ei": 13,
+"src": "No, forget it."
+},
+{
+"si": 258,
+"ei": 14,
+"src": "That's impossible."
+},
+{
+"si": 258,
+"ei": 15,
+"src": "Alright. I can do that."
+},
+{
+"si": 258,
+"ei": 16,
+"src": "Probably won't be easy though, considering your... circumstances."
+},
+{
+"si": 258,
+"ei": 17,
+"src": "Alright."
+},
+{
+"si": 258,
+"ei": 18,
+"src": "FRIEND."
+},
+{
+"si": 258,
+"ei": 19,
+"src": "SEARCH FRIENDS?"
+},
+{
+"si": 258,
+"ei": 20,
+"src": "You want more?"
+},
+{
+"si": 258,
+"ei": 21,
+"src": "Ohhhhh, yes!"
+},
+{
+"si": 258,
+"ei": 22,
+"src": "What kind of animal are you?"
+},
+{
+"si": 258,
+"ei": 23,
+"src": "ANIMAL?"
+},
+{
+"si": 258,
+"ei": 24,
+"src": "You know, not human."
+},
+{
+"si": 258,
+"ei": 25,
+"src": "HUMAN."
+},
+{
+"si": 258,
+"ei": 26,
+"src": "That's me, human. What are you though?"
+},
+{
+"si": 258,
+"ei": 27,
+"src": "ANIMAL. HUMAN."
+},
+{
+"si": 258,
+"ei": 28,
+"src": "Eh... Ok."
+},
+{
+"si": 258,
+"ei": 29,
+"src": "I guess that could fit."
+},
+{
+"si": 258,
+"ei": 30,
+"src": "That's a lot of flesh."
+},
+{
+"si": 258,
+"ei": 31,
+"src": "FLESH. LOT. LIVING."
+},
+{
+"si": 258,
+"ei": 32,
+"src": "What do you eat?"
+},
+{
+"si": 258,
+"ei": 33,
+"src": "LIVING. SMALL. BIG."
+},
+{
+"si": 258,
+"ei": 34,
+"src": "Humans, too?"
+},
+{
+"si": 258,
+"ei": 35,
+"src": "LIVING."
+},
+{
+"si": 258,
+"ei": 36,
+"src": "I see."
+},
+{
+"si": 258,
+"ei": 37,
+"src": "Fuck."
+},
+{
+"si": 258,
+"ei": 38,
+"src": "*grumble*"
+},
+{
+"si": 258,
+"ei": 39,
+"src": "FRIENDS?"
+},
+{
+"si": 258,
+"ei": 40,
+"src": "No luck yet, sorry."
+},
+{
+"si": 258,
+"ei": 41,
+"src": "No luck yet, sorry, but could you maybe help me talk to the Flesh Nexus?"
+},
+{
+"si": 258,
+"ei": 42,
+"src": "FRIENDS. NEED."
+},
+{
+"si": 258,
+"ei": 43,
+"src": "Yeah, but, could you first help me out with talking to the Nexus?"
+},
+{
+"si": 258,
+"ei": 44,
+"src": "FRIENDS."
+},
+{
+"si": 258,
+"ei": 45,
+"src": "WAITING. PONDERING."
+},
+{
+"si": 258,
+"ei": 46,
+"src": "Here..."
+},
+{
+"si": 258,
+"ei": 47,
+"src": "How about this one?"
+},
+{
+"si": 258,
+"ei": 48,
+"src": "Yes. This one looks interesting enough."
+},
+{
+"si": 258,
+"ei": 49,
+"src": "MACHINE. SMALL."
+},
+{
+"si": 258,
+"ei": 50,
+"src": "SWALLOW."
+},
+{
+"si": 258,
+"ei": 51,
+"src": "Swallow? You want to eat it?"
+},
+{
+"si": 258,
+"ei": 52,
+"src": "Did it say anything?"
+},
+{
+"si": 258,
+"ei": 53,
+"src": "You can't hear it?"
+},
+{
+"si": 258,
+"ei": 54,
+"src": "No."
+},
+{
+"si": 258,
+"ei": 55,
+"src": "EAT. ALIVE. PROCESS."
+},
+{
+"si": 258,
+"ei": 56,
+"src": "Ehh. It's pretty sure it wants to eat you."
+},
+{
+"si": 258,
+"ei": 57,
+"src": "There's a high chance my shell is resilient enough to survive this. Could be an informative experiment."
+},
+{
+"si": 258,
+"ei": 58,
+"src": "But I could also be stuck in the bowels of this animal for years. Decades, even."
+},
+{
+"si": 258,
+"ei": 59,
+"src": "EAT. ALIVE. PROCESS."
+},
+{
+"si": 258,
+"ei": 60,
+"src": "No, I don't think so."
+},
+{
+"si": 258,
+"ei": 61,
+"src": "WAITING."
+},
+{
+"si": 258,
+"ei": 62,
+"src": "Alright. Let's do this."
+},
+{
+"si": 258,
+"ei": 63,
+"src": "Good luck, Fleshface."
+},
+{
+"si": 258,
+"ei": 64,
+"src": "Thank you. Chances are high I might need that."
+},
+{
+"si": 258,
+"ei": 65,
+"src": "EATING."
+},
+{
+"si": 258,
+"ei": 66,
+"src": "PROCESSING."
+},
+{
+"si": 258,
+"ei": 67,
+"src": "Ok. I'll leave you to it for now."
+},
+{
+"si": 258,
+"ei": 68,
+"src": "Hey, do you know how to talk to the flesh that's growing everywhere?"
+},
+{
+"si": 258,
+"ei": 69,
+"src": "STRONG VOICE."
+},
+{
+"si": 258,
+"ei": 70,
+"src": "Can you show me how?"
+},
+{
+"si": 258,
+"ei": 71,
+"src": "PONDERING. SEEING."
+},
+{
+"si": 258,
+"ei": 72,
+"src": "KNOWING."
+},
+{
+"si": 258,
+"ei": 73,
+"src": "A sudden awareness of past and recent experiences washes over you."
+},
+{
+"si": 260,
+"ei": 0,
+"src": "Hey. Who are you? What are you doing here?"
+},
+{
+"si": 260,
+"ei": 1,
+"src": "Could ask you the same."
+},
+{
+"si": 260,
+"ei": 2,
+"src": "I live here and guard the Fleshkraken. Now, WHAT are you doing here?"
+},
+{
+"si": 260,
+"ei": 3,
+"src": "[Say nothing.]"
+},
+{
+"si": 260,
+"ei": 4,
+"src": "Will... will you hurt me?"
+},
+{
+"si": 260,
+"ei": 5,
+"src": "Please don't attack me. I'm not hurting anyone. I'm just taking care of the Fleshkraken."
+},
+{
+"si": 260,
+"ei": 6,
+"src": "Don't you feel alone here?"
+},
+{
+"si": 260,
+"ei": 7,
+"src": "I... I do. Sometimes."
+},
+{
+"si": 260,
+"ei": 8,
+"src": "The Fleshkraken is my friend. But he doesn't talk much."
+},
+{
+"si": 260,
+"ei": 9,
+"src": "And I wish there were more people around here."
+},
+{
+"si": 260,
+"ei": 10,
+"src": "But it's important that someone takes care of the Kraken. So I'll just stay here."
+},
+{
+"si": 260,
+"ei": 11,
+"src": "I'm alright. Don't worry. But thanks for asking."
+},
+{
+"si": 260,
+"ei": 12,
+"src": "About your Fleshkraken..."
+},
+{
+"si": 260,
+"ei": 13,
+"src": "It's not mine. Look, you can talk to him, if you want."
+},
+{
+"si": 260,
+"ei": 14,
+"src": "He's a bit moody these days."
+},
+{
+"si": 260,
+"ei": 15,
+"src": "The Kraken needs friends."
+},
+{
+"si": 260,
+"ei": 16,
+"src": "You think? I mean, he's stuck here. I suppose he might like to have someone to talk to other than me."
+},
+{
+"si": 260,
+"ei": 17,
+"src": "He can't get out?"
+},
+{
+"si": 260,
+"ei": 18,
+"src": "No, and I don't know how they got him in there in the first place. I just... I just take care of him."
+},
+{
+"si": 260,
+"ei": 19,
+"src": "Do you know of other beings that are similar to him?"
+},
+{
+"si": 260,
+"ei": 20,
+"src": "I heard rumours. About an eye as big as a house. And mountains of flesh. But I don't know where they are."
+},
+{
+"si": 260,
+"ei": 21,
+"src": "Maybe you could ask around Tauris. It's to the east of here."
+},
+{
+"si": 260,
+"ei": 22,
+"src": "I would, if I had any weapon."
+},
+{
+"si": 260,
+"ei": 23,
+"src": "Oh shit!"
+},
+{
+"si": 260,
+"ei": 24,
+"src": "Yes."
+},
+{
+"si": 260,
+"ei": 25,
+"src": "No."
+},
+{
+"si": 260,
+"ei": 26,
+"src": "Phew. I'm glad. I won't hurt you either. I just care for the Fleshkraken."
+},
+{
+"si": 260,
+"ei": 27,
+"src": "I came from back there. The facility."
+},
+{
+"si": 260,
+"ei": 28,
+"src": "You came through the door? That's working?"
+},
+{
+"si": 260,
+"ei": 29,
+"src": "Apparently. You know about the machines down there?"
+},
+{
+"si": 260,
+"ei": 30,
+"src": "No. Didn't know there were any."
+},
+{
+"si": 260,
+"ei": 31,
+"src": "You can stay here if you want. I don't mind."
+},
+{
+"si": 260,
+"ei": 32,
+"src": "Go away. Leave me, you bastard."
+},
+{
+"si": 262,
+"ei": 0,
+"src": "The Flesh Nexus is calling you."
+},
+{
+"si": 262,
+"ei": 1,
+"src": "[Try to answer.]"
+},
+{
+"si": 262,
+"ei": 2,
+"src": "You try to reach out, but no one reacts to you."
+},
+{
+"si": 262,
+"ei": 3,
+"src": "You reach out, and there is something or someone reacting to you."
+},
+{
+"si": 262,
+"ei": 4,
+"src": "The sensation increases, and now you feel a thousand eyes fixed on you."
+},
+{
+"si": 262,
+"ei": 5,
+"src": "You try to speak, but have no voice."
+},
+{
+"si": 262,
+"ei": 6,
+"src": "The moment passes, and you feel the presence vanishing again."
+},
+{
+"si": 262,
+"ei": 7,
+"src": "You reach out and the Flesh Nexus is aware of you."
+},
+{
+"si": 262,
+"ei": 8,
+"src": "You let the flesh enter your mind."
+},
+{
+"si": 262,
+"ei": 9,
+"src": "The Nexus emits a warm feeling towards you, but remains silent."
+},
+{
+"si": 264,
+"ei": 0,
+"src": "*hiss*"
+},
+{
+"si": 264,
+"ei": 1,
+"src": "Blergh."
+},
+{
+"si": 264,
+"ei": 2,
+"src": "Grrr."
+},
+{
+"si": 264,
+"ei": 3,
+"src": "Kchr."
+},
+{
+"si": 266,
+"ei": 0,
+"src": "[Emits electronic noise.]"
+},
+{
+"si": 266,
+"ei": 1,
+"src": "*beep*"
+},
+{
+"si": 266,
+"ei": 2,
+"src": "*bzzzt*"
+},
+{
+"si": 268,
+"ei": 0,
+"src": "HOSTILE INTRUDER DETECTED."
+},
+{
+"si": 268,
+"ei": 1,
+"src": "BEGIN ELIMINATING INTRUDER."
+},
+{
+"si": 270,
+"ei": 0,
+"src": "You are standing in the light of the Mother. It would be appropriate to approach her Temple with reverence."
+},
+{
+"si": 270,
+"ei": 1,
+"src": "She might not be your mother, but she's a mother thousandfold. Show some respect."
+},
+{
+"si": 270,
+"ei": 2,
+"src": "Who's that mother exactly?"
+},
+{
+"si": 270,
+"ei": 3,
+"src": "She's the mother of the city. I think she's always been here. Might even be friends with the Collectors."
+},
+{
+"si": 270,
+"ei": 4,
+"src": "Mother is biding her time beneath us. She's all-seeing, all-caring. It's her call that we are hearing and that we have to follow through."
+},
+{
+"si": 270,
+"ei": 5,
+"src": "How do I get into the Temple?"
+},
+{
+"si": 270,
+"ei": 6,
+"src": "I don't know. I am not sure that I would want to. It's Mother's realm and should be respected."
+},
+{
+"si": 272,
+"ei": 0,
+"src": "Hello."
+},
+{
+"si": 274,
+"ei": 0,
+"src": "Begin processing..."
+},
+{
+"si": 274,
+"ei": 1,
+"src": "Human repurposition initiated."
+},
+{
+"si": 276,
+"ei": 0,
+"src": "Looks reclusive."
+},
+{
+"si": 278,
+"ei": 0,
+"src": "It's completely broken."
+},
+{
+"si": 278,
+"ei": 1,
+"src": "Nothing usable about it."
+},
+{
+"si": 280,
+"ei": 0,
+"src": "This machine is running."
+},
+{
+"si": 280,
+"ei": 1,
+"src": "[Remove Machine Core.]"
+},
+{
+"si": 280,
+"ei": 2,
+"src": "Alright. Done."
+},
+{
+"si": 280,
+"ei": 3,
+"src": "This machine is missing a Machine Core."
+},
+{
+"si": 280,
+"ei": 4,
+"src": "[Insert Machine Core.]"
+},
+{
+"si": 280,
+"ei": 5,
+"src": "Alright. Done."
+},
+{
+"si": 282,
+"ei": 0,
+"src": "This machine is actually running."
+},
+{
+"si": 282,
+"ei": 1,
+"src": "Some parts inside must have dislodged."
+},
+{
+"si": 282,
+"ei": 2,
+"src": "[Kick it.]"
+},
+{
+"si": 282,
+"ei": 3,
+"src": "*Kick*"
+},
+{
+"si": 282,
+"ei": 4,
+"src": "Much better."
+},
+{
+"si": 282,
+"ei": 5,
+"src": "Now everything is fine again."
+},
+{
+"si": 284,
+"ei": 0,
+"src": "Let's see..."
+},
+{
+"si": 284,
+"ei": 1,
+"src": "Ah."
+},
+{
+"si": 284,
+"ei": 2,
+"src": "Here it is."
+},
+{
+"si": 284,
+"ei": 3,
+"src": "I've collected the worm. Nothing else to do here."
+},
+{
+"si": 286,
+"ei": 0,
+"src": "Let's meet at the Quarry."
+},
+{
+"si": 286,
+"ei": 1,
+"src": "Is this a food store?"
+},
+{
+"si": 286,
+"ei": 2,
+"src": "A food store? It's a banquet. It's my delightsome haute cuisine. From derinded and dry-aged to garnished with lard, to dulcified even."
+},
+{
+"si": 286,
+"ei": 3,
+"src": "It's here where I correspond with my meals. Better said, I nourish myself by pondering about all the possible meals I could be having."
+},
+{
+"si": 286,
+"ei": 4,
+"src": "Ahhh, how I long for a fresh set of giblets, savory and delicious."
+},
+{
+"si": 286,
+"ei": 5,
+"src": "{She smacks her lips.}"
+},
+{
+"si": 286,
+"ei": 6,
+"src": "But, full disclosure and everything, I also sell meat. Yes."
+},
+{
+"si": 286,
+"ei": 7,
+"src": "What is up with that worm in the pen?"
+},
+{
+"si": 286,
+"ei": 8,
+"src": "I caught it to process it. To get something savory from it."
+},
+{
+"si": 286,
+"ei": 9,
+"src": "Or rather, Marcia caught it and was smart enough to sell it to me. She knows I have a rather advanced palate."
+},
+{
+"si": 286,
+"ei": 10,
+"src": "The problem is that I am unsure how to prepare this animal."
+},
+{
+"si": 286,
+"ei": 11,
+"src": "It has a rather slimy underside, which I adore, but its muscular back looks tasty, too."
+},
+{
+"si": 286,
+"ei": 12,
+"src": "I could keep it alive for that occasional smear of fat."
+},
+{
+"si": 286,
+"ei": 13,
+"src": "Maybe the animal is too wild though. Maybe I should just butcher it to get my fix of filet."
+},
+{
+"si": 286,
+"ei": 14,
+"src": "Isn't that the hardest thing in the world, making decisions like that?"
+},
+{
+"si": 286,
+"ei": 15,
+"src": "I could help you making a decision about that animal."
+},
+{
+"si": 286,
+"ei": 16,
+"src": "Are you sure you are up for it?"
+},
+{
+"si": 286,
+"ei": 17,
+"src": "I am a connoisseur of all things relating to taste."
+},
+{
+"si": 286,
+"ei": 18,
+"src": "Uhm. It's rather irregular for me to depend on someone else."
+},
+{
+"si": 286,
+"ei": 19,
+"src": "But I guess it's worth a try."
+},
+{
+"si": 286,
+"ei": 20,
+"src": "Ah, doesn't it exude something, I don't know, ripe and aromatic?"
+},
+{
+"si": 286,
+"ei": 21,
+"src": "Please take a look."
+},
+{
+"si": 286,
+"ei": 22,
+"src": "Here. Let me open the door."
+},
+{
+"si": 286,
+"ei": 23,
+"src": "I think you should set the animal free."
+},
+{
+"si": 286,
+"ei": 24,
+"src": "What? Why?"
+},
+{
+"si": 286,
+"ei": 25,
+"src": "I have examined the worm. It's under a lot of stress."
+},
+{
+"si": 286,
+"ei": 26,
+"src": "I don't think it would give you some tender meat anyway."
+},
+{
+"si": 286,
+"ei": 27,
+"src": "{Looks towards the worm, pondering.}"
+},
+{
+"si": 286,
+"ei": 28,
+"src": "I don't know."
+},
+{
+"si": 286,
+"ei": 29,
+"src": "And the worm looks kinda old."
+},
+{
+"si": 286,
+"ei": 30,
+"src": "Wouldn't it be better to be known for only the best and freshest stuff?"
+},
+{
+"si": 286,
+"ei": 31,
+"src": "I mean, as a connoisseur."
+},
+{
+"si": 286,
+"ei": 32,
+"src": "Yeah, that might be true."
+},
+{
+"si": 286,
+"ei": 33,
+"src": "Now that you mention it, the animal looks kinda old. And frightened."
+},
+{
+"si": 286,
+"ei": 34,
+"src": "Not exactly ideal circumstances."
+},
+{
+"si": 286,
+"ei": 35,
+"src": "Alright. I'll set it free soon. I appreciate your opinion."
+},
+{
+"si": 286,
+"ei": 36,
+"src": "Thank you."
+},
+{
+"si": 286,
+"ei": 37,
+"src": "I have pacified that animal."
+},
+{
+"si": 286,
+"ei": 38,
+"src": "Pacified? Like tamed? For what?"
+},
+{
+"si": 286,
+"ei": 39,
+"src": "Ah, wait. You mean I should keep it alive for that slimy underside?"
+},
+{
+"si": 286,
+"ei": 40,
+"src": "I guess."
+},
+{
+"si": 286,
+"ei": 41,
+"src": "Let me take a look."
+},
+{
+"si": 286,
+"ei": 42,
+"src": "Uhm. Where's the animal?"
+},
+{
+"si": 286,
+"ei": 43,
+"src": "Hmmh."
+},
+{
+"si": 286,
+"ei": 44,
+"src": "Yum. Look at this fine fatty underbelly."
+},
+{
+"si": 286,
+"ei": 45,
+"src": "{There's a smear of the fatty substance on her lips.}"
+},
+{
+"si": 286,
+"ei": 46,
+"src": "Yes. YES. This will do."
+},
+{
+"si": 286,
+"ei": 47,
+"src": "I killed that worm for you."
+},
+{
+"si": 286,
+"ei": 48,
+"src": "What? You can't just kill a delicacy like that."
+},
+{
+"si": 286,
+"ei": 49,
+"src": "If we want its meat, we have to carefully gut and bone it for its most precious parts."
+},
+{
+"si": 286,
+"ei": 50,
+"src": "These parts here seem fine to me."
+},
+{
+"si": 286,
+"ei": 51,
+"src": "Give them to me."
+},
+{
+"si": 286,
+"ei": 52,
+"src": "Aha. Yes, indeed. They look fine."
+},
+{
+"si": 286,
+"ei": 53,
+"src": "Yum."
+},
+{
+"si": 286,
+"ei": 54,
+"src": "{She rubs her stomach.}"
+},
+{
+"si": 286,
+"ei": 55,
+"src": "Do you know anything about this Titan Support System?"
+},
+{
+"si": 286,
+"ei": 56,
+"src": "Is that the thing regulating the Titan's metabolism?"
+},
+{
+"si": 286,
+"ei": 57,
+"src": "I guess so. Looks like it needs a new filter."
+},
+{
+"si": 286,
+"ei": 58,
+"src": "Oof. I'm no help with any mechanical task. Sorry."
+},
+{
+"si": 286,
+"ei": 59,
+"src": "Do you know where I could get a new filter?"
+},
+{
+"si": 286,
+"ei": 60,
+"src": "I don't know that either. Sorry."
+},
+{
+"si": 286,
+"ei": 61,
+"src": "About that exquisite taste I am looking for..."
+},
+{
+"si": 286,
+"ei": 62,
+"src": "Yes. It's right in front of us, potentially. Morrowmeat, the suffering Titan."
+},
+{
+"si": 286,
+"ei": 63,
+"src": "I think I got it already."
+},
+{
+"si": 286,
+"ei": 64,
+"src": "Well done, well done."
+},
+{
+"si": 286,
+"ei": 65,
+"src": "Could I have a piece of that?"
+},
+{
+"si": 286,
+"ei": 66,
+"src": "No."
+},
+{
+"si": 286,
+"ei": 67,
+"src": "I see. If you need something else, find me over at my old place."
+},
+{
+"si": 286,
+"ei": 68,
+"src": "So I just grab a bite from him?"
+},
+{
+"si": 286,
+"ei": 69,
+"src": "No. Not yet. Not like that."
+},
+{
+"si": 286,
+"ei": 70,
+"src": "He used to provide the most savory and tender raw meat this side of the City walls."
+},
+{
+"si": 286,
+"ei": 71,
+"src": "But over time, right from when he was alone here, without Mother, he began descending into an abyss of personal darkness."
+},
+{
+"si": 286,
+"ei": 72,
+"src": "Can't help that people are using his flesh as their day-to-day meat."
+},
+{
+"si": 286,
+"ei": 73,
+"src": "Titan fast-food. Disgusting."
+},
+{
+"si": 286,
+"ei": 74,
+"src": "You should find a way to make his living more comfortable."
+},
+{
+"si": 286,
+"ei": 75,
+"src": "That's the best way to extract the most exquisite taste experiences: Making sure the raw materials are well-cared for."
+},
+{
+"si": 286,
+"ei": 76,
+"src": "How do I do this?"
+},
+{
+"si": 286,
+"ei": 77,
+"src": "I don't know. Examine him. Talk to the guardians."
+},
+{
+"si": 286,
+"ei": 78,
+"src": "I've personally given up on him returning from that abyss."
+},
+{
+"si": 286,
+"ei": 79,
+"src": "But I know we would have the most exquisite piece of meat one could think of: Savored meat of a saved Titan."
+},
+{
+"si": 286,
+"ei": 80,
+"src": "Wait. What is that? Morrowmeat looks different."
+},
+{
+"si": 286,
+"ei": 81,
+"src": "He was really miserable the last time I saw him."
+},
+{
+"si": 286,
+"ei": 82,
+"src": "Now he's showing a vibrance, a joie de vivre even."
+},
+{
+"si": 286,
+"ei": 83,
+"src": "Although I could be mistaken in that regard. His flesh is glistening so much."
+}
+]

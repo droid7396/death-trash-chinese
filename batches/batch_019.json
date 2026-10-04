@@ -1,0 +1,1437 @@
+[
+{
+"si": 569,
+"ei": 4,
+"src": "Not that it matters. Sometimes I think no one cares about anything anymore, for good or bad."
+},
+{
+"si": 569,
+"ei": 5,
+"src": "[Shrug.]"
+},
+{
+"si": 569,
+"ei": 6,
+"src": "Hmmh."
+},
+{
+"si": 569,
+"ei": 7,
+"src": "Please leave me alone."
+},
+{
+"si": 569,
+"ei": 8,
+"src": "I care."
+},
+{
+"si": 569,
+"ei": 9,
+"src": "That's nice to hear."
+},
+{
+"si": 569,
+"ei": 10,
+"src": "Everyone else has become indifferent. Even the machines."
+},
+{
+"si": 569,
+"ei": 11,
+"src": "I heard they were much friendlier and caring back then."
+},
+{
+"si": 571,
+"ei": 0,
+"src": "*kchhhrrrr*"
+},
+{
+"si": 571,
+"ei": 1,
+"src": "*krrrrrr*"
+},
+{
+"si": 573,
+"ei": 0,
+"src": "Take care. Keep a low profile, right?"
+},
+{
+"si": 573,
+"ei": 1,
+"src": "Oh. You're fresh, right?"
+},
+{
+"si": 573,
+"ei": 2,
+"src": "I guess I'm kinda fresh."
+},
+{
+"si": 573,
+"ei": 3,
+"src": "Want some advice? Don't hang out with the wrong people."
+},
+{
+"si": 573,
+"ei": 4,
+"src": "Who's that?"
+},
+{
+"si": 573,
+"ei": 5,
+"src": "Them fleshies and them flesh people. Can't trust them."
+},
+{
+"si": 573,
+"ei": 6,
+"src": "I'm looking for a fleshy friend, actually."
+},
+{
+"si": 573,
+"ei": 8,
+"src": "For real?"
+},
+{
+"si": 573,
+"ei": 9,
+"src": "Yes."
+},
+{
+"si": 573,
+"ei": 10,
+"src": "Why would you want to be a friend to some of them monsters?"
+},
+{
+"si": 573,
+"ei": 11,
+"src": "I'm already a friend. I'm looking for MORE friends for the Kraken."
+},
+{
+"si": 573,
+"ei": 13,
+"src": "Fuck."
+},
+{
+"si": 573,
+"ei": 14,
+"src": "You're either a pervert or just messing with me."
+},
+{
+"si": 573,
+"ei": 15,
+"src": "I don't wanna be friends with one of them. Please leave me alone."
+},
+{
+"si": 573,
+"ei": 16,
+"src": "Why can't I trust the fleshies?"
+},
+{
+"si": 573,
+"ei": 17,
+"src": "They're gonna kill you. Hack you up, and then build a new Titan with your arms and liver and blood."
+},
+{
+"si": 573,
+"ei": 18,
+"src": "They're building new Titans from body parts?"
+},
+{
+"si": 573,
+"ei": 19,
+"src": "Yes."
+},
+{
+"si": 573,
+"ei": 20,
+"src": "You saw that yourself or heard that somewhere?"
+},
+{
+"si": 573,
+"ei": 21,
+"src": "Didn't see it with my own eyes. But it makes sense, right?"
+},
+{
+"si": 573,
+"ei": 22,
+"src": "No, it doesn't."
+},
+{
+"si": 573,
+"ei": 23,
+"src": "Ha! You're just afraid to see the truth for what it is."
+},
+{
+"si": 573,
+"ei": 24,
+"src": "You'll remember this when the fleshies catch you."
+},
+{
+"si": 573,
+"ei": 25,
+"src": "I guess it could."
+},
+{
+"si": 573,
+"ei": 26,
+"src": "See?"
+},
+{
+"si": 573,
+"ei": 27,
+"src": "Be careful out there. Don't let the fleshies catch you."
+},
+{
+"si": 575,
+"ei": 0,
+"src": "Shebzu, the Seducer."
+},
+{
+"si": 577,
+"ei": 0,
+"src": "The Sleeper rests in quietude and peace."
+},
+{
+"si": 577,
+"ei": 1,
+"src": "[Listen to the Sleeper.]"
+},
+{
+"si": 577,
+"ei": 2,
+"src": "[Pray in silence.]"
+},
+{
+"si": 577,
+"ei": 3,
+"src": "An image is formed in your mind. Of a time long gone. Of violence, now forgotten."
+},
+{
+"si": 577,
+"ei": 4,
+"src": "An image of mountains and blood. Of a journey that is history but might come again."
+},
+{
+"si": 579,
+"ei": 0,
+"src": "*sleeping*"
+},
+{
+"si": 581,
+"ei": 0,
+"src": "Flesh?"
+},
+{
+"si": 581,
+"ei": 1,
+"src": "Looks like it's alive."
+},
+{
+"si": 581,
+"ei": 2,
+"src": "Makes me feel a bit nauseous around here."
+},
+{
+"si": 583,
+"ei": 0,
+"src": "Welcome, former citizen."
+},
+{
+"si": 583,
+"ei": 1,
+"src": "We have talked about your status already."
+},
+{
+"si": 583,
+"ei": 2,
+"src": "We encourage you now to follow the Surface Integration Course."
+},
+{
+"si": 583,
+"ei": 3,
+"src": "But you're free to leave any time you want."
+},
+{
+"si": 583,
+"ei": 4,
+"src": "I want to leave now."
+},
+{
+"si": 583,
+"ei": 5,
+"src": "Alright. Just follow the small corridor to Section Two."
+},
+{
+"si": 583,
+"ei": 6,
+"src": "Goodbye."
+},
+{
+"si": 583,
+"ei": 7,
+"src": "I'll take that course."
+},
+{
+"si": 583,
+"ei": 8,
+"src": "Alright. Just continue towards Section One then."
+},
+{
+"si": 583,
+"ei": 9,
+"src": "It looks like the operation has been successful."
+},
+{
+"si": 583,
+"ei": 10,
+"src": "Do you remember who you are?"
+},
+{
+"si": 583,
+"ei": 11,
+"src": "Yes, I do."
+},
+{
+"si": 583,
+"ei": 12,
+"src": "That is fortunate."
+},
+{
+"si": 583,
+"ei": 13,
+"src": "We still take interest in your well-being."
+},
+{
+"si": 583,
+"ei": 14,
+"src": "However, you have to leave us now. The danger of a possible contamination cannot be ignored."
+},
+{
+"si": 583,
+"ei": 15,
+"src": "Please don't try to return to your old habitat. We have put security measures in place to prevent this."
+},
+{
+"si": 583,
+"ei": 16,
+"src": "So what happens to me now? Where should I go?"
+},
+{
+"si": 583,
+"ei": 17,
+"src": "This is not for us to answer. You're free to go anywhere, as long as you don't try to enter a habitat."
+},
+{
+"si": 583,
+"ei": 18,
+"src": "Here is all relevant info for you in written form in case you forget."
+},
+{
+"si": 583,
+"ei": 19,
+"src": "What security measures?"
+},
+{
+"si": 583,
+"ei": 20,
+"src": "Your body will malfunction permanently when nearing one of our habitats."
+},
+{
+"si": 585,
+"ei": 0,
+"src": "The Surface Integration Course is standard procedure to teach you basic survival skills."
+},
+{
+"si": 585,
+"ei": 1,
+"src": "Please take caution."
+},
+{
+"si": 585,
+"ei": 2,
+"src": "The course disables safety limits to better prepare you for the world outside."
+},
+{
+"si": 585,
+"ei": 3,
+"src": "Good luck, former citizen, and goodbye."
+},
+{
+"si": 587,
+"ei": 0,
+"src": "Please leave this corridor immediately."
+},
+{
+"si": 587,
+"ei": 1,
+"src": "Your life will be terminated if you enter the prohibited zone."
+},
+{
+"si": 589,
+"ei": 0,
+"src": "Looks like a shrine."
+},
+{
+"si": 591,
+"ei": 0,
+"src": "It's a hammer, I guess."
+},
+{
+"si": 593,
+"ei": 0,
+"src": "This competition I got running. You gonna help me?"
+},
+{
+"si": 593,
+"ei": 1,
+"src": "I won't help you cheat."
+},
+{
+"si": 593,
+"ei": 2,
+"src": "Sucker."
+},
+{
+"si": 593,
+"ei": 3,
+"src": "Sounds like fun. What do you need?"
+},
+{
+"si": 593,
+"ei": 4,
+"src": "There's a lot of that pink glibber stuff in the Red Forest to the south of here."
+},
+{
+"si": 593,
+"ei": 5,
+"src": "It's gross. Never could stomach even looking at it."
+},
+{
+"si": 593,
+"ei": 6,
+"src": "It's gotta do something to my innards, right?"
+},
+{
+"si": 593,
+"ei": 7,
+"src": "Alright. I'll get it for you."
+},
+{
+"si": 593,
+"ei": 8,
+"src": "What's the competition?"
+},
+{
+"si": 593,
+"ei": 9,
+"src": "It's about which of us can puke most."
+},
+{
+"si": 593,
+"ei": 10,
+"src": "I heard she's practicing a lot for this."
+},
+{
+"si": 593,
+"ei": 11,
+"src": "I don't wanna lose this time."
+},
+{
+"si": 593,
+"ei": 12,
+"src": "So, you in?"
+},
+{
+"si": 593,
+"ei": 13,
+"src": "I still need that glibber."
+},
+{
+"si": 593,
+"ei": 14,
+"src": "Gross stuff."
+},
+{
+"si": 593,
+"ei": 15,
+"src": "Ah, you brought me the stuff."
+},
+{
+"si": 593,
+"ei": 16,
+"src": "Gross."
+},
+{
+"si": 593,
+"ei": 17,
+"src": "...and down with it."
+},
+{
+"si": 593,
+"ei": 18,
+"src": "Thanks to you I could win that bet."
+},
+{
+"si": 593,
+"ei": 19,
+"src": "I'll never do that again."
+},
+{
+"si": 593,
+"ei": 20,
+"src": "Hey, you! Do you think I can win?"
+},
+{
+"si": 593,
+"ei": 21,
+"src": "Win what?"
+},
+{
+"si": 593,
+"ei": 22,
+"src": "Our competition."
+},
+{
+"si": 593,
+"ei": 23,
+"src": "I need to win it."
+},
+{
+"si": 593,
+"ei": 24,
+"src": "I just don't know if I can."
+},
+{
+"si": 593,
+"ei": 25,
+"src": "Maybe you can help me?"
+},
+{
+"si": 593,
+"ei": 26,
+"src": "Hey! You're not trying to cheat here, are you?"
+},
+{
+"si": 593,
+"ei": 27,
+"src": "As if."
+},
+{
+"si": 593,
+"ei": 28,
+"src": "What's this person doing here then?"
+},
+{
+"si": 593,
+"ei": 29,
+"src": "Uhm..."
+},
+{
+"si": 593,
+"ei": 30,
+"src": "Giving spiritual advice."
+},
+{
+"si": 593,
+"ei": 31,
+"src": "I see."
+},
+{
+"si": 593,
+"ei": 32,
+"src": "Take all the advice you can. You'll still lose."
+},
+{
+"si": 593,
+"ei": 33,
+"src": "Ok. So I need your help to win this."
+},
+{
+"si": 593,
+"ei": 34,
+"src": "You in?"
+},
+{
+"si": 593,
+"ei": 35,
+"src": "Don't interrupt me."
+},
+{
+"si": 593,
+"ei": 36,
+"src": "Something big is coming up."
+},
+{
+"si": 593,
+"ei": 37,
+"src": "I can feel it."
+},
+{
+"si": 593,
+"ei": 38,
+"src": "I'm getting there."
+},
+{
+"si": 595,
+"ei": 0,
+"src": "My friend over there. Isn't he the cutest?"
+},
+{
+"si": 595,
+"ei": 1,
+"src": "If you say so."
+},
+{
+"si": 595,
+"ei": 2,
+"src": "He's just a bit insecure."
+},
+{
+"si": 595,
+"ei": 3,
+"src": "Look at him, how hard he's trying."
+},
+{
+"si": 595,
+"ei": 4,
+"src": "Just wait until he defeats you."
+},
+{
+"si": 595,
+"ei": 5,
+"src": "Oh, I don't plan on winning."
+},
+{
+"si": 595,
+"ei": 6,
+"src": "I just want him to feel good."
+},
+{
+"si": 595,
+"ei": 7,
+"src": "He needs that win."
+},
+{
+"si": 595,
+"ei": 8,
+"src": "Weren't you taunting him?"
+},
+{
+"si": 595,
+"ei": 9,
+"src": "Of course. He can't know I'm helping."
+},
+{
+"si": 595,
+"ei": 10,
+"src": "He asked me to help him cheat."
+},
+{
+"si": 595,
+"ei": 11,
+"src": "And? Will you help him?"
+},
+{
+"si": 595,
+"ei": 12,
+"src": "Yes."
+},
+{
+"si": 595,
+"ei": 13,
+"src": "Marvellous. I'm sure that winning will build him up a bit."
+},
+{
+"si": 595,
+"ei": 14,
+"src": "He won. By his own rules at least."
+},
+{
+"si": 595,
+"ei": 15,
+"src": "Can you see how confident he looks now?"
+},
+{
+"si": 595,
+"ei": 16,
+"src": "You did well."
+},
+{
+"si": 597,
+"ei": 0,
+"src": "There's some crusty puke on it."
+},
+{
+"si": 599,
+"ei": 0,
+"src": "The last patient who slept on this bed clearly had bladder problems."
+},
+{
+"si": 601,
+"ei": 0,
+"src": "Ok. I'm ready. Come here."
+},
+{
+"si": 601,
+"ei": 1,
+"src": "You sure? You're not gonna cry when you lose, right?"
+},
+{
+"si": 601,
+"ei": 2,
+"src": "I won't lose."
+},
+{
+"si": 601,
+"ei": 3,
+"src": "Not bad, not bad. But look at this."
+},
+{
+"si": 601,
+"ei": 4,
+"src": "About the same as mine, but that was just warm up. Here's the real deal."
+},
+{
+"si": 601,
+"ei": 5,
+"src": "That's a lot. And why is there some pink stuff in it?"
+},
+{
+"si": 601,
+"ei": 6,
+"src": "Anyway."
+},
+{
+"si": 601,
+"ei": 7,
+"src": "That's nowhere near enough. look at this."
+},
+{
+"si": 601,
+"ei": 8,
+"src": "I can't anymore. I give up."
+},
+{
+"si": 601,
+"ei": 9,
+"src": "Really?"
+},
+{
+"si": 601,
+"ei": 10,
+"src": "Yes."
+},
+{
+"si": 601,
+"ei": 11,
+"src": "Does this mean I won?"
+},
+{
+"si": 601,
+"ei": 12,
+"src": "Congratulations."
+},
+{
+"si": 601,
+"ei": 13,
+"src": "Finally. I'm so happy, I could just..."
+},
+{
+"si": 603,
+"ei": 0,
+"src": "Seems like nobody has used this bed in years. The sheets are still clean."
+},
+{
+"si": 605,
+"ei": 0,
+"src": "This must have been brought in from one of those old facilities."
+},
+{
+"si": 607,
+"ei": 0,
+"src": "Intruder!"
+},
+{
+"si": 607,
+"ei": 1,
+"src": "You will not pass."
+},
+{
+"si": 607,
+"ei": 2,
+"src": "Who are you?"
+},
+{
+"si": 607,
+"ei": 3,
+"src": "I was a child. Now I am guardian."
+},
+{
+"si": 607,
+"ei": 4,
+"src": "Leave this place!"
+},
+{
+"si": 607,
+"ei": 5,
+"src": "[Attack the creature.]"
+},
+{
+"si": 607,
+"ei": 6,
+"src": "[Try suppressing this creature's mind.]"
+},
+{
+"si": 607,
+"ei": 7,
+"src": "You succeed in suppressing this creature's mind."
+},
+{
+"si": 607,
+"ei": 8,
+"src": "The Flesh Spikes pull back, opening the way."
+},
+{
+"si": 607,
+"ei": 9,
+"src": "{The creature stares at you with vacant eyes.}"
+},
+{
+"si": 609,
+"ei": 0,
+"src": "Command?"
+},
+{
+"si": 609,
+"ei": 1,
+"src": "List all commands."
+},
+{
+"si": 609,
+"ei": 2,
+"src": "Error. Insufficient access."
+},
+{
+"si": 609,
+"ei": 3,
+"src": "I have this recording."
+},
+{
+"si": 609,
+"ei": 4,
+"src": "Examining..."
+},
+{
+"si": 609,
+"ei": 5,
+"src": "Processing recording..."
+},
+{
+"si": 609,
+"ei": 6,
+"src": "Processing record..."
+},
+{
+"si": 609,
+"ei": 7,
+"src": "Recording processed."
+},
+{
+"si": 609,
+"ei": 8,
+"src": "Thanks."
+},
+{
+"si": 609,
+"ei": 9,
+"src": "This machine doesn't seem to be active here in this module."
+},
+{
+"si": 611,
+"ei": 0,
+"src": "This entrance is sealed."
+},
+{
+"si": 611,
+"ei": 1,
+"src": "Looks like people tried to break through or something."
+},
+{
+"si": 611,
+"ei": 2,
+"src": "They failed, I guess."
+},
+{
+"si": 613,
+"ei": 0,
+"src": "Oh, this is a large one."
+},
+{
+"si": 615,
+"ei": 0,
+"src": "Hey, there. Welcome to the Shrine of the Heart."
+},
+{
+"si": 615,
+"ei": 1,
+"src": "Feel free to look around."
+},
+{
+"si": 615,
+"ei": 2,
+"src": "The heart isn't here anymore, but we built a small garden for the worm it contained."
+},
+{
+"si": 615,
+"ei": 3,
+"src": "The worm was rescued by a great savior of our people."
+},
+{
+"si": 615,
+"ei": 4,
+"src": "It was me. The savior."
+},
+{
+"si": 615,
+"ei": 5,
+"src": "Really? Wow."
+},
+{
+"si": 615,
+"ei": 6,
+"src": "I kind of imagined you would look more heroic."
+},
+{
+"si": 615,
+"ei": 7,
+"src": "But that's not important. Thanks so much for helping us."
+},
+{
+"si": 617,
+"ei": 0,
+"src": "Welcome back. Welcome."
+},
+{
+"si": 617,
+"ei": 1,
+"src": "I'm looking for a woman."
+},
+{
+"si": 617,
+"ei": 2,
+"src": "Look for her. Look for her."
+},
+{
+"si": 617,
+"ei": 3,
+"src": "If she's here, talk to her. Talk to her."
+},
+{
+"si": 617,
+"ei": 4,
+"src": "What's going on here?"
+},
+{
+"si": 617,
+"ei": 5,
+"src": "These are our brothers and sisters. Brothers and sisters."
+},
+{
+"si": 617,
+"ei": 6,
+"src": "The Master improved them. Improved."
+},
+{
+"si": 617,
+"ei": 7,
+"src": "They are enhanced from humanity. Enhanced."
+},
+{
+"si": 617,
+"ei": 8,
+"src": "They are better. Better."
+},
+{
+"si": 617,
+"ei": 9,
+"src": "But they can barely move and talk."
+},
+{
+"si": 617,
+"ei": 10,
+"src": "And this room is so small."
+},
+{
+"si": 617,
+"ei": 11,
+"src": "They are better. Better."
+},
+{
+"si": 617,
+"ei": 12,
+"src": "They don't need room. They don't need to talk. They don't. They don't."
+},
+{
+"si": 617,
+"ei": 13,
+"src": "Master has made them better. Better."
+},
+{
+"si": 617,
+"ei": 14,
+"src": "The Master is right."
+},
+{
+"si": 617,
+"ei": 15,
+"src": "He always is. Always."
+},
+{
+"si": 617,
+"ei": 16,
+"src": "This is wrong."
+},
+{
+"si": 617,
+"ei": 17,
+"src": "You are the masters creation. Creation."
+},
+{
+"si": 617,
+"ei": 18,
+"src": "If you say so, you are right. Are right."
+},
+{
+"si": 617,
+"ei": 19,
+"src": "You should interact with the terminal over there. Over there."
+},
+{
+"si": 617,
+"ei": 20,
+"src": "Who are you? Who?"
+},
+{
+"si": 617,
+"ei": 21,
+"src": "I don't know your face. Your face."
+},
+{
+"si": 617,
+"ei": 22,
+"src": "But if you're here you're welcome. You're welcome."
+},
+{
+"si": 617,
+"ei": 23,
+"src": "Another one. Another."
+},
+{
+"si": 617,
+"ei": 24,
+"src": "How joyous. joyous."
+},
+{
+"si": 617,
+"ei": 25,
+"src": "Please join. Please."
+},
+{
+"si": 619,
+"ei": 0,
+"src": "Friend."
+},
+{
+"si": 619,
+"ei": 1,
+"src": "Search friend."
+},
+{
+"si": 619,
+"ei": 2,
+"src": "Came together."
+},
+{
+"si": 619,
+"ei": 3,
+"src": "Gone."
+},
+{
+"si": 619,
+"ei": 4,
+"src": "Help."
+},
+{
+"si": 621,
+"ei": 0,
+"src": "Tower Management Terminal."
+},
+{
+"si": 621,
+"ei": 1,
+"src": "What do you want to do?"
+},
+{
+"si": 621,
+"ei": 2,
+"src": "[Free cyborgs.]"
+},
+{
+"si": 621,
+"ei": 3,
+"src": "Freeing all cyborgs."
+},
+{
+"si": 621,
+"ei": 4,
+"src": "[Terminate all cyborgs.]"
+},
+{
+"si": 621,
+"ei": 5,
+"src": "Killing all cyborgs."
+},
+{
+"si": 623,
+"ei": 0,
+"src": "This machine is running."
+},
+{
+"si": 623,
+"ei": 1,
+"src": "[Remove Machine Core.]"
+},
+{
+"si": 623,
+"ei": 2,
+"src": "Warning: Unathorized core removal detected."
+},
+{
+"si": 623,
+"ei": 3,
+"src": "Activating high security protocol."
+},
+{
+"si": 623,
+"ei": 4,
+"src": "This machine is missing a Machine Core."
+},
+{
+"si": 623,
+"ei": 5,
+"src": "[Insert Machine Core]"
+},
+{
+"si": 623,
+"ei": 6,
+"src": "Notice: Core detected."
+},
+{
+"si": 623,
+"ei": 7,
+"src": "High security protocol deactivated."
+},
+{
+"si": 625,
+"ei": 0,
+"src": "You made it. Made it."
+},
+{
+"si": 625,
+"ei": 1,
+"src": "Not bad. Not."
+},
+{
+"si": 625,
+"ei": 2,
+"src": "The hierarch awaits you at the top. At the top."
+},
+{
+"si": 625,
+"ei": 3,
+"src": "Good luck. Luck."
+},
+{
+"si": 625,
+"ei": 4,
+"src": "I'm looking for a woman."
+},
+{
+"si": 625,
+"ei": 5,
+"src": "Many people come here. Come here."
+},
+{
+"si": 625,
+"ei": 6,
+"src": "You will have to talk to the Hierarch. Hierarch."
+},
+{
+"si": 625,
+"ei": 7,
+"src": "What is this place?"
+},
+{
+"si": 625,
+"ei": 8,
+"src": "It's the Hierarch's tower. Tower."
+},
+{
+"si": 625,
+"ei": 9,
+"src": "You should talk to him, if you want to know more. Talk to him."
+},
+{
+"si": 625,
+"ei": 10,
+"src": "The Hierarch is kind. Kind."
+},
+{
+"si": 625,
+"ei": 11,
+"src": "Why are you talking like this?"
+},
+{
+"si": 625,
+"ei": 12,
+"src": "What do you mean? You mean?"
+},
+{
+"si": 625,
+"ei": 13,
+"src": "Repeating every other sentence."
+},
+{
+"si": 625,
+"ei": 14,
+"src": "I don't understand. Understand."
+},
+{
+"si": 625,
+"ei": 15,
+"src": "I am talking normally. Normally."
+},
+{
+"si": 625,
+"ei": 16,
+"src": "I am just doing work for the Hierarch. Hierarch."
+},
+{
+"si": 625,
+"ei": 17,
+"src": "Nothing wrong. Nothing wrong."
+},
+{
+"si": 627,
+"ei": 1,
+"src": "Nothing."
+},
+{
+"si": 629,
+"ei": 0,
+"src": "Recruit!"
+},
+{
+"si": 629,
+"ei": 1,
+"src": "A new recruit approaches."
+},
+{
+"si": 629,
+"ei": 2,
+"src": "The cause is spreading well."
+},
+{
+"si": 629,
+"ei": 3,
+"src": "But an exam must be undertaken first."
+},
+{
+"si": 629,
+"ei": 4,
+"src": "Only the best are good enough to fit my army after all."
+},
+{
+"si": 631,
+"ei": 0,
+"src": "Aborting sterilization protocol."
+},
+{
+"si": 633,
+"ei": 0,
+"src": "WARNING: Intruder detected. Running sterilization protocol."
+},
+{
+"si": 633,
+"ei": 1,
+"src": "FAILURE: Room could not be quarantined due to mechanical failure."
+},
+{
+"si": 635,
+"ei": 0,
+"src": "Sterilization sequence finished."
+},
+{
+"si": 637,
+"ei": 0,
+"src": "Intruder detected. Initiating sterilization sequence."
+},
+{
+"si": 639,
+"ei": 0,
+"src": "Sterilization sequence finished."
+},
+{
+"si": 641,
+"ei": 0,
+"src": "Intruder detected. Initiating sterilization sequence."
+},
+{
+"si": 643,
+"ei": 0,
+"src": "You are back. Back."
+},
+{
+"si": 643,
+"ei": 1,
+"src": "I'm looking for a woman."
+},
+{
+"si": 643,
+"ei": 2,
+"src": "I may have seen one. Seen one."
+},
+{
+"si": 643,
+"ei": 3,
+"src": "But here I am alone. Am alone."
+},
+{
+"si": 643,
+"ei": 4,
+"src": "What is this place?"
+},
+{
+"si": 643,
+"ei": 5,
+"src": "A challenge set to you by the Hierarch."
+},
+{
+"si": 643,
+"ei": 6,
+"src": "He gathers us, to make us strong. Make us strong."
+},
+{
+"si": 643,
+"ei": 7,
+"src": "The Hierarch is great. Great."
+},
+{
+"si": 643,
+"ei": 8,
+"src": "Why are you talking like this?"
+},
+{
+"si": 643,
+"ei": 9,
+"src": "I was asked this before. Before."
+},
+{
+"si": 643,
+"ei": 10,
+"src": "What do people mean, when they ask this? Ask this."
+},
+{
+"si": 643,
+"ei": 11,
+"src": "I am talking normally. Very normally."
+},
+{
+"si": 643,
+"ei": 12,
+"src": "You survived? Survived?"
+},
+{
+"si": 643,
+"ei": 13,
+"src": "Not many do. Not many."
+},
+{
+"si": 643,
+"ei": 14,
+"src": "You must have found a way to avoid the challenge. Avoid."
+},
+{
+"si": 643,
+"ei": 15,
+"src": "This is smart. Smart."
+},
+{
+"si": 643,
+"ei": 16,
+"src": "Is it because you tried to hide from it? Hide?"
+},
+{
+"si": 643,
+"ei": 17,
+"src": "Is that the secret to your success? Success."
+},
+{
+"si": 643,
+"ei": 18,
+"src": "You have faced the challenge. The challenge."
+},
+{
+"si": 643,
+"ei": 19,
+"src": "Either with brawn or with skill. Brawn or skill."
+},
+{
+"si": 645,
+"ei": 1,
+"src": "Nothing."
+},
+{
+"si": 647,
+"ei": 0,
+"src": "Recruit!"
+},
+{
+"si": 647,
+"ei": 1,
+"src": "The first exam was passed."
+},
+{
+"si": 647,
+"ei": 2,
+"src": "Congratulations, recruit."
+},
+{
+"si": 647,
+"ei": 3,
+"src": "Surely you must now recognize the danger this technology brings to us."
+},
+{
+"si": 647,
+"ei": 4,
+"src": "But the tower has not yet been conquered."
+},
+{
+"si": 647,
+"ei": 5,
+"src": "This floor requires wits to pass."
+},
+{
+"si": 647,
+"ei": 6,
+"src": "Use your head responsibly, and you may just go unharmed."
+},
+{
+"si": 647,
+"ei": 7,
+"src": "Go on, recruit. In preparation for the cause."
+},
+{
+"si": 649,
+"ei": 0,
+"src": "Accessing Gate."
+}
+]

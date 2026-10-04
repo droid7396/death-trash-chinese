@@ -1,0 +1,1502 @@
+[
+{
+"si": 671,
+"ei": 3,
+"src": "The person who has the key, and the individuals who will lie about everything they say, will change every time you guess incorrectly."
+},
+{
+"si": 671,
+"ei": 4,
+"src": "Don't muck it up, okay?"
+},
+{
+"si": 671,
+"ei": 5,
+"src": "Hey you!"
+},
+{
+"si": 671,
+"ei": 6,
+"src": "This here is your final challenge."
+},
+{
+"si": 671,
+"ei": 7,
+"src": "To continue, you'll need a key."
+},
+{
+"si": 671,
+"ei": 8,
+"src": "One of the guards behind me has it. Try to find out who."
+},
+{
+"si": 671,
+"ei": 9,
+"src": "It might be Drun over there."
+},
+{
+"si": 671,
+"ei": 10,
+"src": "Hi."
+},
+{
+"si": 671,
+"ei": 11,
+"src": "It could also be Cluvo."
+},
+{
+"si": 671,
+"ei": 13,
+"src": "Hello."
+},
+{
+"si": 671,
+"ei": 14,
+"src": "Or one of the others."
+},
+{
+"si": 673,
+"ei": 0,
+"src": "Oh the poor failures. Poor failures."
+},
+{
+"si": 673,
+"ei": 1,
+"src": "Who did this to them? Who?"
+},
+{
+"si": 673,
+"ei": 2,
+"src": "Why did it have to die? Why?"
+},
+{
+"si": 673,
+"ei": 3,
+"src": "What failures?"
+},
+{
+"si": 673,
+"ei": 4,
+"src": "They came in from upstairs. From upstairs."
+},
+{
+"si": 673,
+"ei": 5,
+"src": "Where the Hierarch rests. The Hierarch."
+},
+{
+"si": 673,
+"ei": 6,
+"src": "And we took them in. Took them in."
+},
+{
+"si": 673,
+"ei": 7,
+"src": "But I worry. I worry."
+},
+{
+"si": 673,
+"ei": 8,
+"src": "Are they well? Well?"
+},
+{
+"si": 673,
+"ei": 9,
+"src": "You mean that cyborg, that's in pain?"
+},
+{
+"si": 673,
+"ei": 10,
+"src": "Oh no, he's in pain? He's in pain?"
+},
+{
+"si": 673,
+"ei": 11,
+"src": "We should help him. Should help him."
+},
+{
+"si": 673,
+"ei": 12,
+"src": "No."
+},
+{
+"si": 673,
+"ei": 13,
+"src": "What a pity you think that way. What a pity."
+},
+{
+"si": 673,
+"ei": 14,
+"src": "May the Hierarch forgive you. Forgive you."
+},
+{
+"si": 673,
+"ei": 15,
+"src": "You can still change your mind. Change your mind."
+},
+{
+"si": 673,
+"ei": 16,
+"src": "Of course."
+},
+{
+"si": 673,
+"ei": 17,
+"src": "Good. Good."
+},
+{
+"si": 673,
+"ei": 18,
+"src": "I think I know a way. Know a way."
+},
+{
+"si": 673,
+"ei": 19,
+"src": "But we need to gather some things for this. Some things for this."
+},
+{
+"si": 673,
+"ei": 20,
+"src": "We need some glibber, a brain and some flesh. And some flesh."
+},
+{
+"si": 673,
+"ei": 21,
+"src": "I am sure you will find everything you need on this floor. On this floor."
+},
+{
+"si": 673,
+"ei": 22,
+"src": "You mean those in the small room?"
+},
+{
+"si": 673,
+"ei": 23,
+"src": "You know them? Know them?"
+},
+{
+"si": 673,
+"ei": 24,
+"src": "I talked with one of them."
+},
+{
+"si": 673,
+"ei": 25,
+"src": "He's in pain."
+},
+{
+"si": 673,
+"ei": 26,
+"src": "That's not good. Not good."
+},
+{
+"si": 673,
+"ei": 27,
+"src": "We need to help. Need to help."
+},
+{
+"si": 673,
+"ei": 28,
+"src": "Did you give him the pain reliever yet? Give him the pain reliever?"
+},
+{
+"si": 673,
+"ei": 29,
+"src": "Please hurry. Hurry."
+},
+{
+"si": 673,
+"ei": 30,
+"src": "We need the ingredients for a pain reliever. Pain reliever."
+},
+{
+"si": 673,
+"ei": 31,
+"src": "Please hurry. Hurry."
+},
+{
+"si": 673,
+"ei": 32,
+"src": "You are back. Back."
+},
+{
+"si": 673,
+"ei": 33,
+"src": "Do you have everything we need? Everything we need?"
+},
+{
+"si": 673,
+"ei": 34,
+"src": "Not yet."
+},
+{
+"si": 673,
+"ei": 35,
+"src": "Then please, hurry and get it. Hurry."
+},
+{
+"si": 673,
+"ei": 36,
+"src": "Yes."
+},
+{
+"si": 673,
+"ei": 37,
+"src": "Good. Good."
+},
+{
+"si": 673,
+"ei": 38,
+"src": "It's done. Done."
+},
+{
+"si": 673,
+"ei": 39,
+"src": "Please give this to the cyborg. The cyborg."
+},
+{
+"si": 673,
+"ei": 40,
+"src": "He will feel better. Feel better."
+},
+{
+"si": 673,
+"ei": 41,
+"src": "[Give weird meat.]"
+},
+{
+"si": 673,
+"ei": 42,
+"src": "[Give normal meat.]"
+},
+{
+"si": 673,
+"ei": 43,
+"src": "It did not help. Not help."
+},
+{
+"si": 673,
+"ei": 44,
+"src": "Why? Why?"
+},
+{
+"si": 673,
+"ei": 45,
+"src": "Was one of the ingredients wrong? Ingredients wrong?"
+},
+{
+"si": 673,
+"ei": 46,
+"src": "You did well to help the failures. The failures."
+},
+{
+"si": 673,
+"ei": 47,
+"src": "The Hierarch will be very grateful. Very grateful."
+},
+{
+"si": 675,
+"ei": 0,
+"src": "Please don't interrupt us. Interrupt us."
+},
+{
+"si": 675,
+"ei": 1,
+"src": "We are analyzing this robot. This robot."
+},
+{
+"si": 675,
+"ei": 2,
+"src": "I'm looking for pain reliever ingredients."
+},
+{
+"si": 675,
+"ei": 3,
+"src": "I don't care. Don't care."
+},
+{
+"si": 675,
+"ei": 4,
+"src": "I'm working. Working."
+},
+{
+"si": 675,
+"ei": 5,
+"src": "Whatever. Whatever."
+},
+{
+"si": 675,
+"ei": 6,
+"src": "Will you shut up, if I give you this? Will you?"
+},
+{
+"si": 677,
+"ei": 0,
+"src": "How about this? How about this?"
+},
+{
+"si": 677,
+"ei": 1,
+"src": "We pull the shell from both sides. From both sides."
+},
+{
+"si": 677,
+"ei": 2,
+"src": "We will expose the sensors much more easily. Much more easily."
+},
+{
+"si": 677,
+"ei": 3,
+"src": "We already tried that. Tried that."
+},
+{
+"si": 677,
+"ei": 4,
+"src": "But we need some much heavier machinery for this. For this."
+},
+{
+"si": 677,
+"ei": 5,
+"src": "I have an idea. An idea."
+},
+{
+"si": 677,
+"ei": 6,
+"src": "What is it? What?"
+},
+{
+"si": 677,
+"ei": 7,
+"src": "We take its levitation module. Levitation module."
+},
+{
+"si": 677,
+"ei": 8,
+"src": "And attach it to a human torso. Human torso."
+},
+{
+"si": 677,
+"ei": 9,
+"src": "We can make people without legs fly. People without legs fly."
+},
+{
+"si": 677,
+"ei": 10,
+"src": "Did you already forget what happened last time we tried that? Last time we tried that?"
+},
+{
+"si": 677,
+"ei": 11,
+"src": "Do you think you could get me the thermal unwelder? Thermal unwelder?"
+},
+{
+"si": 677,
+"ei": 12,
+"src": "Sure. Sure."
+},
+{
+"si": 677,
+"ei": 13,
+"src": "Here. Here."
+},
+{
+"si": 677,
+"ei": 14,
+"src": "Thank you. Thank you."
+},
+{
+"si": 679,
+"ei": 0,
+"src": "Look at this. Look."
+},
+{
+"si": 679,
+"ei": 1,
+"src": "Truly intricate. Intricate."
+},
+{
+"si": 679,
+"ei": 2,
+"src": "Interesting. Interesting."
+},
+{
+"si": 679,
+"ei": 3,
+"src": "So many parts. So many."
+},
+{
+"si": 679,
+"ei": 4,
+"src": "Do you see this? See this?"
+},
+{
+"si": 681,
+"ei": 0,
+"src": "A levitating robot."
+},
+{
+"si": 681,
+"ei": 1,
+"src": "The hatch on its back is open, revealing all the wiring and mechanics inside."
+},
+{
+"si": 681,
+"ei": 2,
+"src": "*bzzzzt"
+},
+{
+"si": 681,
+"ei": 3,
+"src": "I should probably keep my distance from it."
+},
+{
+"si": 681,
+"ei": 4,
+"src": "Let's see. Lets see."
+},
+{
+"si": 681,
+"ei": 5,
+"src": "*bzzzzt"
+},
+{
+"si": 681,
+"ei": 6,
+"src": "Ouch! Ouch!"
+},
+{
+"si": 683,
+"ei": 0,
+"src": "I do work for the Hierarch. The Hierarch."
+},
+{
+"si": 683,
+"ei": 1,
+"src": "We will improve his army. His army."
+},
+{
+"si": 683,
+"ei": 2,
+"src": "The Hierarch is great. Is great."
+},
+{
+"si": 683,
+"ei": 3,
+"src": "It is an honour to meet him. To meet him."
+},
+{
+"si": 683,
+"ei": 4,
+"src": "Sometimes i wonder. I wonder."
+},
+{
+"si": 683,
+"ei": 5,
+"src": "How did I get here? Get here?"
+},
+{
+"si": 683,
+"ei": 6,
+"src": "The Hierarch is kind. Is kind."
+},
+{
+"si": 683,
+"ei": 7,
+"src": "He gave us this place to sleep. Sleep."
+},
+{
+"si": 683,
+"ei": 8,
+"src": "Do you have ingredients for a pain reliever?"
+},
+{
+"si": 683,
+"ei": 9,
+"src": "I'm sorry. Sorry."
+},
+{
+"si": 683,
+"ei": 10,
+"src": "I don't have anything. Have anything."
+},
+{
+"si": 683,
+"ei": 11,
+"src": "Pain reliever? Pain reliever?"
+},
+{
+"si": 683,
+"ei": 12,
+"src": "Who is in pain? Who is?"
+},
+{
+"si": 683,
+"ei": 13,
+"src": "That cyborg failure in the small room."
+},
+{
+"si": 683,
+"ei": 14,
+"src": "Yes. Yes."
+},
+{
+"si": 683,
+"ei": 15,
+"src": "I want to help. Help."
+},
+{
+"si": 683,
+"ei": 16,
+"src": "But I only have glibber. Only glibber."
+},
+{
+"si": 683,
+"ei": 17,
+"src": "That would help a lot, actually."
+},
+{
+"si": 683,
+"ei": 18,
+"src": "Then take it. Take it."
+},
+{
+"si": 685,
+"ei": 0,
+"src": "Where's the key?"
+},
+{
+"si": 687,
+"ei": 1,
+"src": "Nothing."
+},
+{
+"si": 689,
+"ei": 0,
+"src": "Recruit!"
+},
+{
+"si": 689,
+"ei": 1,
+"src": "You have now reached the place, where the strong ones reside."
+},
+{
+"si": 689,
+"ei": 2,
+"src": "This is the place for survivors."
+},
+{
+"si": 689,
+"ei": 3,
+"src": "This is where we plan how to defeat the Machine God."
+},
+{
+"si": 689,
+"ei": 4,
+"src": "This is the place for the strong and the smart."
+},
+{
+"si": 689,
+"ei": 5,
+"src": "And you belong here too, now."
+},
+{
+"si": 691,
+"ei": 0,
+"src": "Welcome to the Mechanical Body Parts Remover Unit."
+},
+{
+"si": 691,
+"ei": 1,
+"src": "How can this unit be of service?"
+},
+{
+"si": 691,
+"ei": 2,
+"src": "What does this unit do, exactly?"
+},
+{
+"si": 691,
+"ei": 3,
+"src": "This unit will help with removing mechanical body parts."
+},
+{
+"si": 691,
+"ei": 4,
+"src": "Beginning examination..."
+},
+{
+"si": 691,
+"ei": 5,
+"src": "No mechanical body parts detected."
+},
+{
+"si": 691,
+"ei": 6,
+"src": "Mechanical weapon part detected."
+},
+{
+"si": 691,
+"ei": 7,
+"src": "Do you want to remove the mechanical part?"
+},
+{
+"si": 691,
+"ei": 8,
+"src": "No, don't remove it."
+},
+{
+"si": 691,
+"ei": 9,
+"src": "Yes, please remove this weapon."
+},
+{
+"si": 691,
+"ei": 10,
+"src": "Beginning procedure..."
+},
+{
+"si": 693,
+"ei": 0,
+"src": "You look strong. Very strong."
+},
+{
+"si": 693,
+"ei": 1,
+"src": "Will you help me? Help?"
+},
+{
+"si": 693,
+"ei": 2,
+"src": "It's urgent. Urgent."
+},
+{
+"si": 693,
+"ei": 3,
+"src": "Give it up."
+},
+{
+"si": 693,
+"ei": 4,
+"src": "Your friend wont return anymore."
+},
+{
+"si": 693,
+"ei": 5,
+"src": "Liar! Liar!"
+},
+{
+"si": 693,
+"ei": 6,
+"src": "I know she is still in there. In there."
+},
+{
+"si": 693,
+"ei": 7,
+"src": "Waiting for somebody to rescue her. Rescue her."
+},
+{
+"si": 693,
+"ei": 8,
+"src": "How are you doing?"
+},
+{
+"si": 693,
+"ei": 9,
+"src": "Great. Great."
+},
+{
+"si": 693,
+"ei": 10,
+"src": "And since I'm not alone anymore, time passes faster. Pass faster."
+},
+{
+"si": 693,
+"ei": 11,
+"src": "But, could you go in the tower for me? For me?"
+},
+{
+"si": 693,
+"ei": 12,
+"src": "My friend is still in there. Still there."
+},
+{
+"si": 693,
+"ei": 13,
+"src": "And I'm worried. Worried."
+},
+{
+"si": 693,
+"ei": 14,
+"src": "Why are you talking like this?"
+},
+{
+"si": 693,
+"ei": 15,
+"src": "What do you mean? You mean?"
+},
+{
+"si": 693,
+"ei": 16,
+"src": "Always repeating words. Again and again."
+},
+{
+"si": 693,
+"ei": 17,
+"src": "I am talking normally. Normally."
+},
+{
+"si": 693,
+"ei": 18,
+"src": "But enough about me. About me."
+},
+{
+"si": 693,
+"ei": 19,
+"src": "I need help. Help me."
+},
+{
+"si": 693,
+"ei": 20,
+"src": "I am already helping."
+},
+{
+"si": 693,
+"ei": 21,
+"src": "You look strong. Very strong."
+},
+{
+"si": 693,
+"ei": 22,
+"src": "Please help. Help me."
+},
+{
+"si": 693,
+"ei": 23,
+"src": "Hey you! You!"
+},
+{
+"si": 693,
+"ei": 24,
+"src": "So, what will you do now?"
+},
+{
+"si": 693,
+"ei": 25,
+"src": "Take care of my friend, of course."
+},
+{
+"si": 693,
+"ei": 26,
+"src": "You have helped me a lot."
+},
+{
+"si": 693,
+"ei": 27,
+"src": "Thanks to you, I could see Noor again."
+},
+{
+"si": 693,
+"ei": 28,
+"src": "Even if she is a bit ... different."
+},
+{
+"si": 695,
+"ei": 0,
+"src": "I found your friend."
+},
+{
+"si": 695,
+"ei": 1,
+"src": "But she's a bit different than you might remember her."
+},
+{
+"si": 695,
+"ei": 2,
+"src": "Hey you! You!"
+},
+{
+"si": 695,
+"ei": 3,
+"src": "You look strong. Very strong."
+},
+{
+"si": 695,
+"ei": 4,
+"src": "Will you help me? Help?"
+},
+{
+"si": 695,
+"ei": 5,
+"src": "It's urgent. Urgent."
+},
+{
+"si": 695,
+"ei": 6,
+"src": "Friend."
+},
+{
+"si": 695,
+"ei": 7,
+"src": "You look strong. Very strong."
+},
+{
+"si": 695,
+"ei": 8,
+"src": "Will you help me? Help?"
+},
+{
+"si": 695,
+"ei": 9,
+"src": "It's urgent. Urgent."
+},
+{
+"si": 695,
+"ei": 10,
+"src": "The fuck is going on here?"
+},
+{
+"si": 695,
+"ei": 11,
+"src": "I'm looking for someone to save my friend. My friend."
+},
+{
+"si": 695,
+"ei": 12,
+"src": "Yeah, you already said that before."
+},
+{
+"si": 695,
+"ei": 13,
+"src": "No, I didn't. I didn't."
+},
+{
+"si": 695,
+"ei": 14,
+"src": "Yes, you did."
+},
+{
+"si": 695,
+"ei": 15,
+"src": "Are you calling me crazy? Me crazy?"
+},
+{
+"si": 695,
+"ei": 16,
+"src": "No."
+},
+{
+"si": 695,
+"ei": 17,
+"src": "I am not crazy. Not crazy."
+},
+{
+"si": 695,
+"ei": 18,
+"src": "Let me proove it to you."
+},
+{
+"si": 695,
+"ei": 19,
+"src": "Yes."
+},
+{
+"si": 695,
+"ei": 20,
+"src": "You're repeating yourself."
+},
+{
+"si": 695,
+"ei": 21,
+"src": "You look strong. Very strong."
+},
+{
+"si": 695,
+"ei": 22,
+"src": "Yeah, you already said that before."
+},
+{
+"si": 695,
+"ei": 23,
+"src": "Will you help me? Help?"
+},
+{
+"si": 695,
+"ei": 24,
+"src": "I already did."
+},
+{
+"si": 695,
+"ei": 25,
+"src": "She is right here."
+},
+{
+"si": 695,
+"ei": 26,
+"src": "She is my friend? Friend?"
+},
+{
+"si": 695,
+"ei": 27,
+"src": "Friend."
+},
+{
+"si": 695,
+"ei": 28,
+"src": "Oh, how wonderful. Wonderful."
+},
+{
+"si": 695,
+"ei": 29,
+"src": "You see my friend has gone into this tower. Tower."
+},
+{
+"si": 695,
+"ei": 30,
+"src": "And she hasn't come out yet. Not yet."
+},
+{
+"si": 695,
+"ei": 31,
+"src": "Will you go in and get her for me? For me?"
+},
+{
+"si": 695,
+"ei": 32,
+"src": "I Friend. Stay together."
+},
+{
+"si": 695,
+"ei": 33,
+"src": "You want to stay with me? Stay with me?"
+},
+{
+"si": 695,
+"ei": 34,
+"src": "Yes. Stay together. Friend."
+},
+{
+"si": 695,
+"ei": 35,
+"src": "Then we can wait here for my friend together. Together."
+},
+{
+"si": 695,
+"ei": 36,
+"src": "And when somebody strong comes, we can send them in to look for her. Look for her."
+},
+{
+"si": 695,
+"ei": 37,
+"src": "Friend."
+},
+{
+"si": 695,
+"ei": 38,
+"src": "Calm down."
+},
+{
+"si": 695,
+"ei": 39,
+"src": "Your friend is right here."
+},
+{
+"si": 695,
+"ei": 40,
+"src": "My friend... is here? Where?"
+},
+{
+"si": 695,
+"ei": 41,
+"src": "Are you blind?"
+},
+{
+"si": 695,
+"ei": 42,
+"src": "She's literally standing just next to you."
+},
+{
+"si": 695,
+"ei": 43,
+"src": "This can't be my friend. Friend."
+},
+{
+"si": 695,
+"ei": 44,
+"src": "My friend is very beautiful. Beautiful."
+},
+{
+"si": 695,
+"ei": 45,
+"src": "She is in the tower, waiting. Waiting."
+},
+{
+"si": 695,
+"ei": 46,
+"src": "You could at least talk to her."
+},
+{
+"si": 695,
+"ei": 47,
+"src": "Ok. Ok."
+},
+{
+"si": 695,
+"ei": 48,
+"src": "So, who are you? Are you?"
+},
+{
+"si": 695,
+"ei": 49,
+"src": "No, that's really your friend."
+},
+{
+"si": 695,
+"ei": 50,
+"src": "Are you really telling the truth? The truth?"
+},
+{
+"si": 695,
+"ei": 51,
+"src": "If this is really her, she must be hurting. Hurting."
+},
+{
+"si": 695,
+"ei": 52,
+"src": "We must release her from the pain. From the pain."
+},
+{
+"si": 695,
+"ei": 53,
+"src": "Yes, look."
+},
+{
+"si": 695,
+"ei": 54,
+"src": "This person is my friend? Friend?"
+},
+{
+"si": 695,
+"ei": 55,
+"src": "Yes."
+},
+{
+"si": 695,
+"ei": 56,
+"src": "I don't understand. Understand."
+},
+{
+"si": 695,
+"ei": 57,
+"src": "Please trust me."
+},
+{
+"si": 695,
+"ei": 58,
+"src": "She clearly recognizes you."
+},
+{
+"si": 695,
+"ei": 59,
+"src": "I don't know her. Don't know."
+},
+{
+"si": 695,
+"ei": 60,
+"src": "If you're not here to help, just leave. Just leave."
+},
+{
+"si": 695,
+"ei": 61,
+"src": "Same goes for you. For you."
+},
+{
+"si": 695,
+"ei": 62,
+"src": "But friend?"
+},
+{
+"si": 695,
+"ei": 63,
+"src": "Just go away. Away."
+},
+{
+"si": 695,
+"ei": 64,
+"src": "The two of you came here together."
+},
+{
+"si": 695,
+"ei": 65,
+"src": "I don't really understand why, but somehow you ended up out here, telling people to climb the tower."
+},
+{
+"si": 695,
+"ei": 66,
+"src": "This doesn't make sense. No sense."
+},
+{
+"si": 695,
+"ei": 67,
+"src": "I am waiting for my friend. My friend."
+},
+{
+"si": 695,
+"ei": 68,
+"src": "She is in the tower. The tower."
+},
+{
+"si": 695,
+"ei": 69,
+"src": "I know it. I know."
+},
+{
+"si": 695,
+"ei": 70,
+"src": "If you don't want to believe me, maybe you'd at least want to befriend this cyborg here?"
+},
+{
+"si": 695,
+"ei": 71,
+"src": "She will be my friend? Friend?"
+},
+{
+"si": 695,
+"ei": 72,
+"src": "No. We good friends before."
+},
+{
+"si": 695,
+"ei": 73,
+"src": "This is for the best of you both."
+},
+{
+"si": 695,
+"ei": 74,
+"src": "Just take good care of each other, will you?"
+},
+{
+"si": 695,
+"ei": 75,
+"src": "You were brainwashed by the Titan."
+},
+{
+"si": 695,
+"ei": 76,
+"src": "Brainwashed? Brainwashed?"
+},
+{
+"si": 695,
+"ei": 77,
+"src": "Yes. He does that to people."
+},
+{
+"si": 695,
+"ei": 78,
+"src": "They all talk in circles. Like you."
+},
+{
+"si": 695,
+"ei": 79,
+"src": "It would also explain, why you don't recognize her."
+},
+{
+"si": 695,
+"ei": 80,
+"src": "I don't understand. Don't understand."
+},
+{
+"si": 695,
+"ei": 81,
+"src": "It makes my head hurt. My head hurts."
+},
+{
+"si": 695,
+"ei": 82,
+"src": "Relax. This doesn't look healthy."
+},
+{
+"si": 695,
+"ei": 83,
+"src": "Just know that this woman here wants to be friends with you."
+},
+{
+"si": 695,
+"ei": 84,
+"src": "Stay strong. You need to remember."
+},
+{
+"si": 695,
+"ei": 85,
+"src": "She's your friend."
+},
+{
+"si": 695,
+"ei": 86,
+"src": "We friends. Came together."
+},
+{
+"si": 695,
+"ei": 87,
+"src": "This hurts. It hurts."
+},
+{
+"si": 695,
+"ei": 88,
+"src": "It hurts. It hurts. It hurts. It hurts. It hurts. It hurts. It hurts. It hurts. It hurts. It huuuurts."
+},
+{
+"si": 695,
+"ei": 89,
+"src": "Aaaarrrrgh."
+},
+{
+"si": 695,
+"ei": 90,
+"src": "Oh my goodness."
+},
+{
+"si": 695,
+"ei": 91,
+"src": "Are you Noor?"
+},
+{
+"si": 695,
+"ei": 92,
+"src": "We wanted to go to the tower."
+},
+{
+"si": 695,
+"ei": 93,
+"src": "What the fuck happened to you?"
+},
+{
+"si": 695,
+"ei": 94,
+"src": "Come here. Let me take care of you."
+},
+{
+"si": 695,
+"ei": 95,
+"src": "Remember. You two climbed the tower together."
+},
+{
+"si": 695,
+"ei": 96,
+"src": "There's a Titan there, who turned her into this."
+},
+{
+"si": 695,
+"ei": 97,
+"src": "And he sent you out, to lure in more people for him."
+},
+{
+"si": 695,
+"ei": 98,
+"src": "I'm luring people? Luring?"
+},
+{
+"si": 695,
+"ei": 99,
+"src": "This... hurts. My head hurts."
+},
+{
+"si": 697,
+"ei": 0,
+"src": "Your friend is dead."
+},
+{
+"si": 697,
+"ei": 1,
+"src": "You're silly. Silly."
+},
+{
+"si": 697,
+"ei": 2,
+"src": "She is inside the tower. Waiting. Waiting."
+},
+{
+"si": 699,
+"ei": 0,
+"src": "Why are you talking like this."
+},
+{
+"si": 699,
+"ei": 1,
+"src": "You already asked this. Asked this."
+},
+{
+"si": 699,
+"ei": 2,
+"src": "Why are you repeating yourself?"
+},
+{
+"si": 699,
+"ei": 3,
+"src": "I don't understand. Understand."
+},
+{
+"si": 699,
+"ei": 4,
+"src": "I just need help. Help."
+},
+{
+"si": 699,
+"ei": 5,
+"src": "What's the matter?"
+},
+{
+"si": 699,
+"ei": 6,
+"src": "My friend has gone into this tower here. Tower."
+},
+{
+"si": 699,
+"ei": 7,
+"src": "And she hasn't come back yet. Not back."
+},
+{
+"si": 699,
+"ei": 8,
+"src": "It's been several days now. Days."
+},
+{
+"si": 699,
+"ei": 9,
+"src": "I don't think she's alive anymore."
+},
+{
+"si": 699,
+"ei": 10,
+"src": "What do you mean? Do you mean?"
+},
+{
+"si": 699,
+"ei": 11,
+"src": "I'll just wait for her. Wait for her."
+},
+{
+"si": 699,
+"ei": 12,
+"src": "What is stopping you?"
+},
+{
+"si": 699,
+"ei": 13,
+"src": "I cannot tell. Cannot."
+},
+{
+"si": 699,
+"ei": 14,
+"src": "Please go inside. Go."
+},
+{
+"si": 699,
+"ei": 15,
+"src": "Please help me. Help."
+},
+{
+"si": 699,
+"ei": 16,
+"src": "Can't you look for her yourself?"
+},
+{
+"si": 699,
+"ei": 17,
+"src": "What an odd idea. Odd."
+},
+{
+"si": 699,
+"ei": 18,
+"src": "I cannot. Cannot."
+},
+{
+"si": 699,
+"ei": 19,
+"src": "It is stopping me. Stopping."
+},
+{
+"si": 699,
+"ei": 20,
+"src": "Will you help me? Help?"
+},
+{
+"si": 699,
+"ei": 21,
+"src": "Sure, I'll go and check."
+},
+{
+"si": 699,
+"ei": 22,
+"src": "Thank you. You."
+},
+{
+"si": 699,
+"ei": 23,
+"src": "I don't think she's in there anymore."
+},
+{
+"si": 701,
+"ei": 0,
+"src": "Has a woman come by recently?"
+},
+{
+"si": 701,
+"ei": 1,
+"src": "Many have approached since I started spreading the word."
+},
+{
+"si": 701,
+"ei": 2,
+"src": "The person you mean might, or might not, have survived this place."
+},
+{
+"si": 701,
+"ei": 3,
+"src": "If you wish to check, come to the top."
+},
+{
+"si": 701,
+"ei": 4,
+"src": "Who are you?"
+},
+{
+"si": 701,
+"ei": 5,
+"src": "I am the one who has seen the danger."
+},
+{
+"si": 701,
+"ei": 6,
+"src": "I am the one who opposes the machines."
+},
+{
+"si": 701,
+"ei": 7,
+"src": "I am the one who stands on top of the tower."
+},
+{
+"si": 701,
+"ei": 8,
+"src": "Reach me, and all will be answered."
+},
+{
+"si": 701,
+"ei": 9,
+"src": "What's going on here?"
+},
+{
+"si": 701,
+"ei": 10,
+"src": "So the subject does not even know why it is here."
+},
+{
+"si": 701,
+"ei": 11,
+"src": "Worry not."
+},
+{
+"si": 701,
+"ei": 12,
+"src": "If you wish to turn stronger."
+}
+]

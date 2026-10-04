@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+console_*.png
+extracted/
+jp_mod/

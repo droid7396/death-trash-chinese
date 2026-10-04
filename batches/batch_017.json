@@ -1,0 +1,1292 @@
+[
+{
+"si": 427,
+"ei": 29,
+"src": "Painful. Painful. But I don't want to complain too much. Too much."
+},
+{
+"si": 427,
+"ei": 30,
+"src": "And yours? Yours?"
+},
+{
+"si": 427,
+"ei": 31,
+"src": "More than painful. More. Fucking hell, really. Really."
+},
+{
+"si": 427,
+"ei": 32,
+"src": "It's like someone decided to make this a hellhole for me. A hellhole. Raining shit from... Raining..."
+},
+{
+"si": 427,
+"ei": 33,
+"src": "Ah, well, don't want to complain either. Don't want to."
+},
+{
+"si": 427,
+"ei": 34,
+"src": "Welcome! Welcome!"
+},
+{
+"si": 429,
+"ei": 0,
+"src": "PROMPT: Waiting on user request."
+},
+{
+"si": 431,
+"ei": 0,
+"src": "Something else?"
+},
+{
+"si": 431,
+"ei": 1,
+"src": "You want more?"
+},
+{
+"si": 431,
+"ei": 2,
+"src": "You need more?"
+},
+{
+"si": 433,
+"ei": 0,
+"src": "Hmmh. This flesh blocks some kind of entrance."
+},
+{
+"si": 433,
+"ei": 1,
+"src": "[Try communicating with the flesh.]"
+},
+{
+"si": 433,
+"ei": 2,
+"src": "The flesh ignores you."
+},
+{
+"si": 433,
+"ei": 3,
+"src": "The flesh reacts to your presence."
+},
+{
+"si": 433,
+"ei": 4,
+"src": "It awaits a command."
+},
+{
+"si": 433,
+"ei": 5,
+"src": "Let me in."
+},
+{
+"si": 433,
+"ei": 6,
+"src": "Let's take a look then."
+},
+{
+"si": 433,
+"ei": 7,
+"src": "Anyone in there?"
+},
+{
+"si": 433,
+"ei": 8,
+"src": "No answer."
+},
+{
+"si": 435,
+"ei": 0,
+"src": "Lines and symbols of some kind."
+},
+{
+"si": 435,
+"ei": 1,
+"src": "Doesn't make much sense to me though."
+},
+{
+"si": 435,
+"ei": 2,
+"src": "I should probably learn how to read these."
+},
+{
+"si": 435,
+"ei": 3,
+"src": "There's got to be someone out there who knows his way around blueprints and tools."
+},
+{
+"si": 435,
+"ei": 4,
+"src": "The merchant in Tauris told me something about a guy who went west, if I remember correctly."
+},
+{
+"si": 435,
+"ei": 5,
+"src": "Maybe that book I found can help."
+},
+{
+"si": 435,
+"ei": 6,
+"src": "Perhaps I could reuse the materials for something else."
+},
+{
+"si": 435,
+"ei": 7,
+"src": "Would be useful to learn how to break this apart without destroying the materials."
+},
+{
+"si": 437,
+"ei": 0,
+"src": "I'll have to ponder a bit more. Don't mind me, just staring at eternity, haha."
+},
+{
+"si": 437,
+"ei": 1,
+"src": "Isn't this highly interesting?"
+},
+{
+"si": 437,
+"ei": 2,
+"src": "What is?"
+},
+{
+"si": 437,
+"ei": 3,
+"src": "I don't really know where we are. I stumbled through this world and I found this place. Right here."
+},
+{
+"si": 437,
+"ei": 4,
+"src": "I'm thinking: Is this everything here? Is this the end we're staring at? Or eternity? Is this endless?"
+},
+{
+"si": 437,
+"ei": 5,
+"src": "I know we're living in a fractured world, all those nooks and corners, but here, this corner here, this spot, is it the very end of the world, or are we right in the middle of things?"
+},
+{
+"si": 437,
+"ei": 6,
+"src": "I don't fucking care."
+},
+{
+"si": 437,
+"ei": 7,
+"src": "How rude."
+},
+{
+"si": 437,
+"ei": 8,
+"src": "I don't know."
+},
+{
+"si": 437,
+"ei": 9,
+"src": "Yeah. I'm not sure either."
+},
+{
+"si": 437,
+"ei": 10,
+"src": "Hmmh. Thank you for your perspective."
+},
+{
+"si": 437,
+"ei": 11,
+"src": "It's not the end."
+},
+{
+"si": 437,
+"ei": 12,
+"src": "Why?"
+},
+{
+"si": 437,
+"ei": 13,
+"src": "We are on a journey. And that journey hasn't ended yet."
+},
+{
+"si": 437,
+"ei": 14,
+"src": "There will be more ahead. More corners."
+},
+{
+"si": 437,
+"ei": 15,
+"src": "Therefore, we're not at the end."
+},
+{
+"si": 437,
+"ei": 16,
+"src": "It feels like an end."
+},
+{
+"si": 437,
+"ei": 17,
+"src": "You think so?"
+},
+{
+"si": 437,
+"ei": 18,
+"src": "Yes. It doesn't go much further here. We're at one end of the world."
+},
+{
+"si": 437,
+"ei": 19,
+"src": "One of the farthest corners."
+},
+{
+"si": 439,
+"ei": 0,
+"src": "Wait!"
+},
+{
+"si": 439,
+"ei": 1,
+"src": "Friend."
+},
+{
+"si": 441,
+"ei": 0,
+"src": "This looks like I could get down here if I had something that would help me climb up again, too."
+},
+{
+"si": 441,
+"ei": 1,
+"src": "[Use rope.]"
+},
+{
+"si": 441,
+"ei": 2,
+"src": "Nice."
+},
+{
+"si": 443,
+"ei": 0,
+"src": "Reading and searching."
+},
+{
+"si": 443,
+"ei": 1,
+"src": "Can you show me one of the rules of the Oracle?"
+},
+{
+"si": 443,
+"ei": 2,
+"src": "No read."
+},
+{
+"si": 443,
+"ei": 3,
+"src": "Flesh?"
+},
+{
+"si": 443,
+"ei": 4,
+"src": "Read!"
+},
+{
+"si": 443,
+"ei": 5,
+"src": "Thank you."
+},
+{
+"si": 443,
+"ei": 6,
+"src": "What are you reading?"
+},
+{
+"si": 443,
+"ei": 7,
+"src": "Scrolls of Oracle. Truth."
+},
+{
+"si": 443,
+"ei": 8,
+"src": "Wisdom. Flesh. Not flesh. All not flesh."
+},
+{
+"si": 443,
+"ei": 9,
+"src": "But flesh."
+},
+{
+"si": 443,
+"ei": 10,
+"src": "And not flesh."
+},
+{
+"si": 443,
+"ei": 11,
+"src": "Ok. That's a lot. Flesh and not flesh."
+},
+{
+"si": 443,
+"ei": 12,
+"src": "Why flesh and not flesh?"
+},
+{
+"si": 443,
+"ei": 13,
+"src": "Honestly? I don't know."
+},
+{
+"si": 443,
+"ei": 14,
+"src": "Trapped."
+},
+{
+"si": 443,
+"ei": 15,
+"src": "Fate."
+},
+{
+"si": 445,
+"ei": 0,
+"src": "Tread lightly here, stranger. I'll kill you if you try to cross me."
+},
+{
+"si": 445,
+"ei": 1,
+"src": "I am the strongest here, actually."
+},
+{
+"si": 445,
+"ei": 2,
+"src": "Hahaha. You don't say! You want a chance to prove it?"
+},
+{
+"si": 445,
+"ei": 3,
+"src": "Hmmh. Maybe not."
+},
+{
+"si": 445,
+"ei": 4,
+"src": "Hah! I knew you would back off."
+},
+{
+"si": 445,
+"ei": 5,
+"src": "So, what else?"
+},
+{
+"si": 445,
+"ei": 6,
+"src": "Yes."
+},
+{
+"si": 445,
+"ei": 7,
+"src": "Ohhh, this is gonna be glorious!"
+},
+{
+"si": 445,
+"ei": 8,
+"src": "TO DEATH!"
+},
+{
+"si": 445,
+"ei": 9,
+"src": "I don't want to fight you."
+},
+{
+"si": 445,
+"ei": 10,
+"src": "Then don't. Leave this place."
+},
+{
+"si": 445,
+"ei": 11,
+"src": "That mutant over there..."
+},
+{
+"si": 445,
+"ei": 12,
+"src": "What about him? He's weak."
+},
+{
+"si": 445,
+"ei": 13,
+"src": "Never mind."
+},
+{
+"si": 445,
+"ei": 14,
+"src": "That's what he said about you, too."
+},
+{
+"si": 445,
+"ei": 15,
+"src": "WHAT?! That pompous flesh scribe? I can easily stomp that guy into the ground."
+},
+{
+"si": 445,
+"ei": 16,
+"src": "I don't know. He looked pretty strong."
+},
+{
+"si": 445,
+"ei": 17,
+"src": "Pah! I'm gonna show you who's the strongest."
+},
+{
+"si": 445,
+"ei": 18,
+"src": "You are ready to fight for your place here?"
+},
+{
+"si": 445,
+"ei": 19,
+"src": "Yes. This place here. I don't know what this place is, but it's a place. And I can fight for it."
+},
+{
+"si": 445,
+"ei": 20,
+"src": "Fighting is good. Keeps me strong."
+},
+{
+"si": 445,
+"ei": 21,
+"src": "Hey! You!"
+},
+{
+"si": 445,
+"ei": 22,
+"src": "This is the survival of the strongest. Are you here to challenge me?"
+},
+{
+"si": 445,
+"ei": 23,
+"src": "It's best if you leave now if you don't want to get your head bashed in. I am ready to fight for my place here."
+},
+{
+"si": 447,
+"ei": 0,
+"src": "Ahh."
+},
+{
+"si": 447,
+"ei": 1,
+"src": "Ouch!"
+},
+{
+"si": 447,
+"ei": 2,
+"src": "Ohh."
+},
+{
+"si": 447,
+"ei": 3,
+"src": "Ouch!"
+},
+{
+"si": 449,
+"ei": 0,
+"src": "Your Omniwomb Trip has ended. You died.||||Gameplay time: "
+},
+{
+"si": 451,
+"ei": 0,
+"src": "Nexus has consumed your body and soul.||||Gameplay time: "
+},
+{
+"si": 453,
+"ei": 0,
+"src": "Stop it right there, you unholy Godhunter!"
+},
+{
+"si": 455,
+"ei": 0,
+"src": "I won't let you have the Titans Guts!"
+},
+{
+"si": 455,
+"ei": 1,
+"src": "I'm coming for the guts."
+},
+{
+"si": 455,
+"ei": 2,
+"src": "Never!"
+},
+{
+"si": 455,
+"ei": 3,
+"src": "I'm not a Godhunter."
+},
+{
+"si": 455,
+"ei": 4,
+"src": "I just want a sigil."
+},
+{
+"si": 455,
+"ei": 5,
+"src": "Nice try, but I'm not falling for that."
+},
+{
+"si": 455,
+"ei": 6,
+"src": "I've got rations for months to come."
+},
+{
+"si": 455,
+"ei": 8,
+"src": "Ew. That's barely even food."
+},
+{
+"si": 457,
+"ei": 0,
+"src": "Initiating data terminal..."
+},
+{
+"si": 457,
+"ei": 1,
+"src": "One recording available."
+},
+{
+"si": 457,
+"ei": 2,
+"src": "Command?"
+},
+{
+"si": 457,
+"ei": 3,
+"src": "Give me the details of that recording."
+},
+{
+"si": 457,
+"ei": 4,
+"src": "Recording of habitant death available."
+},
+{
+"si": 457,
+"ei": 5,
+"src": "Extract to data container?"
+},
+{
+"si": 457,
+"ei": 6,
+"src": "No."
+},
+{
+"si": 457,
+"ei": 7,
+"src": "Yes."
+},
+{
+"si": 457,
+"ei": 8,
+"src": "Data container processed."
+},
+{
+"si": 457,
+"ei": 9,
+"src": "Thanks."
+},
+{
+"si": 457,
+"ei": 10,
+"src": "Error. Recording has been processed. No further data recorders available."
+},
+{
+"si": 459,
+"ei": 0,
+"src": "Hey, what was that thing you needed?"
+},
+{
+"si": 459,
+"ei": 1,
+"src": "Hey, what did you want me to do?"
+},
+{
+"si": 459,
+"ei": 2,
+"src": "What was I supposed to do again?"
+},
+{
+"si": 461,
+"ei": 0,
+"src": "In need of my services?"
+},
+{
+"si": 461,
+"ei": 1,
+"src": "Can you teach me anything?"
+},
+{
+"si": 461,
+"ei": 2,
+"src": "Well. I know a thing or two about fixing things and breaking things."
+},
+{
+"si": 461,
+"ei": 3,
+"src": "Actually had a handy guide about some basics. But sold it to a guy that was heading west."
+},
+{
+"si": 461,
+"ei": 4,
+"src": "Anything else?"
+},
+{
+"si": 461,
+"ei": 5,
+"src": "Is it this one?"
+},
+{
+"si": 461,
+"ei": 6,
+"src": "Oh. It is. ... What happened to the guy?"
+},
+{
+"si": 461,
+"ei": 7,
+"src": "Found him dead."
+},
+{
+"si": 461,
+"ei": 8,
+"src": "Ah, Ok. I guess it's yours now. You should read it."
+},
+{
+"si": 461,
+"ei": 9,
+"src": "Show me your services."
+},
+{
+"si": 461,
+"ei": 10,
+"src": "Alright. I can give you another face. Or retrain your brain patterns."
+},
+{
+"si": 461,
+"ei": 11,
+"src": "Are you selling any special equipment?"
+},
+{
+"si": 461,
+"ei": 12,
+"src": "Well, I'm selling some implants and bits."
+},
+{
+"si": 461,
+"ei": 13,
+"src": "You can take a look at them in my shop."
+},
+{
+"si": 461,
+"ei": 14,
+"src": "Aha.."
+},
+{
+"si": 461,
+"ei": 15,
+"src": "I was looking for something more.... punchy."
+},
+{
+"si": 461,
+"ei": 16,
+"src": "Punchy? You might wanna have a look at this machine over there."
+},
+{
+"si": 461,
+"ei": 17,
+"src": "Thanks, I guess?"
+},
+{
+"si": 461,
+"ei": 18,
+"src": "Come on.... Is that all?"
+},
+{
+"si": 461,
+"ei": 19,
+"src": "Stop nagging me about this. I gave you my flyer already."
+},
+{
+"si": 461,
+"ei": 20,
+"src": "Ok stranger, if you are really looking for the hot stuff, take a look at this."
+},
+{
+"si": 461,
+"ei": 21,
+"src": "Ugh, advertising...."
+},
+{
+"si": 461,
+"ei": 22,
+"src": "What is this machine next to you?"
+},
+{
+"si": 461,
+"ei": 23,
+"src": "It's a Machine Merchant. Fine thing, right? The Collectors installed it."
+},
+{
+"si": 461,
+"ei": 24,
+"src": "Alright."
+},
+{
+"si": 461,
+"ei": 25,
+"src": "What if someone attacks it?"
+},
+{
+"si": 461,
+"ei": 26,
+"src": "People have tried. But the machine cannot be destroyed, it seems."
+},
+{
+"si": 461,
+"ei": 27,
+"src": "I would bet the machine also records any attempts."
+},
+{
+"si": 461,
+"ei": 28,
+"src": "Don't try anything stupid. I wouldn't want to get on the bad side of the Collectors, haha."
+},
+{
+"si": 461,
+"ei": 29,
+"src": "The Collectors?"
+},
+{
+"si": 461,
+"ei": 30,
+"src": "Bunch of traders. Looking for rare scrap, but interested in all kind of goods, really."
+},
+{
+"si": 461,
+"ei": 31,
+"src": "Never heard of them? Where are you from?"
+},
+{
+"si": 461,
+"ei": 32,
+"src": "Does it really matter?"
+},
+{
+"si": 461,
+"ei": 33,
+"src": "No. I was just curious."
+},
+{
+"si": 461,
+"ei": 34,
+"src": "Anyways... Something else you wanted?"
+},
+{
+"si": 461,
+"ei": 35,
+"src": "Expelled from society."
+},
+{
+"si": 461,
+"ei": 36,
+"src": "Well. Aren't we all? Some of us have been here for a while, though."
+},
+{
+"si": 461,
+"ei": 37,
+"src": "How long?"
+},
+{
+"si": 461,
+"ei": 38,
+"src": "Decades. The place itself has been for way longer."
+},
+{
+"si": 461,
+"ei": 39,
+"src": "[Point westward.]"
+},
+{
+"si": 461,
+"ei": 40,
+"src": "Huh. It's been a while since someone came from there."
+},
+{
+"si": 463,
+"ei": 0,
+"src": "*rumble*"
+},
+{
+"si": 463,
+"ei": 1,
+"src": "The Titan inspects you."
+},
+{
+"si": 463,
+"ei": 2,
+"src": "But you do not hear any words."
+},
+{
+"si": 463,
+"ei": 3,
+"src": "Welcome back, child."
+},
+{
+"si": 463,
+"ei": 4,
+"src": "Well, I should better continue with my travels."
+},
+{
+"si": 463,
+"ei": 5,
+"src": "Trinity Mistress of Fornication?"
+},
+{
+"si": 463,
+"ei": 6,
+"src": "That title was easy to get, really. Played well to my personal strengths."
+},
+{
+"si": 463,
+"ei": 7,
+"src": "So how do you..."
+},
+{
+"si": 463,
+"ei": 8,
+"src": "Ah, subject, that's an easy ploy to detect."
+},
+{
+"si": 463,
+"ei": 9,
+"src": "You're trying to make me all fuzzy by talking about fornication, only to get into my bed and then brag a lifetime long how you humped mighty Queen Margas."
+},
+{
+"si": 463,
+"ei": 10,
+"src": "That won't do. Can't have sex with everyone who wanders by."
+},
+{
+"si": 463,
+"ei": 11,
+"src": "At least not today."
+},
+{
+"si": 463,
+"ei": 12,
+"src": "Do you have a king?"
+},
+{
+"si": 463,
+"ei": 13,
+"src": "Oh, had lots of them. But they were all crushed by the royal libido."
+},
+{
+"si": 463,
+"ei": 14,
+"src": "Crushed? By your libido?"
+},
+{
+"si": 463,
+"ei": 15,
+"src": "Child, it's not proper to talk about the royal weight."
+},
+{
+"si": 463,
+"ei": 16,
+"src": "Ahh, another mortal seeking the attention of the queen."
+},
+{
+"si": 463,
+"ei": 17,
+"src": "But I feel a little indisposed today."
+},
+{
+"si": 463,
+"ei": 18,
+"src": "Maybe the subject can return on another day."
+},
+{
+"si": 463,
+"ei": 19,
+"src": "Another day won't do."
+},
+{
+"si": 463,
+"ei": 20,
+"src": "What? It talks back?"
+},
+{
+"si": 463,
+"ei": 21,
+"src": "Well then, I'm known to be generous. And this might even give us some entertainment."
+},
+{
+"si": 463,
+"ei": 22,
+"src": "Ahem. Welcome, subject. What is its name and what does it want?"
+},
+{
+"si": 463,
+"ei": 23,
+"src": "**forename**. And I'm just curious who you are."
+},
+{
+"si": 463,
+"ei": 24,
+"src": "**forename**. Well, can't expect a more elaborate name of a mortal, right?"
+},
+{
+"si": 463,
+"ei": 25,
+"src": "I am the Enlightened Queen Margas, Guardian of the Netherrealm, Protector of Shebzu, Trinity Mistress of Fornication."
+},
+{
+"si": 465,
+"ei": 0,
+"src": "Somebody seems to be using this as a fireplace."
+},
+{
+"si": 465,
+"ei": 1,
+"src": "I could cook some meat here."
+},
+{
+"si": 465,
+"ei": 2,
+"src": "If I had any."
+},
+{
+"si": 465,
+"ei": 3,
+"src": "[Cook meat.]"
+},
+{
+"si": 465,
+"ei": 4,
+"src": "That smell..."
+},
+{
+"si": 465,
+"ei": 5,
+"src": "Are you cooking any meat?"
+},
+{
+"si": 465,
+"ei": 6,
+"src": "Oh, wow. The Titans must have sent you. They heard my prayers."
+},
+{
+"si": 465,
+"ei": 7,
+"src": "I'm coming."
+},
+{
+"si": 465,
+"ei": 8,
+"src": "Hand me that meat!"
+},
+{
+"si": 465,
+"ei": 10,
+"src": "By the Titans, this is marvellous."
+},
+{
+"si": 465,
+"ei": 11,
+"src": "I'd give you a sigil for what you've done."
+},
+{
+"si": 465,
+"ei": 12,
+"src": "But somehow I don't have any right now."
+},
+{
+"si": 465,
+"ei": 13,
+"src": "Those Godhunters must have stolen my stash."
+},
+{
+"si": 465,
+"ei": 14,
+"src": "You can get another sigil from the priest at Titan's Heart, near the foot of the mountains to the north."
+},
+{
+"si": 465,
+"ei": 15,
+"src": "Please accept this. You've earned it, haha."
+},
+{
+"si": 465,
+"ei": 16,
+"src": "That smell..."
+},
+{
+"si": 465,
+"ei": 17,
+"src": "Are you cooking any meat?"
+},
+{
+"si": 465,
+"ei": 18,
+"src": "Oh, wow. The Titans must have sent you. They heard my prayers."
+},
+{
+"si": 465,
+"ei": 19,
+"src": "I'm coming."
+},
+{
+"si": 467,
+"ei": 0,
+"src": "This is a holy place."
+},
+{
+"si": 467,
+"ei": 1,
+"src": "The shrine to the guts of a Flesh Titan."
+},
+{
+"si": 467,
+"ei": 2,
+"src": "If you wish to become a pilgrim of the Titans, please talk to the High Priest in New Delphi."
+},
+{
+"si": 467,
+"ei": 3,
+"src": "It appears that the Titans have indeed blessed you."
+},
+{
+"si": 467,
+"ei": 4,
+"src": "Be careful."
+},
+{
+"si": 467,
+"ei": 5,
+"src": "Godhunters have been sneaking around a lot lately."
+},
+{
+"si": 467,
+"ei": 6,
+"src": "Godhunters?"
+},
+{
+"si": 467,
+"ei": 7,
+"src": "Faithless people, who have decided to conquer our gods."
+},
+{
+"si": 467,
+"ei": 8,
+"src": "They are trying to kill the Titans."
+},
+{
+"si": 467,
+"ei": 9,
+"src": "Can you imagine?"
+},
+{
+"si": 467,
+"ei": 10,
+"src": "About the sigils."
+},
+{
+"si": 467,
+"ei": 11,
+"src": "You can get another sigil from the priest at Titan's Heart, near the foot of the mountains to the north."
+},
+{
+"si": 467,
+"ei": 12,
+"src": "I can feel the spiritual energy coming from you."
+},
+{
+"si": 467,
+"ei": 13,
+"src": "If you have them all, you should go and talk to the High Priest in New Delphi."
+},
+{
+"si": 467,
+"ei": 14,
+"src": "Where was that smell coming from?"
+},
+{
+"si": 467,
+"ei": 15,
+"src": "I don't want any more of these rations."
+},
+{
+"si": 467,
+"ei": 16,
+"src": "What are you doing?"
+},
+{
+"si": 467,
+"ei": 17,
+"src": "Now the godhunters can just enter."
+},
+{
+"si": 469,
+"ei": 0,
+"src": "This is a holy place."
+},
+{
+"si": 469,
+"ei": 1,
+"src": "The shrine to a Titan's head."
+},
+{
+"si": 469,
+"ei": 2,
+"src": "If you wish to become a pilgrim of the Titans, please talk to the High Priest in New Delphi."
+},
+{
+"si": 469,
+"ei": 3,
+"src": "Answer me this:"
+},
+{
+"si": 469,
+"ei": 4,
+"src": "Who is your master?"
+},
+{
+"si": 469,
+"ei": 5,
+"src": "Every Titan..."
+},
+{
+"si": 469,
+"ei": 6,
+"src": "...that covers itself with blood..."
+},
+{
+"si": 469,
+"ei": 7,
+"src": "...and loves to play with toys."
+},
+{
+"si": 469,
+"ei": 8,
+"src": "Or so I say."
+},
+{
+"si": 469,
+"ei": 9,
+"src": "That is wrong."
+},
+{
+"si": 469,
+"ei": 10,
+"src": "Incredible."
+},
+{
+"si": 469,
+"ei": 11,
+"src": "You have proven the depth of your belief in the Titans to me."
+},
+{
+"si": 469,
+"ei": 12,
+"src": "Take this sigil as a sign of my approval, and go east, to the Titans Guts."
+},
+{
+"si": 469,
+"ei": 13,
+"src": "May the Titans bless you."
+},
+{
+"si": 469,
+"ei": 14,
+"src": "Though other gods are also acceptable."
+},
+{
+"si": 469,
+"ei": 15,
+"src": "Blessed be."
+},
+{
+"si": 469,
+"ei": 16,
+"src": "I kill in its name only."
+},
+{
+"si": 469,
+"ei": 17,
+"src": "...and provides infinitive wisdom through his sheer existence."
+},
+{
+"si": 469,
+"ei": 18,
+"src": "...and feeds me Fleshworms when I'm hungry."
+},
+{
+"si": 469,
+"ei": 19,
+"src": "...and kills my enemies for me."
+},
+{
+"si": 469,
+"ei": 20,
+"src": "...that lives in trees..."
+},
+{
+"si": 469,
+"ei": 21,
+"src": "...that inhabits the planet..."
+},
+{
+"si": 469,
+"ei": 22,
+"src": "...that lazes around on a sunny day..."
+},
+{
+"si": 469,
+"ei": 23,
+"src": "The Society..."
+},
+{
+"si": 469,
+"ei": 24,
+"src": "The Machines..."
+},
+{
+"si": 469,
+"ei": 25,
+"src": "Nobody..."
+},
+{
+"si": 469,
+"ei": 26,
+"src": "The High Priest has sent me."
+},
+{
+"si": 469,
+"ei": 27,
+"src": "You're supposed to give me a sigil?"
+},
+{
+"si": 469,
+"ei": 28,
+"src": "A pilgrim on a quest for true devotion."
+},
+{
+"si": 469,
+"ei": 29,
+"src": "Yes, I do have a sigil for you."
+},
+{
+"si": 469,
+"ei": 30,
+"src": "But you need to earn it."
+},
+{
+"si": 469,
+"ei": 31,
+"src": "I usually give out sigils to the pilgrims who prove their devotion to the Titans here."
+},
+{
+"si": 469,
+"ei": 32,
+"src": "But it appears I have run out of sigils."
+}
+]
